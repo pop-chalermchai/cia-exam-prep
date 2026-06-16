@@ -339,7 +339,7 @@ def main():
     # 6. Translate in batches of 15 questions
     print_banner("STEP 4: RUNNING TRANSLATION")
     model = genai.GenerativeModel(
-        model_name="gemini-2.5-flash",
+        model_name="gemini-2.0-flash",
         generation_config={"response_mime_type": "application/json"}
     )
     
@@ -373,7 +373,7 @@ def main():
                 json.dump(merged_questions, f, ensure_ascii=False, indent=2)
                 
             print(f"Batch {idx + 1} saved successfully. Total translated so far: {len(merged_questions)}/{total_parsed}")
-            time.sleep(2) # Slight rate limit safety buffer
+            time.sleep(6) # Rate limit safety buffer for free tier (10 RPM)
         else:
             print(f"Failed to translate batch {idx + 1}. Saving current progress and pausing...")
             # Still save what we have

@@ -943,5 +943,656 @@
       "I, II และ III"
     ],
     "explanation_th": "ผู้ตรวจสอบภายในต้องใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพในระหว่างงานบริการให้คำปรึกษา โดยพิจารณาถึง (1) ความต้องการและความคาดหวังของลูกค้า รวมถึงลักษณะ ระยะเวลา และการสื่อสารผลการปฏิบัติงานตรวจสอบ (2) ความซับซ้อนเชิงเปรียบเทียบและขอบเขตของงานที่จำเป็นเพื่อให้บรรลุวัตถุประสงค์ของงานบริการ และ (3) ต้นทุนของงานบริการให้คำปรึกษาเทียบกับประโยชน์ที่อาจได้รับ (มาตรฐาน 1220.C1) ประโยชน์ใดๆ ที่เกี่ยวข้องกับค่าตอบแทนสำหรับงานบริการไม่ใช่หนึ่งในการพิจารณาของผู้ตรวจสอบภายในที่ใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ ตัวเลือก (D) ไม่ถูกต้อง ประโยชน์ในรูปของค่าตอบแทนที่จะได้รับจากงานบริการไม่เกี่ยวข้องกับผู้ตรวจสอบภายใน"
+  },
+  {
+    "id": 46,
+    "original_num": 46,
+    "question_en": "Communication skills are important to internal auditors. They should be able to convey effectively all of the following to engagement clients except",
+    "question_th": "ทักษะการสื่อสารมีความสำคัญต่อผู้ตรวจสอบภายใน ข้อใดต่อไปนี้เป็นสิ่งที่ผู้ตรวจสอบภายในควรสื่อสารไปยังหน่วยรับตรวจได้อย่างมีประสิทธิภาพ ยกเว้นข้อใด",
+    "options_en": [
+      "The objectives designed for a specific engagement.",
+      "The engagement evaluations based on a survey.",
+      "The risk assessment used in selecting the area for investigation.",
+      "Recommendations that are generated in relationship to a specific engagement client."
+    ],
+    "options_th": [
+      "วัตถุประสงค์ที่กำหนดขึ้นสำหรับงานปฏิบัติงานตรวจสอบเฉพาะอย่าง",
+      "การประเมินผลการปฏิบัติงานตรวจสอบตามผลสำรวจ",
+      "การประเมินความเสี่ยงที่ใช้ในการเลือกพื้นที่สำหรับการตรวจสอบเชิงลึก",
+      "ข้อเสนอแนะที่เกิดขึ้นเกี่ยวกับหน่วยรับตรวจเฉพาะราย"
+    ],
+    "answer_index": 2,
+    "explanation_en": "Internal auditors must be skilled in oral and written communications so that they can clearly and effectively convey such matters as engagement objectives, evaluations, conclusions, and recommendations (PA 1210-1). However, the risk assessment is not necessarily a matter that must be communicated.",
+    "explanation_th": "ผู้ตรวจสอบภายในต้องมีทักษะในการสื่อสารทั้งการพูดและการเขียนเพื่อให้สามารถถ่ายทอดเรื่องต่างๆ เช่น วัตถุประสงค์ของการปฏิบัติงาน การประเมินผล ข้อสรุป และข้อเสนอแนะได้อย่างชัดเจนและมีประสิทธิภาพ (PA 1210-1) อย่างไรก็ตาม การประเมินความเสี่ยงไม่จำเป็นต้องสื่อสารเสมอไป"
+  },
+  {
+    "id": 48,
+    "original_num": 48,
+    "question_en": "The Standards require that internal auditors possess which of the following skills? Internal auditors should understand human relations and be skilled in dealing with people I. Internal auditors should be able to recognize and evaluate the materiality and significance of deviations from good business practices II. Internal auditors should be experts on subjects such as economics, commercial law, taxation, finance, and information technology III. Internal auditors should be skilled in oral and written communication IV.",
+    "question_th": "มาตรฐานกำหนดให้ผู้ตรวจสอบภายในต้องมีทักษะข้อใดต่อไปนี้? I. ผู้ตรวจสอบภายในควรเข้าใจความสัมพันธ์ของมนุษย์และมีทักษะในการติดต่อกับบุคคล II. ผู้ตรวจสอบภายในควรสามารถระบุและประเมินความมีสาระสำคัญและความสำคัญของการเบี่ยงเบนไปจากแนวทางปฏิบัติทางธุรกิจที่ดี III. ผู้ตรวจสอบภายในควรเป็นผู้เชี่ยวชาญในวิชาต่างๆ เช่น เศรษฐศาสตร์ กฎหมายพาณิชย์ ภาษีอากร การเงิน และเทคโนโลยีสารสนเทศ IV. ผู้ตรวจสอบภายในควรมีทักษะในการสื่อสารด้วยการพูดและการเขียน",
+    "options_en": [
+      "II only.",
+      "I and III only.",
+      "III and IV only.",
+      "I, II, and IV only."
+    ],
+    "options_th": [
+      "ข้อ II เท่านั้น",
+      "ข้อ I และ III เท่านั้น",
+      "ข้อ III และ IV เท่านั้น",
+      "ข้อ I, II และ IV เท่านั้น"
+    ],
+    "answer_index": 3,
+    "explanation_en": "Skills required by the Standards for internal auditors include: Skills in dealing with people, understanding human relations, and maintaining satisfactory relationships with engagement clients; Skills in oral and written communications to clearly and effectively convey such matters; An understanding of management principles to recognize and evaluate deviations; An appreciation (not expertise) of business subjects like accounting, economics, etc. (PA 1210-1).",
+    "explanation_th": "ทักษะที่กำหนดโดยมาตรฐานสำหรับผู้ตรวจสอบภายใน ได้แก่: ทักษะในการติดต่อกับบุคคล เข้าใจมนุษยสัมพันธ์ และรักษาความสัมพันธ์อันดีกับหน่วยรับตรวจ; ทักษะในการสื่อสารเพื่อถ่ายทอดวัตถุประสงค์ได้อย่างชัดเจน; ความเข้าใจในหลักการจัดการเพื่อประเมินความเบี่ยงเบน; ความซาบซึ้งหรือตระหนักรู้ (ไม่ใช่ความเชี่ยวชาญขั้นสุดยอด) ในความรู้พื้นฐานทางธุรกิจ เช่น การบัญชี เศรษฐศาสตร์ การเงิน (PA 1210-1)"
+  },
+  {
+    "id": 51,
+    "original_num": 51,
+    "question_en": "When hiring entry-level internal auditing staff, which of the following will most likely predict the applicant’s success as an internal auditor?",
+    "question_th": "ในการจ้างพนักงานตรวจสอบภายในระดับเริ่มต้น ข้อใดต่อไปนี้มีแนวโน้มที่จะทำนายความสำเร็จของผู้สมัครในฐานะผู้ตรวจสอบภายในได้ดีที่สุด",
+    "options_en": [
+      "Grade point average on college accounting courses.",
+      "Ability to fit well socially into a group.",
+      "Ability to organize and express thoughts well.",
+      "Level of detailed knowledge of the organization."
+    ],
+    "options_th": [
+      "เกรดเฉลี่ยสะสมในรายวิชาการบัญชีระดับวิทยาลัย",
+      "ความสามารถในการปรับตัวเข้ากับกลุ่มสังคมได้ดี",
+      "ความสามารถในการจัดระบบความคิดและถ่ายทอดความคิดได้ดี",
+      "ระดับความรู้โดยละเอียดเกี่ยวกับองค์กร"
+    ],
+    "answer_index": 2,
+    "explanation_en": "Internal auditors must have skills in oral and written communications to clearly and effectively convey such matters as engagement objectives, evaluations, conclusions, and recommendations (PA 1210-1).",
+    "explanation_th": "ผู้ตรวจสอบภายในต้องมีทักษะในการสื่อสารทั้งการพูดและการเขียน เพื่อถ่ายทอดเรื่องต่างๆ เช่น วัตถุประสงค์ของงานตรวจสอบ การประเมินผล ข้อสรุป และข้อเสนอแนะได้อย่างชัดเจนและมีประสิทธิภาพ (PA 1210-1)"
+  },
+  {
+    "id": 53,
+    "original_num": 53,
+    "question_en": "Internal auditors must possess the knowledge, skills, and other competencies essential to the performance of their individual responsibilities. Consequently, all internal auditors should be proficient in applying",
+    "question_th": "ผู้ตรวจสอบภายในต้องมีความรู้ ทักษะ และความสามารถอื่นๆ ที่จำเป็นต่อการปฏิบัติหน้าที่ตามความรับผิดชอบของตน ดังนั้น ผู้ตรวจสอบภายในทุกคนควรมีความเชี่ยวชาญรอบรู้ (Proficient) ในการประยุกต์ใช้ข้อใด",
+    "options_en": [
+      "Internal auditing standards.",
+      "Quantitative methods.",
+      "Management principles.",
+      "Structured systems analysis."
+    ],
+    "options_th": [
+      "มาตรฐานการตรวจสอบภายใน",
+      "วิธีการเชิงปริมาณ",
+      "หลักการจัดการ",
+      "การวิเคราะห์ระบบที่มีโครงสร้าง"
+    ],
+    "answer_index": 0,
+    "explanation_en": "All internal auditors should be proficient in applying internal auditing standards, procedures, and techniques required in performing engagements. Proficiency means the ability to apply knowledge to situations likely to be encountered without extensive recourse to technical research (PA 1210-1).",
+    "explanation_th": "ผู้ตรวจสอบภายในทุกคนควรมีความเชี่ยวชาญรอบรู้ในการใช้มาตรฐานการตรวจสอบภายใน ขั้นตอนปฏิบัติ และเทคนิคต่างๆ ความรอบรู้ (Proficiency) หมายถึงความสามารถในการนำความรู้ไปใช้ในสถานการณ์ที่คาดว่าจะพบได้โดยไม่ต้องอาศัยการค้นคว้าวิจัยหรือความช่วยเหลือทางเทคนิคอย่างกว้างขวาง (PA 1210-1)"
+  },
+  {
+    "id": 56,
+    "original_num": 56,
+    "question_en": "The consultative approach to internal auditing emphasizes",
+    "question_th": "แนวทางการตรวจสอบภายในแบบให้คำปรึกษา (Consultative Approach) เน้นย้ำเรื่องใด",
+    "options_en": [
+      "Imposition of corrective measures.",
+      "Participation with engagement clients to improve methods.",
+      "Fraud investigation.",
+      "Implementation of policies and procedures."
+    ],
+    "options_th": [
+      "การบังคับใช้มาตรการแก้ไขข้อผิดพลาด",
+      "การมีส่วนร่วมกับหน่วยรับตรวจในการปรับปรุงวิธีการทำงาน",
+      "การตรวจสอบการทุจริต",
+      "การนำนโยบายและขั้นตอนการปฏิบัติงานไปปฏิบัติใช้"
+    ],
+    "answer_index": 1,
+    "explanation_en": "Internal auditors need skills in dealing with people and maintaining satisfactory relationships. A consultative approach reflects the application of such skills, which increases acceptance of recommended changes.",
+    "explanation_th": "ผู้ตรวจสอบภายในจำเป็นต้องมีทักษะการติดต่อประสานงานและการรักษาความสัมพันธ์อันดี แนวทางแบบให้คำปรึกษาช่วยสร้างบรรยากาศที่ดีและเพิ่มการยอมรับข้อเสนอแนะในการปรับปรุงแก้ไขจากหน่วยรับตรวจ"
+  },
+  {
+    "id": 57,
+    "original_num": 57,
+    "question_en": "As part of the process to improve internal auditor-engagement client relations, it is very important to deal with how the internal audit activity is perceived. Certain types of attitudes in the work performed will help create these perceptions. From a management perspective, which attitude is likely to be the most conducive to a positive perception?",
+    "question_th": "ส่วนหนึ่งของกระบวนการปรับปรุงความสัมพันธ์ระหว่างผู้ตรวจสอบกับหน่วยรับตรวจ คือการจัดการกับมุมมองการรับรู้ที่มีต่อกิจกรรมการตรวจสอบภายใน จากมุมมองของผู้บริหาร ทัศนคติแบบใดมีแนวโน้มที่จะช่วยให้เกิดการรับรู้ในทางบวกมากที่สุด",
+    "options_en": [
+      "Objective.",
+      "Investigative.",
+      "Interrogatory.",
+      "Consultative."
+    ],
+    "options_th": [
+      "การมุ่งเน้นความเป็นวัตถุวิสัย (Objective)",
+      "การมุ่งตรวจสอบเชิงลึกแบบสืบสวน (Investigative)",
+      "การตั้งคำถามเชิงซักถาม/จับผิด (Interrogatory)",
+      "การเป็นผู้ให้คำปรึกษา/ร่วมมือประสานงาน (Consultative)"
+    ],
+    "answer_index": 3,
+    "explanation_en": "A consultative attitude leads to two-way communication, considers the client's viewpoint, helps to dispel fear and mistrust, and demonstrates the value of internal auditing.",
+    "explanation_th": "ทัศนคติแบบให้คำปรึกษานำไปสู่การสื่อสารสองทาง รับฟังมุมมองของหน่วยรับตรวจ ช่วยลดความกลัวและความไม่ไว้วางใจ และแสดงให้เห็นถึงคุณค่าที่แท้จริงของการตรวจสอบภายในต่อองค์กร"
+  },
+  {
+    "id": 58,
+    "original_num": 58,
+    "question_en": "An auditor is scheduled to audit payroll controls for an organization that has recently outsourced its information processing to an external service provider (ESP). What action should the auditor take, considering the outsourcing decision?",
+    "question_th": "ผู้ตรวจสอบภายในมีกำหนดการตรวจสอบการควบคุมระบบบัญชีเงินเดือนขององค์กรที่เพิ่งว่าจ้างผู้ให้บริการภายนอก (ESP) ดำเนินการประมวลผลข้อมูล ผู้ตรวจสอบควรดำเนินการอย่างไรเมื่อพิจารณาถึงการจ้างงานภายนอกนี้",
+    "options_en": [
+      "Review the controls over payroll in both the organization and the ESP.",
+      "Review only the organization’s controls over data sent to and received from the ESP.",
+      "Review only the controls over payments to the ESP based on the contract.",
+      "Cancel the engagement, because the processing is being performed outside of the organization."
+    ],
+    "options_th": [
+      "สอบทานการควบคุมเงินเดือนทั้งในองค์กรและที่ผู้ให้บริการภายนอก (ESP)",
+      "สอบทานเฉพาะการควบคุมขององค์กรเกี่ยวกับข้อมูลที่ส่งไปและได้รับจาก ESP",
+      "สอบทานเฉพาะการควบคุมการจ่ายเงินค่าบริการให้กับ ESP ตามสัญญา",
+      "ยกเลิกการตรวจสอบ เนื่องจากกระบวนการประมวลผลทำภายนอกองค์กร"
+    ],
+    "answer_index": 0,
+    "explanation_en": "The ESP is an extension of the organization's information systems. Control risk may be higher because an external organization's controls are part of the organization's controls. Both must be reviewed.",
+    "explanation_th": "ผู้ให้บริการภายนอก (ESP) ถือเป็นส่วนขยายของระบบสารสนเทศขององค์กร ความเสี่ยงด้านการควบคุมอาจสูงขึ้นเนื่องจากการควบคุมของหน่วยงานภายนอกส่งผลกระทบต่อองค์กร ดังนั้นต้องสอบทานทั้งสองส่วนเพื่อประสิทธิภาพการควบคุม"
+  },
+  {
+    "id": 59,
+    "original_num": 59,
+    "question_en": "In exercising due professional care, internal auditors must consider which of the following? The relative complexity, materiality, or significance of matters to which assurance procedures are applied I. The extent of assurance procedures necessary to ensure that all significant risks will be identified II. The probability of significant errors, irregularities, or noncompliance III.",
+    "question_th": "ในการปฏิบัติงานด้วยความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ (Due Professional Care) ผู้ตรวจสอบภายในต้องคำนึงถึงข้อใดต่อไปนี้? I. ความซับซ้อน ความมีสาระสำคัญ หรือความสำคัญเชิงเปรียบเทียบของเรื่องที่มีการประยุกต์ใช้กระบวนการให้ความเชื่อมั่น II. ขอบเขตของกระบวนการให้ความเชื่อมั่นที่จำเป็นเพื่อให้มั่นใจว่าความเสี่ยงที่มีนัยสำคัญทั้งหมดจะได้รับการระบุ III. โอกาสที่จะเกิดข้อผิดพลาดที่สำคัญ สิ่งที่ผิดปกติ หรือการไม่ปฏิบัติตามข้อกำหนด",
+    "options_en": [
+      "I and II only.",
+      "II and III only.",
+      "I and III only.",
+      "I, II, and III."
+    ],
+    "options_th": [
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ II และ III เท่านั้น",
+      "ข้อ I และ III เท่านั้น",
+      "ข้อ I, II และ III"
+    ],
+    "answer_index": 2,
+    "explanation_en": "According to Standard 1220.A1, due professional care involves complexity, materiality, risk probability, and cost. However, assurance procedures alone do not guarantee that all significant risks will be identified (Standard 1220.A3), so II is incorrect.",
+    "explanation_th": "ตามมาตรฐาน 1220.A1 ความระมัดระวังรอบคอบเกี่ยวข้องกับความซับซ้อน ความมีสาระสำคัญ โอกาสเกิดความเสี่ยง และประโยชน์เปรียบเทียบกับต้นทุน อย่างไรก็ตาม ลำพังกระบวนการให้ความเชื่อมั่นไม่ได้รับประกันว่าจะพบความเสี่ยงทั้งหมด ดังนั้นข้อ II จึงไม่ใช่สิ่งที่นำมาพิจารณา"
+  },
+  {
+    "id": 60,
+    "original_num": 60,
+    "question_en": "Internal auditors must exercise due professional care in conducting a consulting engagement by considering Expectations of clients I. Benefits in the form of compensation to be derived from the engagement II. Cost of the engagement III.",
+    "question_th": "ผู้ตรวจสอบภายในต้องใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพในการปฏิบัติงานให้คำปรึกษา โดยพิจารณาจากสิ่งใดบ้าง? I. ความคาดหวังของผู้รับบริการ (ลูกค้า) II. ผลประโยชน์ในรูปแบบของค่าตอบแทนที่จะได้รับจากงานบริการให้คำปรึกษา III. ต้นทุนของงานบริการให้คำปรึกษา",
+    "options_en": [
+      "I and II only.",
+      "II and III only.",
+      "I and III only.",
+      "I, II, and III."
+    ],
+    "options_th": [
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ II และ III เท่านั้น",
+      "ข้อ I และ III เท่านั้น",
+      "ข้อ I, II และ III"
+    ],
+    "answer_index": 2,
+    "explanation_en": "Standard 1220.C1 requires considering expectations, complexity/cost vs benefits. Any benefit related to compensation for the engagement is not a valid consideration for due professional care.",
+    "explanation_th": "มาตรฐาน 1220.C1 กำหนดให้ผู้ตรวจสอบต้องคำนึงถึงความต้องการและความคาดหวังของลูกค้า ต้นทุนของงานบริการเปรียบเทียบกับผลประโยชน์ที่คาดว่าจะได้รับ แต่เรื่องผลประโยชน์ค่าตอบแทนส่วนตัว (ข้อ II) ไม่ใช่สิ่งที่จะนำมาพิจารณา"
+  },
+  {
+    "id": 62,
+    "original_num": 62,
+    "question_en": "An internal auditor observes that a receivables clerk has physical access to and control of cash receipts. The auditor worked with the clerk several years before and has a high level of trust in the individual. Accordingly, the auditor notes in the engagement working papers that controls over receipts are adequate. Has the auditor exercised due professional care?",
+    "question_th": "ผู้ตรวจสอบภายในสังเกตเห็นว่าพนักงานบัญชีลูกหนี้มีสิทธิ์เข้าถึงทางกายภาพและมีอำนาจควบคุมการรับเงินสด ผู้ตรวจสอบเคยร่วมงานกับพนักงานคนนี้มาหลายปีและมีความไว้วางใจสูงมาก จึงบันทึกในกระดาษทำการว่าการควบคุมดูแลการรับเงินสดมีความเพียงพอแล้ว เช่นนี้ถือว่าผู้ตรวจสอบปฏิบัติงานด้วยความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพแล้วหรือไม่",
+    "options_en": [
+      "Yes, reasonable care has been taken.",
+      "No, irregularities were not noted.",
+      "No, alertness to conditions most likely indicative of irregularities was not shown.",
+      "Yes, the engagement working papers were annotated."
+    ],
+    "options_th": [
+      "ใช่ ถือว่าได้ระมัดระวังอย่างสมเหตุสมผลแล้ว",
+      "ไม่ใช่ เนื่องจากไม่ได้ระบุสิ่งผิดปกติลงไป",
+      "ไม่ใช่ เนื่องจากไม่ได้แสดงความตื่นตัว/ระแวดระวังต่อสภาวะที่มีแนวโน้มว่าจะเกิดสิ่งผิดปกติขึ้น",
+      "ใช่ เนื่องจากกระดาษทำการของงานตรวจสอบได้รับการลงบันทึกอธิบายไว้แล้ว"
+    ],
+    "answer_index": 2,
+    "explanation_en": "Access to cash and record-keeping must be separated regardless of personal qualities or trust. The auditor failed to show alertness to conditions indicating potential irregularities.",
+    "explanation_th": "การเข้าถึงเงินสดและการบันทึกบัญชีต้องได้รับการแบ่งแยกหน้าที่กันโดยเด็ดขาด โดยไม่ขึ้นกับความเชื่อใจส่วนตัวหรือลักษณะนิสัยอันดีของตัวบุคคล การที่ผู้ตรวจสอบละเลยจุดนี้ถือว่าขาดความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ"
+  },
+  {
+    "id": 63,
+    "original_num": 63,
+    "question_en": "Due professional care implies reasonable care and competence, not infallibility or extraordinary performance. Thus, which of the following is unnecessary?",
+    "question_th": "ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพหมายถึงความเอาใจใส่และความสามารถที่สมเหตุสมผล ไม่ใช่ความถูกต้องไร้เทียมทานหรือผลงานที่เป็นเลิศอย่างเหลือเชื่อ ดังนั้น สิ่งใดต่อไปนี้ไม่มีความจำเป็น",
+    "options_en": [
+      "The conduct of examinations and verifications to a reasonable extent.",
+      "The conduct of extensive examinations.",
+      "The reasonable assurance that compliance does exist.",
+      "The consideration of the possibility of material irregularities."
+    ],
+    "options_th": [
+      "การตรวจสอบและการพิสูจน์ยืนยันในขอบเขตที่สมเหตุสมผล",
+      "การดำเนินกระบวนการตรวจสอบอย่างละเอียดและกว้างขวางในทุกๆ เรื่อง (Extensive)",
+      "การให้ความเชื่อมั่นอย่างสมเหตุสมผลว่ามีการปฏิบัติตามเกณฑ์ที่กำหนด",
+      "การคำนึงถึงโอกาสความน่าจะเป็นที่จะเกิดข้อผิดพลาดหรือความผิดปกติที่มีสาระสำคัญ"
+    ],
+    "answer_index": 1,
+    "explanation_en": "Due professional care requires examination and verification to a reasonable extent, not absolute or extensive audits of everything.",
+    "explanation_th": "ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพกำหนดให้ทำการตรวจสอบยืนยันตามสมควร (Reasonable extent) ผู้ตรวจสอบภายในไม่สามารถให้ความเชื่อมั่นอย่างเด็ดขาดในทุกเรื่อง ดังนั้นการตรวจแบบลงลึกขยายผลเกินพอดีจึงไม่มีความจำเป็น"
+  },
+  {
+    "id": 64,
+    "original_num": 64,
+    "question_en": "An internal auditor judged an item to be immaterial when planning an assurance engagement. However, the assurance engagement may still include the item if it is subsequently determined that",
+    "question_th": "ผู้ตรวจสอบภายในประเมินว่ารายการหนึ่งไม่มีสาระสำคัญในขั้นตอนการวางแผนงานให้ความเชื่อมั่น อย่างไรก็ตาม งานให้ความเชื่อมั่นนี้อาจยังคงครอบคลุมรายการดังกล่าวหากพบในภายหลังว่า",
+    "options_en": [
+      "Sufficient staff is available.",
+      "Adverse effects related to the item are likely to occur.",
+      "Related information is reliable.",
+      "Miscellaneous income is affected."
+    ],
+    "options_th": [
+      "มีพนักงานเพียงพอสำหรับการตรวจสอบ",
+      "มีแนวโน้มที่จะเกิดผลกระทบในทางลบ (Adverse Effects) ที่เกี่ยวเนื่องกับรายการดังกล่าว",
+      "ข้อมูลที่เกี่ยวข้องมีความน่าเชื่อถือ",
+      "มีผลกระทบต่อรายได้เบ็ดเตล็ดอื่นๆ"
+    ],
+    "answer_index": 1,
+    "explanation_en": "Materiality involves qualitative and quantitative aspects. An item quantitatively immaterial may require review if it carries significant risk of adverse effects.",
+    "explanation_th": "การตัดสินความมีสาระสำคัญมีทั้งเชิงคุณภาพและปริมาณ รายการที่อาจดูมีมูลค่าทางการเงินต่ำ แต่อาจส่งผลลบในเชิงกฎหมายหรือภาพลักษณ์อย่างมีนัยสำคัญ (Adverse effects) ก็จำเป็นต้องถูกดึงเข้ามาตรวจสอบ"
+  },
+  {
+    "id": 66,
+    "original_num": 66,
+    "question_en": "Assurance engagements must be performed with proficiency and due professional care. Accordingly, the Standards require internal auditors to Consider the probability of significant noncompliance I. Perform assurance procedures with due professional care so that all significant risks are identified II. Weigh the cost of assurance against the benefits III.",
+    "question_th": "งานบริการให้ความเชื่อมั่นต้องปฏิบัติด้วยความรอบรู้และความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ ดังนั้น มาตรฐานกำหนดให้ผู้ตรวจสอบภายในต้อง: I. พิจารณาโอกาสที่จะเกิดการไม่ปฏิบัติตามข้อกำหนดที่สำคัญ II. ปฏิบัติงานด้วยความระมัดระวังเพื่อให้มั่นใจว่าความเสี่ยงที่มีนัยสำคัญทั้งหมดได้รับการระบุ III. ชั่งน้ำหนักต้นทุนของการให้ความเชื่อมั่นกับผลประโยชน์ที่คาดว่าจะได้รับ",
+    "options_en": [
+      "I and II only.",
+      "I and III only.",
+      "II and III only.",
+      "I, II, and III."
+    ],
+    "options_th": [
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ I และ III เท่านั้น",
+      "ข้อ II และ III เท่านั้น",
+      "ข้อ I, II และ III"
+    ],
+    "answer_index": 1,
+    "explanation_en": "Standard 1220.A1 outlines that due professional care includes risk probability and cost-benefit analysis. However, assurance procedures alone, even with care, do not guarantee all risks are identified (Standard 1220.A3).",
+    "explanation_th": "มาตรฐานกำหนดว่าความระมัดระวังรอบคอบต้องคำนึงถึงโอกาสเกิดการไม่ปฏิบัติตามกฎเกณฑ์ และการเปรียบเทียบต้นทุน/ประโยชน์ แต่กระบวนการตรวจสอบอย่างเดียวไม่ได้รับประกันว่าจะพบความเสี่ยงทั้งหมด ดังนั้นข้อ II จึงไม่ตรงตามมาตรฐาน"
+  },
+  {
+    "id": 69,
+    "original_num": 69,
+    "question_en": "A staff internal auditor performed a portion of an engagement to review an organization’s marketing function. In particular, the internal auditor evaluated the function’s effective and efficient use of resources to identify Underused facilities I. Overstaffing or understaffing II. Nonproductive work III. Procedures that were not cost justified IV. To test for underused facilities, the internal auditor performed a complete walk-through of all spaces assigned to the marketing function and evaluated the use of both space and capital equipment. The internal auditor analyzed reports on space usage for the last year and concluded that facilities were neither underused nor used at maximum capacity. To test for overstaffing or understaffing, the internal auditor compared current staffing levels with a staffing analysis recently completed by an independent contractor. Because the staffing analysis used work standards and service demands to provide factual and reliable information on staffing requirements, the internal auditor was able to conclude that staffing levels were optimal. To test for nonproductive work, the internal auditor interviewed an employee from each level, and, based upon their responses, concluded that no significant amount of nonproductive work was being performed. Thus, the internal auditor concluded that additional engagement work to search for procedures that were not cost justified would not be necessary. In reference to requirements I and II, due professional care",
+    "question_th": "ผู้ตรวจสอบภายในปฏิบัติงานสอบทานการใช้ทรัพยากรอย่างมีประสิทธิภาพของแผนกการตลาด โดยประเมินเรื่อง: I. การใช้งานอาคารสถานที่ต่ำกว่าเกณฑ์ II. อัตรากำลังพลที่มากเกินหรือขาดแคลน III. งานที่ไม่มีผลิตผล IV. ขั้นตอนการทำงานที่มีต้นทุนไม่สมเหตุผล ในเรื่องการประเมิน I และ II นั้น การใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพถือว่ามีการปฏิบัติอย่างไร",
+    "options_en": [
+      "Was exercised because the internal auditor applied reasonable care and competence in both areas.",
+      "Was not exercised because the internal auditor failed to apply reasonable care regarding requirement II.",
+      "Was not exercised because the internal auditor failed to apply reasonable care regarding requirements I and II.",
+      "Was not exercised because the internal auditor failed to apply reasonable care regarding requirement I."
+    ],
+    "options_th": [
+      "ได้มีการปฏิบัติอย่างเหมาะสม เนื่องจากผู้ตรวจสอบได้ใช้ความระมัดระวังและความรู้ความสามารถที่สมเหตุสมผลในทั้งสองส่วนงานแล้ว",
+      "ไม่ได้มีการปฏิบัติอย่างเหมาะสม เนื่องจากผู้ตรวจสอบละเลยการใช้ความระมัดระวังสมเหตุสมผลในเรื่องอัตรากำลังพล (II)",
+      "ไม่ได้มีการปฏิบัติอย่างเหมาะสม ทั้งในเรื่องสถานที่ (I) และอัตรากำลังพล (II)",
+      "ไม่ได้มีการปฏิบัติอย่างเหมาะสม ในเรื่องอาคารสถานที่ (I)"
+    ],
+    "answer_index": 0,
+    "explanation_en": "Due professional care requires reasonable care and competence, not absolute assurance. The auditor's work regarding facilities usage and staffing was adequate and would withstand normal scrutiny.",
+    "explanation_th": "ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพต้องการความเอาใจใส่ที่สมเหตุสมผลและการตรวจสอบยืนยันตามสมควร การที่ผู้ตรวจสอบทำการเดินตรวจวิเคราะห์ข้อมูลสถานที่และเปรียบเทียบวิเคราะห์จากแหล่งข้อมูลอิสระถือว่าเพียงพอแล้ว"
+  },
+  {
+    "id": 74,
+    "original_num": 74,
+    "question_en": "Which of the following are good tools for marketing the internal audit activity within the organization?",
+    "question_th": "ข้อใดต่อไปนี้เป็นเครื่องมือที่ดีในการส่งเสริม/ประชาสัมพันธ์กิจกรรมการตรวจสอบภายใน (Marketing the internal audit activity) ให้เป็นที่ยอมรับภายในองค์กร",
+    "options_en": [
+      "Leading a program of the organization, such as a charitable activity.",
+      "Distributing bulletins that highlight current findings.",
+      "Including articles in an organizational publication showing the human side of internal auditors.",
+      "All answers are correct."
+    ],
+    "options_th": [
+      "การเป็นผู้นำในการจัดกิจกรรมช่วยเหลือสังคม/สาธารณกุศลขององค์กร",
+      "การเผยแพร่จุลสารรายงานประเด็นที่ตรวจพบที่สำคัญในปัจจุบัน",
+      "การลงบทความในวารสารองค์กรเพื่อแสดงแง่มุมความเป็นมนุษย์/ความเป็นมิตรของผู้ตรวจสอบ",
+      "ถูกต้องทุกข้อที่กล่าวมา"
+    ],
+    "answer_index": 3,
+    "explanation_en": "To make audits easier, internal auditors should attempt to market themselves as a management-oriented resource. Leading charity programs, distributing bulletins, and publishing friendly articles are all valid tools.",
+    "explanation_th": "ผู้ตรวจสอบมักถูกมองเป็นผู้จับผิด เพื่อสร้างความสัมพันธ์ที่ดี การโปรโมตภาพลักษณ์ให้เห็นว่าเป็นผู้ร่วมปรับปรุงองค์กร ผ่านกิจกรรมการกุศล ข่าวสาร หรือบทความที่เป็นมิตร จึงเป็นเครื่องมือประชาสัมพันธ์ที่ดี"
+  },
+  {
+    "id": 75,
+    "original_num": 75,
+    "question_en": "An element of authority that must be included in the charter of the internal audit activity is",
+    "question_th": "องค์ประกอบด้านอำนาจหน้าที่ (Authority) ที่จำเป็นต้องกำหนดไว้ในกฎบัตรการตรวจสอบภายในคือข้อใด",
+    "options_en": [
+      "Identification of the organizational units where engagements are to be performed.",
+      "Identification of the types of disclosures that should be made to the board.",
+      "Access to records, personnel, and physical properties relevant to the performance of engagements.",
+      "Access to the external auditor’s engagement records."
+    ],
+    "options_th": [
+      "การระบุรายชื่อหน่วยงานย่อยภายในองค์กรที่จะต้องถูกเข้าตรวจสอบ",
+      "การกำหนดรูปแบบและประเภทของข้อมูลที่ต้องรายงานต่อคณะกรรมการ",
+      "การเข้าถึงบันทึกเอกสาร บุคลากร และทรัพย์สินทางกายภาพที่เกี่ยวข้องกับการปฏิบัติงานตรวจสอบ",
+      "สิทธิ์การเข้าถึงบันทึกกระดาษทำการของผู้สอบบัญชีภายนอก"
+    ],
+    "answer_index": 2,
+    "explanation_en": "The charter establishes the internal audit activity's position and formally authorizes access to records, personnel, and physical properties relevant to the performance of engagements (Standard 1000).",
+    "explanation_th": "ตามมาตรฐาน 1000 กฎบัตรการตรวจสอบภายในต้องกำหนดวัตถุประสงค์ อำนาจหน้าที่ และความรับผิดชอบอย่างเป็นทางการ รวมถึงการอนุมัติสิทธิ์เข้าถึงเอกสารหลักฐาน บุคลากร และทรัพย์สินต่างๆ ที่จำเป็นในการปฏิบัติงาน"
+  },
+  {
+    "id": 76,
+    "original_num": 76,
+    "question_en": "The board of an organization has charged the chief audit executive (CAE) with upgrading the internal audit activity. The CAE’s first task is to develop a charter. What item should be included in the statement of objectives?",
+    "question_th": "คณะกรรมการบริษัทมอบหมายให้หัวหน้าผู้บริหารงานตรวจสอบ (CAE) ปรับปรุงกิจกรรมการตรวจสอบภายใน งานแรกของ CAE คือการพัฒนากฎบัตร สิ่งใดต่อไปนี้ควรระบุไว้ในส่วนของวัตถุประสงค์ของการตรวจสอบ",
+    "options_en": [
+      "Report all engagement results to the board every quarter.",
+      "Notify governmental regulatory agencies of unethical business practices by organization management.",
+      "Evaluate the adequacy and effectiveness of the organization’s controls.",
+      "Submit budget variance reports to management every month."
+    ],
+    "options_th": [
+      "รายงานผลการตรวจสอบทั้งหมดต่อคณะกรรมการเป็นประจำทุกไตรมาส",
+      "แจ้งหน่วยงานกำกับดูแลของรัฐเมื่อพบแนวปฏิบัติทางธุรกิจที่ไม่เหมาะสมของผู้บริหารองค์กร",
+      "ประเมินความเพียงพอและประสิทธิผลของระบบการควบคุมภายในขององค์กร",
+      "ส่งรายงานเปรียบเทียบงบประมาณจริงต่อผู้บริหารเป็นประจำทุกเดือน"
+    ],
+    "answer_index": 2,
+    "explanation_en": "According to the Definition of Internal Auditing, it brings a systematic, disciplined approach to evaluating and improving risk management, control, and governance processes.",
+    "explanation_th": "ตามนิยามของการตรวจสอบภายใน วัตถุประสงค์หลักคือการช่วยองค์กรบรรลุเป้าหมายโดยประเมินและปรับปรุงประสิทธิผลของกระบวนการบริหารความเสี่ยง การควบคุม และการกำกับดูแลกิจการอย่างเป็นระบบ"
+  },
+  {
+    "id": 78,
+    "original_num": 78,
+    "question_en": "Which of the following abilities is not important in marketing internal auditing to management?",
+    "question_th": "ความสามารถข้อใดต่อไปนี้ไม่มีความสำคัญในการประชาสัมพันธ์กิจกรรมการตรวจสอบภายในต่อฝ่ายบริหาร",
+    "options_en": [
+      "Explaining the current use of internal auditing software to executive management.",
+      "Preparing engagement communications competently and professionally.",
+      "Knowing what executive management wants the internal auditors to do.",
+      "Knowing whom the internal auditors serve as customers."
+    ],
+    "options_th": [
+      "การอธิบายถึงวิธีการใช้งานซอฟต์แวร์ตรวจสอบภายในต่อผู้บริหารระดับสูง",
+      "การเตรียมรายงานผลการตรวจสอบอย่างมืออาชีพและเปี่ยมด้วยความสามารถ",
+      "การรู้ความต้องการของผู้บริหารระดับสูงว่าต้องการให้ผู้ตรวจสอบทำสิ่งใด",
+      "การรู้ว่าใครคือผู้รับบริการ (ลูกค้า) ของผู้ตรวจสอบภายใน"
+    ],
+    "answer_index": 0,
+    "explanation_en": "Selling internal auditing entails understanding customers and delivering value. Knowing detailed operations of audit software is operational and irrelevant to executive management's strategic marketing concerns.",
+    "explanation_th": "การส่งเสริมงานตรวจสอบมุ่งเน้นที่ความเข้าใจผู้รับบริการ ความเป็นมืออาชีพในการทำงาน และการส่งมอบผลงานตรวจสอบที่มีประโยชน์ต่อผู้บริหาร แต่รายละเอียดเรื่องวิธีการใช้ซอฟต์แวร์ตรวจสอบไม่ได้สำคัญต่อผู้บริหารระดับสูง"
+  },
+  {
+    "id": 79,
+    "original_num": 79,
+    "question_en": "A charter is one of the more important factors positively affecting the internal audit activity’s independence. Which of the following is least likely to be part of the charter?",
+    "question_th": "กฎบัตรการตรวจสอบภายในเป็นหนึ่งในปัจจัยที่สำคัญที่สุดในการส่งเสริมความเป็นอิสระของกิจกรรมการตรวจสอบภายใน ข้อใดต่อไปนี้มีโอกาสน้อยที่สุดที่จะถูกกำหนดไว้ในกฎบัตร",
+    "options_en": [
+      "Access to records within the organization.",
+      "The scope of internal audit activities.",
+      "The length of tenure of the chief audit executive.",
+      "Access to personnel within the organization."
+    ],
+    "options_th": [
+      "สิทธิ์การเข้าถึงข้อมูลบันทึกต่างๆ ภายในองค์กร",
+      "ขอบเขตการปฏิบัติงานของกิจกรรมการตรวจสอบภายใน",
+      "ระยะเวลาในการดำรงตำแหน่งของหัวหน้าผู้บริหารงานตรวจสอบ (CAE)",
+      "สิทธิ์การเข้าถึงและการติดต่อสื่อสารกับบุคลากรภายในองค์กร"
+    ],
+    "answer_index": 2,
+    "explanation_en": "The charter establishes the IAA's position, scope, and access to resources (Standard 1000). The specific length of tenure of the CAE is an administrative or employment contract detail and least likely to be in the charter.",
+    "explanation_th": "กฎบัตรมุ่งกำหนดวัตถุประสงค์ อำนาจ สิทธิ์การเข้าถึงข้อมูล และขอบเขตงานตรวจสอบของแผนก ส่วนเรื่องระยะเวลาสัญญาจ้างหรือการดำรงตำแหน่งของ CAE (ข้อ 2) เป็นเรื่องการจ้างงาน ไม่จำเป็นต้องอยู่ในกฎบัตร"
+  },
+  {
+    "id": 83,
+    "original_num": 83,
+    "question_en": "The organizational position of the internal audit activity should be free from the effects of irresponsible policy changes by management. The most effective way to ensure that freedom is to",
+    "question_th": "สถานะทางโครงสร้างองค์กรของกิจกรรมการตรวจสอบภายในควรปราศจากผลกระทบจากการเปลี่ยนแปลงนโยบายที่ไม่เหมาะสมโดยฝ่ายบริหาร วิธีที่มีประสิทธิภาพมากที่สุดในการรับประกันความเป็นอิสระดังกล่าวคือข้อใด",
+    "options_en": [
+      "Have the internal audit charter approved by the board.",
+      "Adopt policies for the functioning of the internal audit activity.",
+      "Establish an audit committee within the board.",
+      "Develop written policies and procedures to serve as standards of performance for the internal audit activity."
+    ],
+    "options_th": [
+      "การได้รับการอนุมัติกฎบัตรการตรวจสอบภายในจากคณะกรรมการบริษัท (Board)",
+      "การกำหนดนโยบายสำหรับการปฏิบัติงานของกิจกรรมการตรวจสอบภายใน",
+      "การจัดตั้งคณะกรรมการตรวจสอบ (Audit Committee) ภายในคณะกรรมการบริษัท",
+      "การพัฒนาแนวทางและนโยบายการทำงานที่เป็นลายลักษณ์อักษรเพื่อใช้เป็นมาตรฐานในการปฏิบัติงาน"
+    ],
+    "answer_index": 0,
+    "explanation_en": "Approval of the charter by the board provides a formal, binding agreement with management regarding the IAA's organizational position and access rights (PA 1000-1).",
+    "explanation_th": "ตามมาตรฐาน 1000 กฎบัตรต้องได้รับการอนุมัติอย่างเป็นทางการจากคณะกรรมการบริษัท ซึ่งเป็นข้อตกลงร่วมกับฝ่ายบริหารในการปกป้องและรับรองความเป็นอิสระและสิทธิ์ในการเข้าถึงข้อมูลต่างๆ ของผู้ตรวจสอบภายใน"
+  },
+  {
+    "id": 84,
+    "original_num": 84,
+    "question_en": "In some organizations, internal audit functions are outsourced. Management in a large organization should recognize that the external auditor may have an advantage, compared with the internal auditor, because of the external auditor’s",
+    "question_th": "ในบางองค์กร กิจกรรมการตรวจสอบภายในถูกจ้างเหมาจากภายนอก (Outsourcing) ฝ่ายบริหารขององค์กรขนาดใหญ่ควรตระหนักว่าผู้สอบบัญชีภายนอกอาจมีความได้เปรียบเมื่อเทียบกับผู้ตรวจสอบภายใน เนื่องจากปัจจัยใดของผู้สอบบัญชีภายนอก",
+    "options_en": [
+      "Familiarity with the organization. Its annual audits provide an in-depth knowledge of the organization.",
+      "Size. It can hire experienced, knowledgeable, and certified staff.",
+      "Size. It is able to offer continuous availability of staff unaffected by other priorities.",
+      "Structure. It may more easily accommodate engagement requirements in distant locations."
+    ],
+    "options_th": [
+      "ความคุ้นเคยกับองค์กร เนื่องจากงานตรวจสอบประจำปีช่วยให้เข้าใจเชิงลึก",
+      "ขนาดขององค์กรตรวจสอบ ที่สามารถว่าจ้างบุคลากรที่มีประสบการณ์และวุฒิบัตรวิชาชีพได้ดีกว่า",
+      "ขนาดขององค์กรตรวจสอบ ที่สามารถจัดกำลังพลทดแทนทำงานได้อย่างต่อเนื่องโดยไม่มีงานอื่นมาแทรกแซง",
+      "โครงสร้างขององค์กรตรวจสอบ ที่สามารถรองรับความต้องการตรวจสอบในพื้นที่ห่างไกล/ต่างสาขาในต่างประเทศได้ง่ายกว่า"
+    ],
+    "answer_index": 3,
+    "explanation_en": "A major public accounting firm ordinarily has national or worldwide operations, making it easier to accommodate audit requirements in distant or international branch locations compared to a smaller internal staff.",
+    "explanation_th": "บริษัทผู้สอบบัญชีภายนอกขนาดใหญ่มักมีเครือข่ายและสาขาทั้งในประเทศและต่างประเทศ ทำให้มีความได้เปรียบในแง่ของโครงสร้างการเดินทางและทรัพยากรบุคคลในการเข้าตรวจสอบสาขาที่ห่างไกลได้สะดวกและยืดหยุ่นกว่า"
+  },
+  {
+    "id": 85,
+    "original_num": 85,
+    "question_en": "Which of the following is not true with regard to the internal audit charter?",
+    "question_th": "ข้อใดต่อไปนี้กล่าวไม่ถูกต้องเกี่ยวกับกฎบัตรการตรวจสอบภายใน",
+    "options_en": [
+      "It defines the authorities and responsibilities for the internal audit activity.",
+      "It specifies the minimum resources needed for the internal audit activity.",
+      "It provides a basis for evaluating the internal audit activity.",
+      "It should be approved by senior management and the board."
+    ],
+    "options_th": [
+      "กฎบัตรทำหน้าที่กำหนดอำนาจหน้าที่และความรับผิดชอบของกิจกรรมการตรวจสอบภายใน",
+      "กฎบัตรทำหน้าที่ระบุทรัพยากรขั้นต่ำที่จำเป็นต้องใช้สำหรับการตรวจสอบภายใน",
+      "กฎบัตรเป็นเกณฑ์อ้างอิงพื้นฐานในการประเมินประสิทธิภาพของแผนกตรวจสอบภายใน",
+      "กฎบัตรควรได้รับการอนุมัติเห็นชอบร่วมกันจากผู้บริหารระดับสูงและคณะกรรมการบริษัท"
+    ],
+    "answer_index": 1,
+    "explanation_en": "The charter defines purpose, authority, and responsibility. Resource requirements are determined by risk-based plans and audit schedules, not by the charter itself.",
+    "explanation_th": "กฎบัตรกำหนดเรื่องกรอบอำนาจหน้าที่และสิทธิ์การเข้าถึงข้อมูล แต่การวิเคราะห์ทรัพยากรหรือจำนวนอัตรากำลังจะถูกกำหนดผ่านแผนการตรวจสอบประจำปีที่ประเมินจากความเสี่ยง ไม่ใช่ระบุไว้ในกฎบัตร (ข้อ 2 จึงผิด)"
+  },
+  {
+    "id": 87,
+    "original_num": 87,
+    "question_en": "An approach in which the internal audit activity obtains external aid in performing certain activities is",
+    "question_th": "แนวทางปฏิบัติที่กิจกรรมการตรวจสอบภายในได้รับความช่วยเหลือจากผู้เชี่ยวชาญภายนอกในการร่วมปฏิบัติงานตรวจสอบบางประเภทคือข้อใด",
+    "options_en": [
+      "Cosourcing.",
+      "Outsourcing.",
+      "Joint venture.",
+      "Informal consulting."
+    ],
+    "options_th": [
+      "การจ้างผู้ร่วมปฏิบัติงานจากภายนอกร่วมกัน (Cosourcing)",
+      "การจ้างเหมางานบริการตรวจสอบทั้งหมดจากภายนอก (Outsourcing)",
+      "การร่วมทุนดำเนินกิจการ (Joint Venture)",
+      "การให้คำปรึกษาอย่างไม่เป็นทางการ (Informal Consulting)"
+    ],
+    "answer_index": 0,
+    "explanation_en": "Cosourcing allows the internal audit activity to obtain external assistance for specific projects or specialized areas while maintaining an in-house core audit function.",
+    "explanation_th": "Cosourcing คือการใช้ทรัพยากรร่วมกันระหว่างแผนกตรวจสอบภายในขององค์กรและบริษัทผู้เชี่ยวชาญจากภายนอก เพื่อให้ได้ประโยชน์ของทั้งงานตรวจสอบภายในและความเชี่ยวชาญเฉพาะทางจากภายนอกมาร่วมทำงานเป็นโปรเจกต์"
+  },
+  {
+    "id": 88,
+    "original_num": 88,
+    "question_en": "The charter of the internal audit activity (IAA) of a large public entity has not yet been approved by the board. However, the board is chaired by the chief executive officer (CEO) and includes the controller and one outside b oard member. The chief audit executive (CAE) reports directly to the controller who approves the IAA’s work schedule. The previous CAE was recently dismissed following a dispute between the CAE and a major engagement client. Within the first month, the new CAE encountered substantial resistance from an engagement client regarding the nature of the work and the IAA’s access to records. Moreover, the CEO accused the CAE of not operating “in the best interests of the organization.” From the perspective of the internal audit activity, which of the following facts, by themselves, could contribute to a lack of independence? The CEO accused the new auditor of not operating “in the best interests of the organization.” I. The majority of audit committee members come from within the organization. II. The IAA’s charter has not been approved by the board. III.",
+    "question_th": "กฎบัตรของกิจกรรมการตรวจสอบภายในขององค์กรขนาดใหญ่ยังไม่ได้รับการอนุมัติจากคณะกรรมการ โดยประธานบอร์ดคือ CEO และบอร์ดประกอบด้วยผู้ควบคุมบัญชี (Controller) และกรรมการภายนอก 1 คน CAE รายงานตรงต่อผู้ควบคุมบัญชีซึ่งเป็นผู้อนุมัติแผนงานตรวจสอบ จากข้อเท็จจริงนี้ ปัจจัยใดส่งผลลบต่อความเป็นอิสระของผู้ตรวจสอบมากที่สุด? I. CEO กล่าวหาผู้ตรวจสอบว่าไม่ได้ทำเพื่อผลประโยชน์สูงสุดขององค์กร II. สมาชิกส่วนใหญ่ของคณะกรรมการตรวจสอบมาจากคนในองค์กร III. กฎบัตรยังไม่ได้รับการอนุมัติจากคณะกรรมการบริษัท",
+    "options_en": [
+      "I only.",
+      "II only.",
+      "II and III only.",
+      "I, II, and III."
+    ],
+    "options_th": [
+      "ข้อ I เท่านั้น",
+      "ข้อ II เท่านั้น",
+      "ข้อ II และ III เท่านั้น",
+      "ข้อ I, II และ III"
+    ],
+    "answer_index": 3,
+    "explanation_en": "All three points indicate threats to independence: lack of board support (CEO's comment), lack of objective audit committee members, and absence of an approved charter defining authorities.",
+    "explanation_th": "ทั้งสามข้อส่งผลให้ผู้ตรวจสอบขาดความเป็นอิสระ: การขาดการสนับสนุนจากฝ่ายบริหาร (CEO ตำหนิ), คณะกรรมการตรวจสอบไม่มีกรรมการภายนอกที่เป็นกลาง และแผนกไม่มีกฎบัตรที่ได้รับการอนุมัติมารับรองสิทธิ์อำนาจหน้าที่"
+  },
+  {
+    "id": 89,
+    "original_num": 89,
+    "question_en": "To avoid being the apparent cause of conflict between an organization’s senior management and the board, the chief audit executive should",
+    "question_th": "เพื่อหลีกเลี่ยงการเป็นสาเหตุของความขัดแย้งระหว่างผู้บริหารระดับสูงกับคณะกรรมการบริษัท หัวหน้าผู้บริหารงานตรวจสอบ (CAE) ควรปฏิบัติอย่างไร",
+    "options_en": [
+      "Communicate all engagement results to both senior management and the board.",
+      "Strengthen the independence of the internal audit activity through organizational position.",
+      "Discuss all reports to senior management with the board first.",
+      "Request board approval of policies that include IAA relationships with the board."
+    ],
+    "options_th": [
+      "สื่อสารผลลัพธ์การตรวจสอบทุกงานให้ทั้งผู้บริหารระดับสูงและคณะกรรมการทราบอย่างเท่ากัน",
+      "เสริมสร้างความเป็นอิสระของกิจกรรมการตรวจสอบภายในผ่านการจัดตำแหน่งทางโครงสร้างองค์กร",
+      "ปรึกษาหารือเกี่ยวกับรายงานที่จะส่งให้ผู้บริหารต่อคณะกรรมการบริษัทก่อนเป็นอันดับแรก",
+      "ขออนุมัติจากคณะกรรมการบริษัทต่อนโยบายที่กำหนดความสัมพันธ์ของกิจกรรมการตรวจสอบกับบอร์ด"
+    ],
+    "answer_index": 3,
+    "explanation_en": "The charter approved by the board establishes the dual-reporting relationship. Requesting board approval of policies detailing relationships prevents ambiguity and conflict between management and the board.",
+    "explanation_th": "การให้คณะกรรมการอนุมัตินโยบายหรือกฎบัตรที่แสดงขอบเขตและรูปแบบความสัมพันธ์ของการสื่อสารและรายงาน (Dual-Reporting) อย่างเป็นทางการ จะช่วยลดความสับสนและข้อขัดแย้งเกี่ยวกับบทบาทหน้าที่การรายงานผลได้ดีที่สุด"
+  },
+  {
+    "id": 90,
+    "original_num": 90,
+    "question_en": "An organization is in the process of establishing its new internal audit activity. The controller has no previous experience with internal auditors. Due to this lack of experience, the controller advised the applicants that the CAE will be reporting to the external auditors. However, the new chief audit executive will have free access to the controller to report anything important. The controller will then convey the CAE’s concerns to the board of directors. The IAA will",
+    "question_th": "องค์กรอยู่ระหว่างการจัดตั้งกิจกรรมการตรวจสอบภายในใหม่ ผู้ควบคุมบัญชี (Controller) ไม่มีประสบการณ์เกี่ยวกับผู้ตรวจสอบและระบุว่า CAE จะต้องรายงานผลต่อผู้สอบบัญชีภายนอก โดย CAE จะสามารถเข้าหาคอนโทรลเลอร์เพื่อรายงานเรื่องสำคัญได้ แล้วคอนโทรลเลอร์จะส่งต่อให้บอร์ดพิจารณา จากสถานการณ์นี้กิจกรรมการตรวจสอบจะเป็นอย่างไร",
+    "options_en": [
+      "Be independent because the CAE has direct access to the board.",
+      "Not be independent because the CAE reports to the external auditors.",
+      "Not be independent because the controller has no experience with internal auditors.",
+      "Not be independent because the organization did not specify that the applicants must be certified internal auditors."
+    ],
+    "options_th": [
+      "เป็นอิสระ เนื่องจาก CAE สามารถเข้าถึงบอร์ดผ่านคอนโทรลเลอร์ได้",
+      "ไม่เป็นอิสระ เนื่องจาก CAE ต้องรายงานต่อผู้สอบบัญชีภายนอกและขาดการรายงานตรงต่อคณะกรรมการ",
+      "ไม่เป็นอิสระ เนื่องจากคอนโทรลเลอร์ไม่มีประสบการณ์เกี่ยวกับผู้ตรวจสอบภายใน",
+      "ไม่เป็นอิสระ เนื่องจากองค์กรไม่ได้กำหนดให้ผู้สมัครต้องได้รับวุฒิบัตรผู้ตรวจสอบภายในรับอนุญาต (CIA)"
+    ],
+    "answer_index": 1,
+    "explanation_en": "To achieve independence, the CAE must have direct and unrestricted access to the board and senior management via dual-reporting. External auditors are outside entities, and reporting to them impairs independence.",
+    "explanation_th": "ความเป็นอิสระกำหนดให้ CAE ต้องมีสายการรายงานตรงต่อคณะกรรมการบริษัท การให้รายงานต่อบุคคลภายนอก (ผู้สอบบัญชีภายนอก) และรายงานผ่านตัวกลางอย่างคอนโทรลเลอร์ ทำให้การเข้าถึงบอร์ดไม่เป็นอิสระและขัดต่อมาตรฐาน"
+  },
+  {
+    "id": 91,
+    "original_num": 91,
+    "question_en": "A medium-sized publicly owned organization operating in Country X has grown to a size that the governing authority believes warrants the establishment of an internal audit activity. Country X has legislated internal audit requirements for government-owned organizations. The organization changed the bylaws to reflect the establishment of the internal audit activity. The governing authority decided that the chief audit executive (CAE) must be a certified internal auditor and will report directly to the newly established audit committee. Which of the items discussed above will contribute the most to the new CAE’s independence?",
+    "question_th": "องค์กรขนาดกลางในประเทศ X เติบโตจนผู้บริหารเห็นชอบให้ตั้งกิจกรรมการตรวจสอบภายใน คณะกรรมการกำหนดว่า CAE ต้องเป็น Certified Internal Auditor และรายงานตรงต่อคณะกรรมการตรวจสอบที่ตั้งขึ้นใหม่ ปัจจัยใดในสถานการณ์นี้ช่วยเสริมสร้างความเป็นอิสระของ CAE ได้มากที่สุด",
+    "options_en": [
+      "The establishment of the internal audit activity is documented in the bylaws.",
+      "Country X has legislated internal auditing requirements.",
+      "The CAE will report to the audit committee.",
+      "The CAE is to be a certified internal auditor."
+    ],
+    "options_th": [
+      "การจัดตั้งกิจกรรมการตรวจสอบภายในได้รับการบันทึกไว้ในข้อบังคับขององค์กร",
+      "ประเทศ X มีกฎหมายข้อบังคับเกี่ยวกับการตรวจสอบภายใน",
+      "การกำหนดให้ CAE รายงานตรงต่อคณะกรรมการตรวจสอบ",
+      "การที่ CAE เป็นผู้ได้รับวุฒิบัตรผู้ตรวจสอบภายในรับอนุญาต (CIA)"
+    ],
+    "answer_index": 2,
+    "explanation_en": "Reporting directly to the board or its audit committee provides the highest authority support and organizational status, contributing the most to the CAE's independence (Standard 1110).",
+    "explanation_th": "สายการรายงานตรงต่อคณะกรรมการตรวจสอบ (บอร์ด) ซึ่งเป็นผู้บริหารสูงสุดระดับการกำกับดูแล ถือเป็นเครื่องมือที่ช่วยส่งเสริมความเป็นอิสระและอำนาจการปฏิบัติงานของผู้ตรวจสอบภายในได้ดีที่สุดตามมาตรฐาน 1110"
+  },
+  {
+    "id": 92,
+    "original_num": 92,
+    "question_en": "The reporting relationship within the organization’s management structure that facilitates the day-to-day operations of the IAA is",
+    "question_th": "ความสัมพันธ์ในการรายงานภายในโครงสร้างการบริหารขององค์กรที่ช่วยอำนวยความสะดวกในการดำเนินงานแบบวันต่อวัน (Day-to-day operations) ของแผนกตรวจสอบภายในคือข้อใด",
+    "options_en": [
+      "Administrative reporting.",
+      "Financial reporting.",
+      "Management reporting.",
+      "Functional reporting."
+    ],
+    "options_th": [
+      "การรายงานสายบริหาร (Administrative Reporting)",
+      "การรายงานทางการเงิน (Financial Reporting)",
+      "การรายงานผลต่อฝ่ายบริหารทั่วไป (Management Reporting)",
+      "การรายงานสายปฏิบัติงานหลัก (Functional Reporting)"
+    ],
+    "answer_index": 0,
+    "explanation_en": "Administrative reporting facilitates day-to-day operations (budgeting, HR administration, internal communications, policies) under management structure (PA 1110-1), whereas functional reporting is to the board.",
+    "explanation_th": "การรายงานสายบริหาร (Administrative) ช่วยอำนวยความสะดวกในเรื่องการบริหารจัดการทั่วไปรายวัน เช่น งบประมาณ ทรัพยากรบุคคล และการปฏิบัติตามระเบียบทั่วไป ส่วนการรายงานสายงาน (Functional) จะรายงานต่อบอร์ด"
+  },
+  {
+    "id": 93,
+    "original_num": 93,
+    "question_en": "An external quality assessment team was evaluating the independence of an internal audit activity. The internal audit activity performs engagements concerning all of the elements included in its scope. Which of the following reporting responsibilities is most likely to threaten the internal audit activity’s independence? Reporting to the",
+    "question_th": "ผู้ประเมินคุณภาพจากภายนอกกำลังประเมินความเป็นอิสระของกิจกรรมการตรวจสอบภายในแห่งหนึ่ง ข้อใดต่อไปนี้คือสายการรายงานที่มีแนวโน้มที่จะคุกคามความเป็นอิสระของกิจกรรมการตรวจสอบภายในมากที่สุด หากต้องรายงานตรงต่อ",
+    "options_en": [
+      "President.",
+      "Treasurer.",
+      "Executive vice president.",
+      "Audit committee."
+    ],
+    "options_th": [
+      "ประธานบริษัท (President)",
+      "เหรัญญิก/ผู้ดูแลการเงิน (Treasurer)",
+      "รองประธานกรรมการบริหาร (Executive Vice President)",
+      "คณะกรรมการตรวจสอบ (Audit Committee)"
+    ],
+    "answer_index": 1,
+    "explanation_en": "Reporting to the treasurer (who handles cash and treasury operations) restricts the influence of the IAA and creates significant conflicts of interest, heavily threatening independence compared to reporting to higher executives or the board.",
+    "explanation_th": "การรายงานตรงต่อเหรัญญิก/ฝ่ายการเงิน (Treasurer) ถือเป็นจุดที่ขัดต่อความเป็นอิสระอย่างรุนแรง เนื่องจากผู้ตรวจสอบต้องตรวจสอบกิจกรรมการเงินที่เหรัญญิกดูแลโดยตรง ทำให้เกิดการขัดกันของผลประโยชน์เชิงโครงสร้าง"
+  },
+  {
+    "id": 94,
+    "original_num": 94,
+    "question_en": "The CAE should report functionally to the board. The board is responsible for which of the following activities? Internal communication and information flows I. Approval of the internal audit risk assessment and related audit plan II. Approval of annual compensation and salary adjustment for the CAE III.",
+    "question_th": "CAE ควรายงานสายงาน (Functionally) ต่อคณะกรรมการ คณะกรรมการบริษัทมีหน้าที่รับผิดชอบในกิจกรรมข้อใดต่อไปนี้? I. การจัดการการสื่อสารและข้อมูลไหลเวียนภายในฝ่ายบริหาร II. อนุมัติการประเมินความเสี่ยงและแผนการตรวจสอบภายในที่เกี่ยวข้อง III. อนุมัติค่าตอบแทนและการปรับเงินเดือนประจำปีของ CAE",
+    "options_en": [
+      "I and II.",
+      "II and III.",
+      "I and III.",
+      "I, II, and III."
+    ],
+    "options_th": [
+      "ข้อ I และ II",
+      "ข้อ II และ III",
+      "ข้อ I และ III",
+      "ข้อ I, II และ III"
+    ],
+    "answer_index": 1,
+    "explanation_en": "Functional reporting to the board includes approving the audit plan (II) and the CAE's compensation (III). Internal communication and flows (I) belong to administrative reporting to the CEO.",
+    "explanation_th": "หน้าที่รายงานสายปฏิบัติงาน (Functional) ของบอร์ด ได้แก่การอนุมัติแผนการตรวจสอบ (II) และการประเมินเงินเดือนของ CAE (III) ส่วนเรื่องการบริหารงานประสานงานภายในแผนก (I) เป็นเรื่องการรายงานสายบริหารต่อผู้บริหารระดับสูง"
+  },
+  {
+    "id": 95,
+    "original_num": 95,
+    "question_en": "During the performance of an engagement to evaluate a division’s controls over purchasing, the chief purchasing agent asked why the internal auditor had requested documents pertaining to transactions with a particular supplier. The internal auditor’s proper response is to",
+    "question_th": "ในระหว่างการประเมินการควบคุมการจัดซื้อ หัวหน้าแผนกจัดซื้อถามว่าทำไมผู้ตรวจสอบถึงขอบันทึกเอกสารธุรกรรมกับผู้จัดจำหน่ายเฉพาะรายรายหนึ่ง การตอบสนองที่เหมาะสมที่สุดของผู้ตรวจสอบภายในคือข้อใด",
+    "options_en": [
+      "Treat the inquiry as a scope limitation.",
+      "Explain the reasons for the information request to promote cooperation with the engagement client.",
+      "Refuse to explain the information request to preserve the integrity of the engagement process.",
+      "Consider the specific circumstances before deciding whether to disclose the reasons for the information request."
+    ],
+    "options_th": [
+      "ถือว่าคำถามดังกล่าวเป็นการจำกัดขอบเขตการตรวจสอบ",
+      "อธิบายเหตุผลของการขอข้อมูลเพื่อส่งเสริมความร่วมมืออันดีกับหน่วยรับตรวจ",
+      "ปฏิเสธที่จะอธิบายเหตุผลการขอข้อมูลเพื่อรักษาความลับและบูรณภาพของกระบวนการตรวจสอบ",
+      "พิจารณาสถานการณ์เฉพาะหน้านั้นก่อนที่จะตัดสินใจว่าจะเปิดเผยเหตุผลของการขอเอกสารหรือไม่"
+    ],
+    "answer_index": 3,
+    "explanation_en": "Disclosure of the reasons documents are needed should be determined based on the circumstances. Significant irregularities may dictate a less open environment. The CAE should make this judgment (Standard 1110.A1).",
+    "explanation_th": "การพิจารณาว่าจะบอกเหตุผลในการขอเอกสารหรือไม่ขึ้นกับบริบทแวดล้อม หากผู้ตรวจสอบระแวงว่ามีการทุจริตรุนแรง การไม่เปิดเผยข้อมูลล่วงหน้าจะรักษาผลการตรวจสอบได้ดีกว่า ซึ่งเป็นดุลยพินิจของ CAE ในการกำหนดระดับความเปิดเผย"
   }
 ]
