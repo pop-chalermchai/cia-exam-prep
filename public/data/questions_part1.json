@@ -1594,5 +1594,1370 @@
     "answer_index": 3,
     "explanation_en": "Disclosure of the reasons documents are needed should be determined based on the circumstances. Significant irregularities may dictate a less open environment. The CAE should make this judgment (Standard 1110.A1).",
     "explanation_th": "การพิจารณาว่าจะบอกเหตุผลในการขอเอกสารหรือไม่ขึ้นกับบริบทแวดล้อม หากผู้ตรวจสอบระแวงว่ามีการทุจริตรุนแรง การไม่เปิดเผยข้อมูลล่วงหน้าจะรักษาผลการตรวจสอบได้ดีกว่า ซึ่งเป็นดุลยพินิจของ CAE ในการกำหนดระดับความเปิดเผย"
+  },
+  {
+    "id": 96,
+    "original_num": 96,
+    "question_en": "Independence permits internal auditors to render impartial and unbiased judgments. The best  way to achieve independence is through",
+    "options_en": [
+      "Individual knowledge and skills.",
+      "A dual-reporting relationship.",
+      "Supervision within the organization.",
+      "Organizational knowledge and skills."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The IAA must be independent (Standard 1100). Independence is the freedom from conditions that \nthreaten the ability of the IAA or the CAE to carry out internal audit responsibilities in an unbiased manner. To achieve \nthe degree of independence necessary to effectively carry out the responsibilities of the IAA, the CAE has direct and \nunrestricted access to senior management and the board. This can be achieved through a dual-reporting relationship \n(Interpretation of Standard 1100). \nAnswer (C) is incorrect. Supervision ensures that engagement objectives are achieved, quality is assured, and staff is \ndeveloped (Standard 2340). \nAnswer (D) is incorrect. Organizational knowledge and skills allow the IAA collectively to achieve professional \nproficiency.",
+    "question_th": "ความเป็นอิสระช่วยให้ผู้ตรวจสอบภายในสามารถให้ความเห็นหรือการตัดสินใจที่เป็นกลางและไม่มีอคติ วิธีที่ดีที่สุดในการบรรลุความเป็นอิสระคือข้อใด",
+    "options_th": [
+      "ความรู้และทักษะส่วนบุคคล",
+      "ความสัมพันธ์ของการรายงานแบบคู่ (Dual-reporting relationship)",
+      "การกำกับดูแลภายในองค์กร",
+      "ความรู้และทักษะระดับองค์กร"
+    ],
+    "explanation_th": "ฝ่ายตรวจสอบภายใน (IAA) ต้องมีความเป็นอิสระ (มาตรฐาน 1100) ความเป็นอิสระคือการปราศจากสภาวะที่คุกคามความสามารถของฝ่ายตรวจสอบภายใน หรือหัวหน้างานบริหารการตรวจสอบภายใน (CAE) ในการปฏิบัติหน้าที่ตรวจสอบภายในด้วยความเที่ยงธรรมและไม่มีอคติ เพื่อให้บรรลุระดับความเป็นอิสระที่จำเป็นสำหรับการปฏิบัติหน้าที่ได้อย่างมีประสิทธิภาพ CAE จะต้องสามารถเข้าถึงผู้บริหารระดับสูงและคณะกรรมการได้โดยตรงและไม่มีข้อจำกัด ซึ่งสิ่งนี้สามารถบรรลุได้ผ่านความสัมพันธ์การรายงานแบบคู่ (การตีความมาตรฐาน 1100)\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากการกำกับดูแลมีไว้เพื่อให้มั่นใจว่างานบรรลุวัตถุประสงค์ คุณภาพได้รับการรับรอง และบุคลากรได้รับการพัฒนา (มาตรฐาน 2340)\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากความรู้และทักษะขององค์กรช่วยให้ฝ่ายตรวจสอบภายในโดยรวมมีความเชี่ยวชาญในวิชาชีพ"
+  },
+  {
+    "id": 97,
+    "original_num": 97,
+    "question_en": "When evaluating the independence of an internal audit activity, a quality assurance review team performing an external assessment considers several factors. Which of the following factors has the least  amount of influence when judging an internal audit activity’s independence?",
+    "options_en": [
+      "Criteria used in making internal auditors’ assignments.",
+      "The extent of internal auditor training in communications skills.",
+      "Relationship between engagement records and engagement communications.",
+      "Impartial and unbiased judgments."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The IAA must be independent (Standard 1100). Independence is the freedom from \nconditions that threaten the ability of the IAA or the CAE to carry out internal audit responsibilities in an unbiased \nmanner. To achieve the degree of independence necessary to effectively carry out the responsibilities of the IAA, \nthe CAE has direct and unrestricted access to senior management and the board. This can be achieved through a \ndual-reporting relationship (Interpretation of Standard 1100). However, training in communication relates to the \nknowledge skills, and other competencies needed to perform engagements, not to independence. \nAnswer (C) is incorrect. If significant engagement observations found in the engagement records are omitted from \nthe engagement communications, independence becomes an issue. \nAnswer (D) is incorrect. Unbiased judgment is an aspect of independence.",
+    "question_th": "เมื่อประเมินความเป็นอิสระของกิจกรรมการตรวจสอบภายใน ทีมงานประเมินคุณภาพจากภายนอก (QAIP) จะพิจารณาหลายปัจจัย ปัจจัยใดต่อไปนี้มีอิทธิพลน้อยที่สุดในการตัดสินความเป็นอิสระของกิจกรรมการตรวจสอบภายใน",
+    "options_th": [
+      "เกณฑ์ที่ใช้ในการมอบหมายงานผู้ตรวจสอบภายใน",
+      "ขอบเขตการฝึกอบรมทักษะการสื่อสารของผู้ตรวจสอบภายใน",
+      "ความสัมพันธ์ระหว่างเอกสารบันทึกการปฏิบัติงานและรายงานผลการปฏิบัติงาน",
+      "การให้ความเห็นและการตัดสินใจที่เป็นกลางและไม่มีอคติ"
+    ],
+    "explanation_th": "ฝ่ายตรวจสอบภายใน (IAA) ต้องมีความเป็นอิสระ (มาตรฐาน 1100) ความเป็นอิสระคือการปราศจากสภาวะคุกคามความสามารถของฝ่ายตรวจสอบภายใน หรือหัวหน้างานบริหารการตรวจสอบภายใน (CAE) ในการปฏิบัติงานในลักษณะที่เป็นกลางและไม่มีอคติ เพื่อให้บรรลุระดับความเป็นอิสระที่จำเป็น CAE ต้องสามารถเข้าถึงผู้บริหารระดับสูงและคณะกรรมการได้โดยตรงและไม่มีข้อจำกัด ซึ่งบรรลุได้ด้วยโครงสร้างการรายงานแบบคู่ (การตีความมาตรฐาน 1100) อย่างไรก็ตาม การฝึกอบรมด้านการสื่อสารเกี่ยวข้องกับความรู้ ทักษะ และความสามารถอื่น ๆ ที่จำเป็นต่อการปฏิบัติงาน ไม่เกี่ยวกับความเป็นอิสระ\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากหากการสังเกตการณ์ที่สำคัญซึ่งพบในบันทึกการปฏิบัติงานถูกตัดออกจากการรายงานผลการปฏิบัติงาน ความเป็นอิสระจะกลายเป็นประเด็นปัญหาทันที\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการตัดสินใจที่เป็นกลางและไม่มีอคติเป็นส่วนหนึ่งของความเป็นอิสระ"
+  },
+  {
+    "id": 98,
+    "original_num": 98,
+    "question_en": "The optimal administrative reporting line of the CAE is to",
+    "options_en": [
+      "The audit committee.",
+      "Line management.",
+      "Board of directors.",
+      "CEO or equivalent."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Administrative reporting is the reporting relationship within the organization’s management \nstructure that facilitates the day-to-day operations of the IAA (PA 1110-1). Administrative reporting typically \nincludes (1) budgeting and management accounting; (2) human resource administration, including personnel \nevaluations and compensation; (3) internal communications and information flows; and (4) administration of the \norganization’s internal policies and procedures. Reporting functionally to the board and administratively to the \nCEO facilitates organizational independence (PA 1110-1).",
+    "question_th": "สายการรายงานด้านการบริหาร (Administrative reporting line) ที่เหมาะสมที่สุดของหัวหน้างานบริหารการตรวจสอบภายใน (CAE) คือข้อใด",
+    "options_th": [
+      "คณะกรรมการตรวจสอบ (Audit committee)",
+      "ผู้บริหารสายงานหลัก (Line management)",
+      "คณะกรรมการบริษัท (Board of directors)",
+      "ประธานเจ้าหน้าที่บริหาร (CEO) หรือเทียบเท่า"
+    ],
+    "explanation_th": "การรายงานด้านการบริหาร (Administrative reporting) คือความสัมพันธ์ของการรายงานภายในโครงสร้างการจัดการขององค์กรที่ช่วยอำนวยความสะดวกในการดำเนินงานประจำวันของกิจกรรมการตรวจสอบภายใน (PA 1110-1) โดยทั่วไปการรายงานด้านการบริหารประกอบด้วย: (1) การจัดงบประมาณและการบัญชีเพื่อการจัดการ (2) การบริหารทรัพยากรบุคคล รวมถึงการประเมินผลและการกำหนดค่าตอบแทนบุคคลากร (3) การสื่อสารภายในและการไหลเวียนของข้อมูล และ (4) การบริหารนโยบายและขั้นตอนการดำเนินงานภายในขององค์กร การรายงานเชิงหน้าที่ต่อคณะกรรมการและการรายงานด้านการบริหารต่อประธานเจ้าหน้าที่บริหาร (CEO) จะช่วยส่งเสริมความเป็นอิสระขององค์กร (PA 1110-1)"
+  },
+  {
+    "id": 100,
+    "original_num": 100,
+    "question_en": "A formal document (charter) approved by the board that defines the internal audit activity’s purpose, authority, and responsibility enhances its",
+    "options_en": [
+      "Exercise of due professional care.",
+      "Proficiency.",
+      "Relationship with management.",
+      "Independence."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The purpose, authority, and responsibility of the internal audit activity must be defined in a \ncharter (Standard 1000). The charter establishes the internal audit activity’s position within the organization; \nauthorizes access to records, personnel, and physical properties relevant to the performance of engagements; and \ndefines the scope of internal audit activities (Interpretation of Standard 1000). By formally stating these matters in \na document approved by the board, the charter promotes independence.",
+    "question_th": "เอกสารที่เป็นทางการ (กฎบัตร) ที่ได้รับอนุมัติจากคณะกรรมการ ซึ่งระบุวัตถุประสงค์ อำนาจหน้าที่ และความรับผิดชอบของกิจกรรมการตรวจสอบภายใน จะช่วยส่งเสริมข้อใด",
+    "options_th": [
+      "การใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ",
+      "ความเชี่ยวชาญในวิชาชีพ",
+      "ความสัมพันธ์กับฝ่ายบริหาร",
+      "ความเป็นอิสระ"
+    ],
+    "explanation_th": "วัตถุประสงค์ อำนาจหน้าที่ และความรับผิดชอบ of กิจกรรมการตรวจสอบภายในจะต้องกำหนดไว้ในกฎบัตรอย่างเป็นทางการ (มาตรฐาน 1000) กฎบัตรเป็นตัวกำหนดสถานะของกิจกรรมการตรวจสอบภายในภายในองค์กร อนุญาตให้เข้าถึงบันทึก บุคลากร และทรัพย์สินทางกายภาพที่เกี่ยวข้องกับการปฏิบัติงาน และกำหนดขอบเขตของกิจกรรมการตรวจสอบภายใน (การตีความมาตรฐาน 1000) การกำหนดเรื่องเหล่านี้อย่างเป็นลายลักษณ์อักษรในเอกสารที่ได้รับอนุมัติจากคณะกรรมการจะช่วยส่งเสริมความเป็นอิสระของฝ่ายตรวจสอบ"
+  },
+  {
+    "id": 101,
+    "original_num": 101,
+    "question_en": "Independence is freedom from conditions that threaten objectivity or the appearance of objectivity. Which policy best promotes independence?",
+    "options_en": [
+      "Requiring internal auditors to report to the chief audit executive any conflicts of interest or bias.",
+      "Preventing the internal audit activity from recommending standards of control for systems that it evaluates.",
+      "Allowing engagements concerning sensitive operations to be outsourced.",
+      "Preventing personnel transfers from operating activities to the internal audit activity."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Internal auditors are to report to the chief audit executive (CAE) any situations in which an \nactual or potential impairment to independence or objectivity may reasonably be inferred or if they have questions \nabout whether a situation constitutes an impairment to objectivity or independence. If the CAE determines that \nimpairment exists or may be inferred, (s)he needs to reassign the auditor(s) (PA 1130-1). \nAnswer (B) is incorrect. Internal auditing may recommend standards of control for systems that it evaluates. \nAnswer (C) is incorrect. Outsourcing certain engagements does not promote the independence of the IAA. \nAnswer (D) is incorrect. Transfers from operating activities to the IAA usually are permitted. However, transferees \nshould not be assigned to engagements concerning activities they previously performed until at least 1 year has \nelapsed.",
+    "question_th": "ความเป็นอิสระคือการปราศจากสภาวะที่คุกคามความเที่ยงธรรมหรือภาพลักษณ์ของความเที่ยงธรรม นโยบายใดต่อไปนี้ช่วยส่งเสริมความเป็นอิสระได้ดีที่สุด",
+    "options_th": [
+      "การกำหนดให้ผู้ตรวจสอบภายในต้องรายงานความขัดแย้งทางผลประโยชน์หรืออคติต่อหัวหน้างานบริหารการตรวจสอบภายใน (CAE)",
+      "การป้องกันไม่ให้กิจกรรมการตรวจสอบภายในแนะนำมาตรฐานการควบคุมสำหรับระบบงานที่ตนประเมิน",
+      "การอนุญาตให้จ้างหน่วยงานภายนอก (Outsource) ตรวจสอบการปฏิบัติงานที่มีความละเอียดอ่อน",
+      "การป้องกันไม่ให้มีการโอนย้ายบุคลากรจากฝ่ายปฏิบัติงานมายังกิจกรรมการตรวจสอบภายใน"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในต้องรายงานสถานการณ์ใด ๆ ที่อาจอนุมานได้ว่ามีความบกพร่องในความเป็นอิสระหรือความเที่ยงธรรม ไม่ว่าจะเกิดขึ้นจริงหรืออาจเกิดขึ้น หรือหากพวกเขามีคำถามว่าสถานการณ์ดังกล่าวเข้าข่ายความบกพร่องหรือไม่ ต่อหัวหน้างานบริหารการตรวจสอบภายใน (CAE) หาก CAE ตัดสินว่ามีความบกพร่องเกิดขึ้นจริงหรืออาจเป็นเช่นนั้น CAE จะต้องมอบหมายงานให้ผู้ตรวจสอบคนอื่นแทน (PA 1130-1)\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากงานตรวจสอบภายในสามารถแนะนำมาตรฐานการควบคุมสำหรับระบบงานที่กำลังประเมินได้\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากการจ้างบุคคลภายนอกสำหรับงานเฉพาะบางประเภทไม่ได้ส่งเสริมความเป็นอิสระของกิจกรรมตรวจสอบภายในโดยรวม\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการย้ายผู้ปฏิบัติงานมายังฝ่ายตรวจสอบภายในตามปกติเป็นเรื่องที่ทำได้ แต่ห้ามมิให้ผู้ที่ย้ายมาปฏิบัติงานตรวจสอบในกิจกรรมที่ตนเองเคยดูแลจนกว่าจะผ่านพ้นไปอย่างน้อย 1 ปี"
+  },
+  {
+    "id": 102,
+    "original_num": 102,
+    "question_en": "The reporting structure that is most  likely to allow the internal audit activity to accomplish its responsibilities is to report administratively to the",
+    "options_en": [
+      "Board and functionally to the chief executive officer.",
+      "Controller and functionally to the chief financial officer.",
+      "Chief executive officer and functionally to the board of directors.",
+      "Chief executive officer and functionally to the external auditor."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The CAE, reporting functionally to the board and administratively to the organization’s \nCEO, facilitates organizational independence. At a minimum, the CAE needs to report to an individual in the \norganization with sufficient authority to promote independence and to ensure broad engagement coverage, \nadequate consideration of engagement communications, and appropriate action on engagement recommendations \n(PA 1110-1). Being responsible to the chief executive officer while maintaining a functional relationship with the \nboard satisfies the need for an organizational status sufficient for accomplishment of the internal audit activity’s \nresponsibilities. \nAnswer (D) is incorrect. The external auditor is not part of the organizational hierarchy.",
+    "question_th": "โครงสร้างการรายงานใดต่อไปนี้มีแนวโน้มมากที่สุดที่จะช่วยให้กิจกรรมการตรวจสอบภายในปฏิบัติงานได้สำเร็จตามภาระหน้าที่ความรับผิดชอบ",
+    "options_th": [
+      "รายงานด้านการบริหารต่อคณะกรรมการ และรายงานเชิงหน้าที่ต่อประธานเจ้าหน้าที่บริหาร (CEO)",
+      "รายงานด้านการบริหารต่อผู้ควบคุมบัญชี (Controller) และรายงานเชิงหน้าที่ต่อประธานเจ้าหน้าที่บริหารฝ่ายการเงิน (CFO)",
+      "รายงานด้านการบริหารต่อประธานเจ้าหน้าที่บริหาร (CEO) และรายงานเชิงหน้าที่ต่อคณะกรรมการบริษัท",
+      "รายงานด้านการบริหารต่อประธานเจ้าหน้าที่บริหาร (CEO) และรายงานเชิงหน้าที่ต่อผู้สอบบัญชีภายนอก"
+    ],
+    "explanation_th": "การที่ CAE รายงานเชิงหน้าที่ (Functionally) ต่อคณะกรรมการบริษัท และรายงานด้านการบริหาร (Administratively) ต่อประธานเจ้าหน้าที่บริหาร (CEO) ขององค์กร จะช่วยส่งเสริมความเป็นอิสระขององค์กร อย่างน้อยที่สุด CAE จะต้องรายงานต่อบุคคลในองค์กรที่มีอำนาจเพียงพอที่จะส่งเสริมความเป็นอิสระและสร้างความมั่นใจในการเข้าถึงขอบเขตงานอย่างกว้างขวาง การพิจารณารายงานผลการปฏิบัติงานอย่างเพียงพอ และการดำเนินการที่เหมาะสมกับข้อเสนอแนะของการตรวจสอบ (PA 1110-1) การรับผิดชอบต่อประธานเจ้าหน้าที่บริหาร in ขณะที่ยังคงความสัมพันธ์เชิงหน้าที่กับคณะกรรมการทำให้ฝ่ายตรวจสอบภายในมีสถานะในองค์กรที่เพียงพอที่จะปฏิบัติงานให้สำเร็จตามความรับผิดชอบได้\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากผู้สอบบัญชีภายนอกไม่ได้อยู่ในโครงสร้างการจัดองค์กรภายในสำหรับการรายงานด้านการบริหาร"
+  },
+  {
+    "id": 103,
+    "original_num": 103,
+    "question_en": "The organizational status of the internal audit activity",
+    "options_en": [
+      "Must be sufficient to permit the accomplishment of the activity’s responsibilities.",
+      "Is best when the reporting relationship is direct to the board of directors.",
+      "Requires only the board’s annual approval of the engagement work schedule, staffing plan, and financial budget.",
+      "Is guaranteed when the charter specifically defines the activity’s independence."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". The IAA must be independent (Standard 1100). Independence is the freedom from conditions that \nthreaten the ability of the internal audit activity or the CAE to carry out internal audit responsibilities in an unbiased \nmanner. To achieve the degree of independence necessary to effectively carry out the responsibilities of the IAA, the CAE \nhas direct and unrestricted access to senior management and the board. This can be achieved through a dual-reporting \nrelationship. Threats to independence must be managed at the individual auditor, engagement, functional, and \norganizational levels. Thus, the chief audit executive must report to a level within the organization that allows the IAA to \nfulfill its responsibilities (Standard 1110). Support from senior management and the board assists the internal audit \nactivity in gaining the cooperation of engagement clients and performing their work free from interference (PA 1110-1). \nAnswer (B) is incorrect. The IAA requires day-to-day support that cannot be provided by the board. It should still report \nto management. Ideally, the IAA should report administratively to the CEO of the organization. \nAnswer (C) is incorrect. The CAE will submit annually to senior management and the board for review and approval, a \nsummary of the IAA’s audit plan work schedule, staffing plan, and financial budget (PA 2020-1). \nAnswer (D) is incorrect. A statement in the charter does not guarantee independence.",
+    "question_th": "สถานะของกิจกรรมการตรวจสอบภายในในองค์กร",
+    "options_th": [
+      "ต้องเพียงพอที่จะอนุญาตให้การปฏิบัติหน้าที่และความรับผิดชอบของกิจกรรมสำเร็จลุล่วงได้",
+      "จะดีที่สุดหากรายงานตรงต่อคณะกรรมการบริษัทแต่เพียงอย่างเดียว",
+      "ต้องการเพียงการอนุมัติประจำปีจากคณะกรรมการในส่วนของกำหนดการปฏิบัติงาน แผนกำลังคน และงบประมาณการเงินเท่านั้น",
+      "จะได้รับการรับประกันเมื่อกฎบัตรระบุความเป็นอิสระของกิจกรรมไว้เป็นลายลักษณ์อักษรโดยเฉพาะ"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายใน (IAA) ต้องมีความเป็นอิสระ (มาตรฐาน 1100) ความเป็นอิสระคือความปราศจากสภาวะที่คุกคามความสามารถของฝ่ายตรวจสอบหรือหัวหน้างานบริหารการตรวจสอบภายใน (CAE) ในการปฏิบัติหน้าที่โดยไม่มีอคติ เพื่อให้บรรลุระดับความเป็นอิสระที่จำเป็น CAE ต้องสามารถเข้าถึงผู้บริหารระดับสูงและคณะกรรมการได้โดยตรงและไม่จำกัด ซึ่งบรรลุได้ด้วยความสัมพันธ์การรายงานแบบคู่ ความเสี่ยงต่อความเป็นอิสระต้องได้รับการจัดการทั้งในระดับผู้ตรวจสอบแต่ละคน ระดับงานตรวจสอบ ระดับงานเชิงหน้าที่ และระดับองค์กร ดังนั้น CAE ต้องรายงานต่อระดับโครงสร้างในองค์กรที่ช่วยให้สามารถปฏิบัติหน้าที่ได้สำเร็จ (มาตรฐาน 1110) การสนับสนุนจากผู้บริหารระดับสูงและคณะกรรมการช่วยให้ผู้ตรวจสอบได้รับความร่วมมือจากผู้รับการตรวจสอบและทำงานโดยปราศจากการแทรกแซง (PA 1110-1)\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากฝ่ายตรวจสอบต้องการการสนับสนุนการดำเนินงานในชีวิตประจำวันซึ่งคณะกรรมการไม่สามารถให้ได้ จึงต้องรายงานต่อฝ่ายบริหารด้วย โดยทั่วไปคือรายงานด้านบริหารต่อ CEO\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจาก CAE จะต้องเสนอแผนการตรวจสอบ แผนอัตรากำลังคน และงบประมาณต่อทั้งผู้บริหารระดับสูงและคณะกรรมการเพื่อทบทวนและอนุมัติเป็นประจำปี (PA 2020-1)\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากเพียงแค่ข้อความในกฎบัตรไม่สามารถรับประกันความเป็นอิสระในทางปฏิบัติจริงได้"
+  },
+  {
+    "id": 104,
+    "original_num": 104,
+    "question_en": "Audit committees are most  likely to participate in approving",
+    "options_en": [
+      "Staff promotions and salary increases.",
+      "Engagement communication observations, conclusions, and recommendations.",
+      "Engagement work programs.",
+      "Appointment of the chief audit executive."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The IAA should be independent (Standard 1100). Independence is the freedom from \nconditions that threaten the ability of the internal audit activity or the CAE to carry out internal audit \nresponsibilities in an unbiased manner. To achieve the degree of independence necessary to effectively carry out \nthe responsibilities of the IAA, the CAE has direct and unrestricted access to senior management and the board. \nThis can be achieved through a dual-reporting relationship. Threats to independence must be managed at the \nindividual auditor, engagement, functional, and organizational levels. Thus, the chief audit executive must report to \na level within the organization that allows the IAA to accomplish its responsibilities (Standard 1110). \nIndependence is enhanced when the board concurs in the appointment or removal of the CAE (PA 1110-1). The \naudit committee is a subcommittee of outside directors who are independent of management. The term “board” \nincludes the audit committee.",
+    "question_th": "คณะกรรมการตรวจสอบ (Audit committee) มีแนวโน้มมากที่สุดที่จะมีส่วนร่วมในการอนุมัติสิ่งใด",
+    "options_th": [
+      "การเลื่อนตำแหน่งพนักงานและการขึ้นเงินเดือน",
+      "ข้อสังเกต ข้อสรุป และข้อเสนอแนะจากการรายงานผลการตรวจสอบ",
+      "แนวทางการปฏิบัติงานตรวจสอบ (Engagement work programs)",
+      "การแต่งตั้งหัวหน้างานบริหารการตรวจสอบภายใน (CAE)"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายในควรมีความเป็นอิสระ (มาตรฐาน 1100) เพื่อบรรลุความเป็นอิสระในการทำหน้าที่ได้อย่างมีประสิทธิภาพ CAE จะต้องสามารถเข้าถึงผู้บริหารระดับสูงและคณะกรรมการได้โดยตรงและไม่จำกัดผ่านความสัมพันธ์การรายงานแบบคู่ ความเป็นอิสระจะเพิ่มมากขึ้นเมื่อคณะกรรมการมีส่วนร่วมในการอนุมัติแต่งตั้งหรือถอดถอนหัวหน้างานบริหารการตรวจสอบภายใน (CAE) (PA 1110-1) ทั้งนี้ คณะกรรมการตรวจสอบประกอบด้วยกรรมการภายนอกที่เป็นอิสระจากฝ่ายบริหาร และคำว่า “คณะกรรมการ” ในมาตรฐานวิชาชีพครอบคลุมถึงคณะกรรมการตรวจสอบด้วย"
+  },
+  {
+    "id": 105,
+    "original_num": 105,
+    "question_en": "The IIA has indicated that to achieve necessary independence, the CAE should report functionally to whom?",
+    "options_en": [
+      "Senior management.",
+      "Shareholders.",
+      "Chief Executive Officer.",
+      "Audit committee."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The Standards  require that the CAE report to a level within the organization that allows the \ninternal audit activity to fulfill its responsibilities. The Institute believes that to achieve necessary independence, \nthe CAE should report functionally to the board, of which the audit committee is a part.",
+    "question_th": "สมาคมผู้ตรวจสอบภายในสากล (The IIA) ระบุว่า เพื่อให้บรรลุความเป็นอิสระที่จำเป็น หัวหน้างานบริหารการตรวจสอบภายใน (CAE) ควรรายงานเชิงหน้าที่ (Functional reporting) ต่อใคร",
+    "options_th": [
+      "ผู้บริหารระดับสูง (Senior management)",
+      "ผู้ถือหุ้น (Shareholders)",
+      "ประธานเจ้าหน้าที่บริหาร (CEO)",
+      "คณะกรรมการตรวจสอบ (Audit committee)"
+    ],
+    "explanation_th": "มาตรฐานการตรวจสอบภายในระบุว่า CAE จะต้องรายงานต่อระดับในองค์กรที่ช่วยให้กิจกรรมการตรวจสอบภายในสามารถปฏิบัติหน้าที่ได้ครบถ้วนสมบูรณ์ สมาคมผู้ตรวจสอบภายในฯ (IIA) เชื่อว่าการรายงานเชิงหน้าที่ควรรายงานตรงต่อคณะกรรมการบริษัท ซึ่งรวมถึงคณะกรรมการตรวจสอบด้วย เพื่อให้ได้รับความเป็นอิสระที่เหมาะสมในการทำงาน"
+  },
+  {
+    "id": 106,
+    "original_num": 106,
+    "question_en": "In some cultures and organizations, managers insist that an internal audit activity is not needed to provide a critical assessment of the organization’s operations. This kind of management attitude will most  probably have an adverse effect on the internal audit activity’s",
+    "options_en": [
+      "Operating budget variance.",
+      "Effectiveness.",
+      "Performance appraisals.",
+      "Policies and procedures."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". In this situation, management is highly averse to analysis or possible criticism of its actions. \nConsequently, the IAA will not have an organizational status sufficient to achieve its objectives. Engagement \ncommunications are unlikely to receive adequate consideration, and appropriate action is unlikely to be taken on \nengagement recommendations. \nAnswer (C) is incorrect. Evaluation of the internal auditing staff should not be affected by lack of cooperation on \nthe part of noninternal auditing management. \nAnswer (D) is incorrect. Policies and procedures of the IAA are developed by the IAA. They should not be affected \nby noninternal auditing management.",
+    "question_th": "ในบางวัฒนธรรมและองค์กร ผู้บริหารยืนกรานว่าไม่จำเป็นต้องมีกิจกรรมการตรวจสอบภายในเพื่อประเมินผลการปฏิบัติงานขององค์กรในเชิงวิพากษ์ ทัศนคติของฝ่ายบริหารเช่นนี้มีแนวโน้มที่จะส่งผลเสียต่ออะไรมากที่สุด",
+    "options_th": [
+      "ผลต่างงบประมาณดำเนินงาน (Operating budget variance)",
+      "ประสิทธิผล (Effectiveness) ของการตรวจสอบภายใน",
+      "การประเมินผลการปฏิบัติงานของพนักงาน (Performance appraisals)",
+      "นโยบายและระเบียบปฏิบัติงาน (Policies and procedures)"
+    ],
+    "explanation_th": "ในสถานการณ์นี้ ฝ่ายบริหารมีความรู้สึกต่อต้านอย่างมากต่อการวิเคราะห์หรือการวิพากษ์วิจารณ์ผลงานของตน ส่งผลให้กิจกรรมการตรวจสอบภายในมีสถานะในองค์กรที่ไม่เพียงพอสำหรับการบรรลุวัตถุประสงค์ รายงานผลการปฏิบัติงานมีแนวโน้มที่จะไม่ได้รับการพิจารณาอย่างเพียงพอ และคำแนะนำจากการตรวจสอบจะไม่ถูกนำไปปฏิบัติหรือปรับปรุงอย่างเหมาะสม ส่งผลให้ประสิทธิผลโดยรวมของฝ่ายตรวจสอบภายในลดลง\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากการประเมินผลงานของเจ้าหน้าที่ตรวจสอบภายในไม่ควรได้รับผลกระทบจากการขาดความร่วมมือของผู้บริหารสายงานอื่น\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากนโยบายและระเบียบวิธีการตรวจสอบนั้นถูกพัฒนาโดยแผนกตรวจสอบภายในเอง จึงไม่น่าจะได้รับผลกระทบจากฝ่ายบริหารอื่น"
+  },
+  {
+    "id": 108,
+    "original_num": 108,
+    "question_en": "An internal auditor has recently received an offer from the manager of the marketing department of a weekend’s free use of his beachfront condominium. No engagement is currently being conducted in the marketing department, and none is scheduled. The internal auditor",
+    "options_en": [
+      "Should reject the offer and report it to the appropriate supervisor.",
+      "May accept the offer because its value is immaterial.",
+      "May accept the offer because no engagement is being conducted or planned.",
+      "May accept the offer if approved by the appropriate supervisor."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". An internal auditor is not to accept fees, gifts, or entertainment from an employee, client, \ncustomer, supplier, or business associate. Accepting a fee or gift may imply that the auditor’s objectivity has been \nimpaired. Even though an engagement is not being conducted in the applicable area at that time, a future \nengagement may result in the appearance of impairment of objectivity. Thus, no consideration should be given to \nthe engagement status as justification for receiving fees or gifts. The receipt of promotional items (such as pens, \ncalendars, or samples) that are available to the general public and have minimal value do not hinder internal \nauditors’ professional judgments (PA 1130-1). Impairment of independence or objectivity, in fact or appearance, \nmust be disclosed to appropriate parties (Standard 1130). \nAnswer (B) is incorrect. The value of a weekend vacation is not immaterial. \nAnswer (C) is incorrect. The status of engagements is not a justification for receiving fees or gifts. \nAnswer (D) is incorrect. A supervisor may not approve unethical behavior.",
+    "question_th": "ผู้ตรวจสอบภายในได้รับข้อเสนอจากผู้จัดการแผนกการตลาดให้เข้าพักผ่อนในคอนโดมิเนียมริมหาดฟรีในช่วงวันหยุดสุดสัปดาห์ โดยในขณะนี้และแผนงานในอนาคตไม่ได้มีกำหนดการตรวจสอบในแผนกการตลาด ผู้ตรวจสอบภายในควรทำอย่างไร",
+    "options_th": [
+      "ควรปฏิเสธข้อเสนอและรายงานเรื่องดังกล่าวให้ผู้บังคับบัญชาที่เหมาะสมทราบ",
+      "อาจยอมรับข้อเสนอได้เนื่องจากมูลค่าไม่มีนัยสำคัญ",
+      "อาจยอมรับข้อเสนอได้เนื่องจากไม่มีการเข้าตรวจสอบในปัจจุบันหรือในแผนงาน",
+      "อาจยอมรับข้อเสนอได้หากได้รับการอนุมัติจากผู้บังคับบัญชาที่เหมาะสม"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในต้องไม่รับค่าธรรมเนียม ของขวัญ หรือการเลี้ยงรับรองจากพนักงาน ลูกค้า ซัพพลายเออร์ หรือผู้เกี่ยวข้องทางธุรกิจ การยอมรับของขวัญอาจหมายถึงความเที่ยงธรรมของผู้ตรวจสอบลดลงหรือมีความบกพร่อง แม้ว่าจะไม่ได้อยู่ในช่วงตรวจพื้นที่ของแผนกนั้น ๆ แต่การตรวจสอบในอนาคตอาจทำให้เกิดภาพลักษณ์ที่ลดทอนความน่าเชื่อถือและความเที่ยงธรรม ดังนั้นห้ามนำเรื่องสถานะการตรวจสอบมาใช้เป็นข้ออ้างในการรับของขวัญ ส่วนของชำร่วยส่งเสริมการขายที่มีมูลค่าน้อยมาก (เช่น ปากกา ปฏิทิน) ที่แจกจ่ายแก่คนทั่วไปจะไม่ส่งผลกระทบต่อวิจารณญาณทางวิชาชีพ (PA 1130-1) ความบกพร่องด้านความเป็นอิสระหรือความเที่ยงธรรมทั้งในข้อเท็จจริงหรือภาพลักษณ์ จะต้องได้รับการเปิดเผยแก่ฝ่ายที่เกี่ยวข้อง (มาตรฐาน 1130)\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากค่าพักผ่อนคอนโดริมหาดมีมูลค่าที่มีนัยสำคัญ\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากสถานะของการตรวจสอบไม่ใช่ข้อยกเว้นในการรับของขวัญ\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากผู้บังคับบัญชาไม่สามารถอนุมัติพฤติกรรมที่ผิดจรรยาบรรณได้"
+  },
+  {
+    "id": 109,
+    "original_num": 109,
+    "question_en": "Internal auditors must be objective in performing their work. Assume that the chief audit executive received an annual bonus as part of that individual’s compensation package. The bonus may impair the CAE’s objectivity if",
+    "options_en": [
+      "The bonus is administered by the board of directors or its salary administration committee.",
+      "The bonus is based on monetary amounts recovered or recommended future savings as a result of engagements.",
+      "The scope of internal auditing is evaluating control rather than account balances.",
+      "All of the answers are correct."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Objectivity is an unbiased mental attitude that allows internal auditors to perform \nengagements in such a manner that they believe in their work product and that no quality compromises are made. \nObjectivity requires that internal auditors do not subordinate their judgment on audit matters to others. Threats to \nobjectivity must be managed at the individual auditor, engagement, functional, and organizational levels \n(Interpretation of Standard 1100). Thus, objectivity may be impaired if the bonus is based on monetary amounts \nrecovered or recommended future savings as a result of engagements. A bonus based on either of these criteria \ncould unduly influence the type of engagements performed or the recommendations made. \nAnswer (C) is incorrect. The IAA’s scope of work includes evaluating and contributing to the improvement of risk \nmanagement, control, and governance processes. \nAnswer (D) is incorrect. Objectivity is not impaired if the board determines the director’s compensation or if the \nscope of work is evaluating control rather than account balances.",
+    "question_th": "ผู้ตรวจสอบภายในต้องมีความเที่ยงธรรมในการปฏิบัติงาน สมมติว่าหัวหน้างานบริหารการตรวจสอบภายใน (CAE) ได้รับโบนัสประจำปีเป็นส่วนหนึ่งของแพ็กเกจค่าตอบแทน โบนัสดังกล่าวอาจบั่นทอนความเที่ยงธรรมของ CAE ได้หากเกิดกรณีใด",
+    "options_th": [
+      "โบนัสนั้นได้รับการบริหารจัดการโดยคณะกรรมการบริษัทหรือคณะกรรมการพิจารณาค่าตอบแทน",
+      "โบนัสคำนวณตามจำนวนเงินที่กู้คืนได้หรือประมาณการเงินที่ประหยัดได้จากคำแนะนำในงานตรวจสอบ",
+      "ขอบเขตการตรวจสอบภายในเป็นการประเมินการควบคุมมากกว่ายอดดุลบัญชี",
+      "ทุกข้อที่กล่าวมาข้างต้นถูกต้อง"
+    ],
+    "explanation_th": "ความเที่ยงธรรม (Objectivity) คือเจตคติทางจิตใจที่ไม่มีอคติ ซึ่งช่วยให้ผู้ตรวจสอบภายในปฏิบัติงานตรวจสอบโดยเชื่อมั่นในผลงานและไม่ยอมลดทอนคุณภาพ ความเที่ยงธรรมกำหนดให้ผู้ตรวจสอบภายในต้องไม่โอนอ่อนผ่อนตามวิจารณญาณในเรื่องการตรวจสอบให้แก่บุคคลอื่น ความเสี่ยงต่อความเที่ยงธรรมต้องได้รับการจัดการในระดับผู้ตรวจสอบแต่ละราย ระดับงานตรวจสอบ ระดับสายงาน และระดับองค์กร (การตีความมาตรฐาน 1100) ดังนั้น ความเที่ยงธรรมอาจลดลงได้หากโบนัสคิดคำนวณจากจำนวนเงินที่เรียกคืนได้หรือเงินที่ประหยัดได้ตามที่แนะนำในรายงานตรวจสอบ เนื่องจากอาจส่งผลต่อแรงจูงใจในการเลือกเรื่องเข้าตรวจหรือทิศทางของคำแนะนำในการตรวจสอบ\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากขอบเขตงานปกติรวมถึงการประเมินการควบคุมด้วย\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากความเที่ยงธรรมจะไม่ถูกบั่นทอนลงหากคณะกรรมการบริษัทเป็นผู้กำหนดค่าตอบแทนอย่างเหมาะสม หรือเมื่อขอบเขตงานเป็นการประเมินระบบการควบคุม"
+  },
+  {
+    "id": 110,
+    "original_num": 110,
+    "question_en": "Objectivity is most  likely impaired by an internal auditor’s",
+    "options_en": [
+      "Continuation on an engagement at a division for which (s)he will soon be responsible as the result of a promotion.",
+      "Reduction of the scope of an engagement due to budget restrictions.",
+      "Participation on a task force that recommends standards for control of a new distribution system.",
+      "Review of a purchasing agent’s contract drafts prior to their execution."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Objectivity is an unbiased mental attitude that allows internal auditors to perform engagements in \nsuch a manner that they believe in their work product and that no quality compromises are made. Objectivity requires that \ninternal auditors do not subordinate their judgment on audit matters to others. Threats to objectivity must be managed at \nthe individual auditor, engagement, functional, and organizational levels (Interpretation of Standard 1100). Thus, the \ninternal auditor’s promotion may create a bias. \nAnswer (B) is incorrect. Budget restrictions do not constitute an impairment of independence. \nAnswer (C) is incorrect. An internal auditor may recommend standards of control. However, designing, installing, \ndrafting procedures for, or operating systems might impair objectivity (PA 1120-1). \nAnswer (D) is incorrect. An internal auditor may review contracts prior to their execution.",
+    "question_th": "ความเที่ยงธรรมมีแนวโน้มถูกบั่นทอนมากที่สุดจากกรณีใดต่อไปนี้",
+    "options_th": [
+      "การปฏิบัติงานตรวจสอบต่อในหน่วยงานที่ตนกำลังจะเข้ารับตำแหน่งผู้บริหารจากการเลื่อนตำแหน่งในไม่ช้า",
+      "การลดขอบเขตการปฏิบัติงานตรวจสอบลงเนื่องจากข้อจำกัดด้านงบประมาณ",
+      "การมีส่วนร่วมในคณะทำงานเพื่อแนะนำมาตรฐานการควบคุมสำหรับระบบการจัดจำหน่ายใหม่",
+      "การทบทวนร่างสัญญาของพนักงานจัดซื้อก่อนที่จะมีการลงนามสัญญา"
+    ],
+    "explanation_th": "ความเที่ยงธรรมคือเจตคติทางจิตใจที่ไม่มีอคติ ซึ่งช่วยให้ผู้ตรวจสอบทำงานโดยเชื่อมั่นในผลงานโดยไม่ยอมลดทอนคุณภาพ และไม่โอนอ่อนผ่อนตามวิจารณญาณในเรื่องการตรวจสอบให้แก่บุคคลอื่น ความเสี่ยงต่อความเที่ยงธรรมต้องได้รับการจัดการในหลายระดับ (การตีความมาตรฐาน 1100) ดังนั้น การที่ผู้ตรวจสอบกำลังจะย้ายไปรับตำแหน่งบริหารในส่วนงานที่ตนกำลังตรวจ อาจทำให้เกิดอคติเพื่อผลประโยชน์ในอนาคตได้จึงถือเป็นการบั่นทอนความเที่ยงธรรม\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากข้อจำกัดด้านงบประมาณไม่ได้จัดเป็นความบกพร่องของความเที่ยงธรรมโดยตรง\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากผู้ตรวจสอบสามารถให้คำแนะนำเรื่องมาตรฐานการควบคุมได้ แต่การออกแบบ ติดตั้ง ร่างระเบียบกระบวนการ หรือดำเนินการใช้งานจริงสำหรับระบบปฏิบัติการจะถูกสันนิษฐานว่าลดทอนความเที่ยงธรรม (PA 1120-1)\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากผู้ตรวจสอบสามารถทบทวนร่างสัญญาเพื่อประเมินความเสี่ยงก่อนทำสัญญาจริงได้"
+  },
+  {
+    "id": 111,
+    "original_num": 111,
+    "question_en": "As part of a company-sponsored award program, an internal auditor was offered an award of significant monetary value by a division in recognition of the cost savings that resulted from the auditor’s recommendations. According to the International Professional Practices Framework, what is the most  appropriate action for the auditor to take?",
+    "options_en": [
+      "Accept the gift since the engagement is already concluded and the report issued.",
+      "Accept the award under the condition that any proceeds go to charity.",
+      "Inform audit management and ask for direction on whether to accept the gift.",
+      "Decline the gift and advise the division manager’s superior."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The auditor should consult audit management for guidance. Internal auditors are not to \naccept fees, gifts, or entertainment from an employee, client, customer, supplier, or business associate that may \ncreate the appearance that the auditor’s objectivity has been impaired. The appearance that objectivity has been \nimpaired may apply to current and future engagements conducted by the auditor. The status of engagements is not \nto be considered as justification for receiving fees, gifts, or entertainment. The receipt of promotional items (such \nas pens, calendars, or samples) that are available to employees and the general public and have minimal value do \nnot hinder an internal auditor’s professional judgments. Internal auditors are to report immediately the offer of all \nmaterial fees or gifts to their supervisors. (PA 1130-1). \nAnswer (D) is incorrect. Declining the gift and advising the division manager’s superior could erode the audit \nfunction’s relationship with the division in question. The auditor should inform and consult audit management for \nguidance.",
+    "question_th": "ในฐานะส่วนหนึ่งของโครงการมอบรางวัลภายในบริษัท ผู้ตรวจสอบภายในได้รับข้อเสนอรางวัลที่มีมูลค่าทางการเงินสูงจากส่วนงานปฏิบัติการ เพื่อเป็นการยกย่องผลการประหยัดต้นทุนที่เกิดจากข้อเสนอแนะของผู้ตรวจสอบ ตามกรอบแนวทางการปฏิบัติงานวิชาชีพสากล (IPPF) การดำเนินการใดที่เหมาะสมที่สุดที่ผู้ตรวจสอบควรทำ",
+    "options_th": [
+      "รับของขวัญดังกล่าวเนื่องจากงานตรวจสอบเสร็จสิ้นลงแล้วและมีการออกรายงานแล้ว",
+      "รับรางวัลดังกล่าวโดยมีเงื่อนไขว่าให้นำเงินรางวัลทั้งหมดไปบริจาคเพื่อการกุศล",
+      "แจ้งฝ่ายบริหารงานตรวจสอบและขอคำแนะนำว่าจะยอมรับรางวัลดังกล่าวได้หรือไม่",
+      "ปฏิเสธรางวัลดังกล่าวและแจ้งให้ผู้บังคับบัญชาของผู้จัดการส่วนงานปฏิบัติการทราบ"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในควรปรึกษาฝ่ายบริหารงานตรวจสอบเพื่อขอคำแนะนำ ผู้ตรวจสอบต้องไม่รับเงิน ของขวัญ หรือความบันเทิงจากพนักงาน ลูกค้า หรือคู่ค้าที่จะส่งผลต่อภาพลักษณ์ของความเที่ยงธรรมที่อาจถูกมองว่าบกพร่อง ความเที่ยงธรรมที่เสื่อมเสียอาจส่งผลกระทบต่องานตรวจในปัจจุบันและอนาคต และห้ามนำสถานะงานตรวจที่เสร็จแล้วมาใช้เป็นข้ออ้างในการรับของขวัญ ส่วนของชำร่วยขนาดเล็กที่มีมูลค่าต่ำสามารถรับได้ ผู้ตรวจสอบจะต้องรายงานข้อเสนอค่าตอบแทนหรือของขวัญที่มีนัยสำคัญแก่ผู้บังคับบัญชาทันที (PA 1130-1)\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการปฏิเสธทันทีและแจ้งไปยังหัวหน้าของผู้จัดการอาจสร้างความขัดแย้งที่ไม่จำเป็นและบั่นทอนความสัมพันธ์ของงานตรวจสอบ จึงควรให้ฝ่ายบริหารตรวจสอบเป็นผู้พิจารณาและจัดการตามความเหมาะสม"
+  },
+  {
+    "id": 113,
+    "original_num": 113,
+    "question_en": "In which of the following scenarios does the auditor most likely have organizational independence but lack objectivity?",
+    "options_en": [
+      "Reports to the audit client, but does not report ful ly about the reason for the corrective action taken.",
+      "Reports to the board and reports fully about the corrective action taken.",
+      "Reports to the audit client and reports fully about the corrective action taken.",
+      "Reports to the board, but does not report fully abou t the reason for the corrective action taken."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The CAE must report to a level within the organization that allows the internal audit \nactivity to fulfill its responsibilities. Reporting to the board fulfills this requirement. Internal auditors must have an \nimpartial, unbiased attitude and avoid conflicts of interest. Failing to report fully about the reason for corrective \naction may imply a loss of objectivity with regard to the audit client.",
+    "question_th": "In สถานการณ์ใดต่อไปนี้ที่ผู้ตรวจสอบมีแนวโน้มที่จะมีความเป็นอิสระขององค์กร (Organizational independence) แต่ขาดความเที่ยงธรรม (Objectivity) มากที่สุด",
+    "options_th": [
+      "รายงานตรงต่อผู้รับการตรวจสอบ แต่ไม่ได้รายงานอย่างครบถ้วนเกี่ยวกับเหตุผลของการแก้ไขข้อบกพร่อง",
+      "รายงานตรงต่อคณะกรรมการบริษัท และรายงานผลการแก้ไขข้อบกพร่องอย่างครบถ้วน",
+      "รายงานตรงต่อผู้รับการตรวจสอบ และรายงานผลการแก้ไขข้อบกพร่องอย่างครบถ้วน",
+      "รายงานตรงต่อคณะกรรมการบริษัท แต่ไม่ได้รายงานอย่างครบถ้วนเกี่ยวกับเหตุผลของการแก้ไขข้อบกพร่อง"
+    ],
+    "explanation_th": "หัวหน้างานบริหารการตรวจสอบภายใน (CAE) จะต้องรายงานต่อระดับที่เหมาะสมในองค์กรเพื่อให้กิจกรรมตรวจสอบภายในสามารถปฏิบัติหน้าที่ได้ ซึ่งการรายงานเชิงหน้าที่ต่อคณะกรรมการบริษัทจะช่วยสร้างความเป็นอิสระขององค์กรได้ อย่างไรก็ตาม ผู้ตรวจสอบภายในจะต้องมีทัศนคติที่เป็นกลางและไม่มีอคติ รวมถึงหลีกเลี่ยงความขัดแย้งทางผลประโยชน์ การไม่รายงานเหตุผลเบื้องหลังการดำเนินการแก้ไขข้อบกพร่องอย่างครบถ้วนอาจบ่งชี้ถึงการสูญเสียความเที่ยงธรรมไปเนื่องจากต้องการปกป้องผู้รับการตรวจสอบ"
+  },
+  {
+    "id": 115,
+    "original_num": 115,
+    "question_en": "A consulting activity appropriately performed by the internal audit function is",
+    "options_en": [
+      "Designing systems of control.",
+      "Drafting procedures for systems of control.",
+      "Reviewing systems of control before implementation.",
+      "Installing systems of control."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". According to PA 1120-1, reviewing systems, even before implementation, is an activity \nappropriately performed by the internal audit activity and does not impair objectivity. \nAnswer (D) is incorrect. Installing systems of controls is presumed to impair independence.",
+    "question_th": "กิจกรรมการบริการให้คำปรึกษาที่ฝ่ายตรวจสอบภายในสามารถปฏิบัติได้อย่างเหมาะสมคือข้อใด",
+    "options_th": [
+      "การออกแบบระบบการควบคุม",
+      "การเขียนขั้นตอนการปฏิบัติงานสำหรับระบบการควบคุม",
+      "การทบทวนระบบการควบคุมก่อนที่จะมีการนำไปใช้งานจริง",
+      "การติดตั้งระบบการควบคุม"
+    ],
+    "explanation_th": "ตามคำแนะนำการปฏิบัติงาน (PA 1120-1) การทบทวนระบบการควบคุม แม้กระทั่งก่อนการนำไปติดตั้งใช้งานจริง เป็นกิจกรรมที่ฝ่ายตรวจสอบภายในสามารถทำได้อย่างเหมาะสมและไม่บั่นทอนความเที่ยงธรรมของผู้ตรวจสอบ\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการเข้าไปติดตั้งระบบควบคุมจะลดทอนความเป็นอิสระและความเที่ยงธรรมในฐานะผู้ประเมินระบบในภายหลัง"
+  },
+  {
+    "id": 117,
+    "original_num": 117,
+    "question_en": "George is the new internal auditor for XYZ Corporation. George was in charge of payroll for XYZ just 10 months ago. Performing what services in regard to payroll is considered an impairment of independence or objectivity if performed by George?",
+    "options_en": [
+      "Consulting services.",
+      "Assurance services.",
+      "Assurance or consulting services.",
+      "Neither assurance nor consulting services."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Internal auditors must refrain from assessing specific operations for which they were \npreviously responsible. Objectivity is presumed to be impaired if an internal auditor provides assurance services for \nan activity for which the internal auditor had responsibility within the previous year (Standard 1130.A1). Thus, if \nGeorge provides assurance services for payroll, his objectivity is presumed to be impaired. Internal auditors may \nprovide consulting services relating to operations for which they had previous responsibilities (Standard 1130.C1). \nAnswer (C) is incorrect. Providing consulting services regarding payroll will not impair the independence or \nobjectivity of George. \nAnswer (D) is incorrect. Providing assurance services regarding payroll will impair the objectivity of George \n(Standard 1130.A1).",
+    "question_th": "จอร์จ (George) เป็นผู้ตรวจสอบภายในคนใหม่ของบริษัท XYZ เมื่อ 10 เดือนก่อน เขาทำหน้าที่เป็นหัวหน้าแผนกจ่ายเงินเดือน (Payroll) การปฏิบัติงานบริการประเภทใดเกี่ยวกับแผนกจ่ายเงินเดือนที่จะถือเป็นการบั่นทอนความเป็นอิสระหรือความเที่ยงธรรมหากจอร์จเป็นผู้ปฏิบัติงานนั้น",
+    "options_th": [
+      "งานบริการให้คำปรึกษา (Consulting services)",
+      "งานบริการให้ความเชื่อมั่น (Assurance services)",
+      "งานบริการให้ความเชื่อมั่นหรืองานบริการให้คำปรึกษา",
+      "ไม่ใช่ทั้งงานบริการให้ความเชื่อมั่นและงานบริการให้คำปรึกษา"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในต้องงดเว้นจากการประเมินกิจกรรมเฉพาะเจาะจงที่ตนเคยมีความรับผิดชอบมาก่อน ความเที่ยงธรรมจะถูกสันนิษฐานว่าบกพร่องหากผู้ตรวจสอบปฏิบัติงานบริการให้ความเชื่อมั่น (Assurance services) ในกิจกรรมที่ตนเคยรับผิดชอบภายในระยะเวลาหนึ่งปีที่ผ่านมา (มาตรฐาน 1130.A1) ดังนั้น การที่จอร์จให้บริการให้ความเชื่อมั่นแก่แผนกจ่ายเงินเดือนจึงถือเป็นการบั่นทอนความเที่ยงธรรม อย่างไรก็ตาม ผู้ตรวจสอบสามารถให้บริการให้คำปรึกษาแก่กิจกรรมที่ตนเคยรับผิดชอบมาก่อนได้ (มาตรฐาน 1130.C1)\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากงานให้คำปรึกษาไม่ได้เป็นข้อห้ามและไม่ได้บั่นทอนความเที่ยงธรรมของจอร์จโดยตรงตามเกณฑ์ดังกล่าว\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการให้บริการให้ความเชื่อมั่นจะถือเป็นประเด็นบั่นทอนความเที่ยงธรรมทันที"
+  },
+  {
+    "id": 119,
+    "original_num": 119,
+    "question_en": "When faced with an imposed scope limitation, the chief audit executive needs to",
+    "options_en": [
+      "Refuse to perform the engagement until the scope limitation is removed.",
+      "Communicate the potential effects of the scope limitation to the board.",
+      "Increase the frequency of engagements concerning the activity in question.",
+      "Assign more experienced personnel to the engagement."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". A scope limitation is a restriction placed upon the IAA that precludes the accomplishment \nof its objectives and plans. Among other things, a scope limitation may restrict (1) the scope defined in the charter; \n(2) the IAA’s access to records, personnel, and physical properties relevant to the performance of engagements; (3) \nthe approved engagement work schedule; (4) necessary engagement procedures; and (5) the approved staffing plan \nand financial budget. A scope limitation, along with its potential effect, needs to be communicated, preferably in \nwriting, to the board (PA 1130-1). \nAnswer (C) is incorrect. A scope limitation does not necessarily require more frequent engagements. \nAnswer (D) is incorrect. A scope limitation does not necessarily require more experienced personnel.",
+    "question_th": "เมื่อเผชิญกับข้อจำกัดขอบเขตการตรวจสอบที่ถูกกำหนดขึ้น หัวหน้างานบริหารการตรวจสอบภายใน (CAE) จำเป็นต้องดำเนินการอย่างไร",
+    "options_th": [
+      "ปฏิเสธที่จะปฏิบัติงานตรวจสอบจนกว่าข้อจำกัดขอบเขตจะถูกยกเลิกไป",
+      "รายงานผลกระทบที่อาจเกิดขึ้นจากข้อจำกัดขอบเขตการตรวจสอบนั้นต่อคณะกรรมการบริษัท",
+      "เพิ่มความถี่ของงานตรวจสอบในแผนกหรือกิจกรรมที่เป็นประเด็นปัญหาดังกล่าว",
+      "มอบหมายให้บุคลากรที่มีประสบการณ์สูงขึ้นเข้าทำงานตรวจสอบนั้น"
+    ],
+    "explanation_th": "ข้อจำกัดขอบเขตงานตรวจสอบ (Scope limitation) คือข้อห้ามหรือข้อจำกัดที่ส่งผลให้แผนกตรวจสอบไม่สามารถบรรลุวัตถุประสงค์และแผนงานที่กำหนดไว้ได้ ข้อจำกัดอาจประกอบด้วย: (1) ข้อจำกัดในการเข้าถึงข้อมูล บุคลากร หรือสถานที่ (2) ขอบเขตงานตามที่เขียนในกฎบัตร (3) กำหนดการทำงานที่ได้รับการอนุมัติ (4) ขั้นตอนการตรวจสอบที่จำเป็น และ (5) แผนอัตรากำลังหรืองบประมาณที่ได้รับการอนุมัติ ข้อจำกัดขอบเขตพร้อมทั้งผลกระทบที่อาจเกิดขึ้นจะต้องรายงานต่อคณะกรรมการ โดยควรจัดทำเป็นลายลักษณ์อักษร (PA 1130-1)\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากข้อจำกัดขอบเขตไม่ได้แปลว่าต้องตรวจบ่อยขึ้น\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากข้อจำกัดขอบเขตไม่ได้หมดไปได้ด้วยการใช้ผู้มีประสบการณ์สูงขึ้น"
+  },
+  {
+    "id": 125,
+    "original_num": 125,
+    "question_en": "Which of the following activities is not  presumed to impair the objectivity of an internal auditor? Recommending standards of control for a new information system application I. Drafting procedures for running a new computer application to ensure that proper controls are installed II. Performing reviews of procedures for a new computer application before it is installed III.",
+    "options_en": [
+      "I only.",
+      "II only.",
+      "III only.",
+      "I and III."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The internal auditor’s objectivity is not adversely affected when (s)he recommends \nstandards of control for systems or reviews procedures before they are implemented. Designing, installing, or \ndrafting procedures for operating systems is presumed to impair objectivity (PA 1120-1).",
+    "question_th": "กิจกรรมใดต่อไปนี้ที่ไม่ถือว่าเป็นการบั่นทอนความเที่ยงธรรมของผู้ตรวจสอบภายใน\nI. การแนะนำมาตรฐานการควบคุมสำหรับแอปพลิเคชันระบบสารสนเทศใหม่\nII. การเขียนขั้นตอนปฏิบัติงานสำหรับคอมพิวเตอร์แอปพลิเคชันใหม่เพื่อให้แน่ใจว่ามีการติดตั้งการควบคุมที่เหมาะสม\nIII. การดำเนินการทบทวนขั้นตอนปฏิบัติงานของแอปพลิเคชันคอมพิวเตอร์ใหม่ก่อนที่จะทำการติดตั้งใช้จริง",
+    "options_th": [
+      "เฉพาะข้อ I เท่านั้น",
+      "เฉพาะข้อ II เท่านั้น",
+      "เฉพาะข้อ III เท่านั้น",
+      "ข้อ I และ III"
+    ],
+    "explanation_th": "ความเที่ยงธรรมของผู้ตรวจสอบภายในจะไม่ได้รับผลกระทบในทางลบเมื่อแนะนำมาตรฐานการควบคุมสำหรับระบบงาน หรือเมื่อช่วยทบทวนระเบียบปฏิบัติงานก่อนนำมาติดตั้งใช้งานจริง อย่างไรก็ตาม การออกแบบ ติดตั้ง หรือร่างระเบียบปฏิบัติงานปฏิบัติการจริงสำหรับระบบจะถูกสันนิษฐานว่าบั่นทอนความเที่ยงธรรม (PA 1120-1)"
+  },
+  {
+    "id": 126,
+    "original_num": 126,
+    "question_en": "An internal auditor who had been supervisor of the accounts payable section should not  perform an assurance review of that section",
+    "options_en": [
+      "Because there is no way to measure a reasonable period of time in which to establish independence.",
+      "Until at least 1 year has elapsed.",
+      "Until after the next annual review by the external auditors.",
+      "Until it is clear that the new supervisor has assumed the responsibilities."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Persons transferred to, or temporarily engaged by, the internal audit activity should not be \nassigned to engagements involving assurance reviews of activities they previously performed until at least 1 year \nhas elapsed. Such assignments are presumed to impair objectivity (PA 1130.A1-1). \nAnswer (C) is incorrect. The external review does not bear any relation to restoring the internal auditor’s \nobjectivity. \nAnswer (D) is incorrect. The new supervisor presumably would have assumed his/her responsibilities immediately. \nHence, a year could not have elapsed.",
+    "question_th": "ผู้ตรวจสอบภายในที่เคยทำหน้าที่เป็นหัวหน้าแผนกเจ้าหนี้การค้า (Accounts payable) ไม่ควรเข้าไปปฏิบัติงานบริการให้ความเชื่อมั่นในแผนกดังกล่าวจนกว่าจะเกิดกรณีใด",
+    "options_th": [
+      "เนื่องจากไม่มีวิธีการวัดระยะเวลาที่สมเหตุสมผลเพื่อพิสูจน์ความเป็นอิสระขึ้นใหม่",
+      "จนกว่าเวลาจะล่วงเลยผ่านไปอย่างน้อย 1 ปี",
+      "จนกว่าจะผ่านพ้นการตรวจสอบประจำปีรอบถัดไปของผู้สอบบัญชีภายนอก",
+      "จนกว่าจะแน่ใจว่าหัวหน้าคนใหม่ได้เริ่มรับผิดชอบหน้าที่การทำงานอย่างสมบูรณ์แล้ว"
+    ],
+    "explanation_th": "ผู้รับการโอนย้ายหรือผู้ที่เข้ารับหน้าที่ตรวจสอบภายในเป็นการชั่วคราว ไม่ควรมอบหมายงานบริการให้ความเชื่อมั่นในส่วนงานที่ตนเคยมีหน้าที่รับผิดชอบปฏิบัติงานมาก่อนจนกว่าจะผ่านพ้นไปแล้วอย่างน้อย 1 ปี เนื่องจากเหตุการณ์ดังกล่าวถูกสันนิษฐานว่าบั่นทอนความเที่ยงธรรมของผู้ตรวจสอบอย่างรุนแรง (PA 1130.A1-1)\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากการเข้าตรวจของผู้สอบบัญชีภายนอกไม่ได้เกี่ยวข้องกับการฟื้นคืนความเที่ยงธรรมของผู้ตรวจสอบภายใน\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากหัวหน้าคนใหม่ย่อมเข้าดูแลงานในทันทีหลังจากโอนย้าย แต่ระยะเวลาความบกพร่องตามจรรยาบรรณกำหนดไว้คงที่คือ 1 ปี"
+  },
+  {
+    "id": 129,
+    "original_num": 129,
+    "question_en": "Reengineering is the thorough analysis, fundamental rethinking, and complete redesign of essential business processes. The intended result is a dramatic improvement in service, quality, speed, and cost. An internal auditor’s involvement in reengineering should include all of the following except",
+    "options_en": [
+      "Determining whether the process has senior management’s support.",
+      "Recommending areas for consideration.",
+      "Developing audit plans for the new system.",
+      "Directing the implementation of the redesigned process."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Internal auditors should not become directly involved in the implementation of the redesign \nprocess. This involvement would impair their independence and objectivity. Staff assignments of internal auditors \nshould be rotated periodically whenever it is practicable to do so.",
+    "question_th": "การปรับรื้อระบบ (Reengineering) คือการวิเคราะห์อย่างละเอียด การปรับคิดแนวทางพื้นฐานใหม่ และการออกแบบกระบวนการธุรกิจที่จำเป็นใหม่ทั้งหมด โดยมีเป้าหมายเพื่อปรับปรุงการบริการ คุณภาพ ความเร็ว และต้นทุนอย่างก้าวกระโดด การมีส่วนร่วมของผู้ตรวจสอบภายในในการปรับรื้อระบบควรครอบคลุมทุกข้อต่อไปนี้ ยกเว้นข้อใด",
+    "options_th": [
+      "การตรวจสอบดูว่ากระบวนการดังกล่าวได้รับการสนับสนุนจากผู้บริหารระดับสูงหรือไม่",
+      "การให้คำแนะนำเกี่ยวกับขอบเขตงานหรือประเด็นที่ควรพิจารณา",
+      "การพัฒนาแผนการตรวจสอบสำหรับระบบงานใหม่",
+      "การควบคุมหรือสั่งการการนำกระบวนการที่ออกแบบใหม่ไปใช้อย่างเป็นทางการ"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในไม่ควรเข้าไปมีบทบาทในการนำการปรับปรุงกระบวนการหรือการปรับรื้อระบบไปใช้ปฏิบัติการโดยตรง (Direct implementation) เนื่องจากกิจกรรมดังกล่าวเป็นการก้าวล่วงขอบเขตความรับผิดชอบของฝ่ายบริหาร ซึ่งจะทำให้ความเป็นอิสระและความเที่ยงธรรมในการทำงานตรวจสอบภายหลังลดลง นอกจากนี้หน้าที่ความรับผิดชอบของผู้ตรวจสอบควรสลับหมุนเวียนเป็นระยะหากสามารถทำได้จริงเพื่อป้องกันการยึดติดในงาน"
+  },
+  {
+    "id": 131,
+    "original_num": 131,
+    "question_en": "An activity appropriately performed by the internal audit activity is",
+    "options_en": [
+      "Designing systems of control.",
+      "Drafting procedures for systems of control.",
+      "Reviewing systems of control before implementation.",
+      "Installing systems of control."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The internal auditor’s objectivity is not adversely affected when (s)he recommends \nstandards of control for systems or reviews procedures before they are implemented. However, an internal auditor’s \nobjectivity is considered to be impaired if the auditor designs, installs, drafts procedures for, or operates such \nsystems (PA 1120-1). \nAnswer (D) is incorrect. Installing systems of control is presumed to impair objectivity.",
+    "question_th": "กิจกรรมใดที่ฝ่ายตรวจสอบภายในสามารถปฏิบัติงานได้อย่างเหมาะสม",
+    "options_th": [
+      "การออกแบบระบบการควบคุม",
+      "การเขียนขั้นตอนปฏิบัติงานสำหรับระบบการควบคุม",
+      "การทบทวนระบบการควบคุมก่อนที่จะนำมาใช้อย่างเป็นทางการ",
+      "การติดตั้งระบบการควบคุม"
+    ],
+    "explanation_th": "ความเที่ยงธรรมของผู้ตรวจสอบภายในจะไม่ได้รับผลกระทบทางลบเมื่อแนะนำมาตรฐานการควบคุมหรือทบทวนขั้นตอนปฏิบัติงานก่อนที่จะมีการเริ่มใช้ระบบจริง แต่จะถือว่าความเที่ยงธรรมบกพร่องหากผู้ตรวจสอบเข้าไปออกแบบ ติดตั้ง เขียนขั้นตอนการทำงาน หรือร่วมดูแลการดำเนินงานของระบบควบคุมเหล่านั้นด้วยตนเอง (PA 1120-1)\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการติดตั้งระบบควบคุมเป็นงานบริหารความรับผิดชอบซึ่งขัดกับความเป็นอิสระในการประเมินภายหลัง"
+  },
+  {
+    "id": 133,
+    "original_num": 133,
+    "question_en": "An organization is planning to develop and implement a new computerized purchase order system in one of its manufacturing subsidiaries. The vice president of manufacturing has requested that internal auditors participate on a team consisting of representatives from finance, manufacturing, purchasing, and marketing. This team will be responsible for the implementation effort. Eager to take on this high profile project, the chief audit executive assigns a senior internal auditor to the project to assist “as needed.” Assuming the senior internal auditor performed all of the following activities, which one will impair objectivity if the internal auditor is asked to review the purchase order system on a post-engagement basis?",
+    "options_en": [
+      "Helping to identify and define control objectives.",
+      "Testing for compliance with system development standards.",
+      "Evaluate risk exposures of systems and programming standards.",
+      "Drafting operating procedures for the new system."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The internal auditor’s objectivity is not adversely affected when (s)he recommends \nstandards of control for systems or reviews procedures before they are implemented. Designing, installing, drafting \nprocedures for, or operating systems are presumed to impair the internal auditor’s objectivity (PA 1120-1).",
+    "question_th": "องค์กรหนึ่งกำลังวางแผนพัฒนาและติดตั้งระบบใบสั่งซื้อด้วยคอมพิวเตอร์ใหม่ในบริษัทลูกฝ่ายผลิต รองประธานฝ่ายผลิตขอความร่วมมือให้ผู้ตรวจสอบภายในมีส่วนร่วมในทีมงานพัฒนาซึ่งประกอบด้วยตัวแทนการเงิน การผลิต จัดซื้อ และการตลาด หัวหน้างานบริหารการตรวจสอบภายใน (CAE) ได้มอบหมายผู้ตรวจสอบภายในอาวุโสเข้าร่วมเพื่อช่วยงานตามที่จำเป็น สมมติว่าผู้ตรวจสอบได้ร่วมงานดังต่อไปนี้ กิจกรรมใดที่จะบั่นทอนความเที่ยงธรรมของเขาหากได้รับมอบหมายให้ตรวจสอบระบบใบสั่งซื้อในอนาคตภายหลังติดตั้งระบบเสร็จสิ้นแล้ว",
+    "options_th": [
+      "การช่วยเหลือระบุและกำหนดวัตถุประสงค์ของการควบคุม",
+      "การทดสอบการปฏิบัติตามมาตรฐานการพัฒนาระบบ",
+      "การประเมินประเด็นความเสี่ยงของระบบและมาตรฐานการเขียนโปรแกรม",
+      "การเขียนขั้นตอนการดำเนินงานปฏิบัติจริงสำหรับระบบใหม่"
+    ],
+    "explanation_th": "ความเที่ยงธรรมของผู้ตรวจสอบภายในไม่ได้รับผลกระทบเสียหายเมื่อให้คำแนะนำมาตรฐานควบคุมสำหรับระบบหรือเข้าทบทวนขั้นตอนก่อนดำเนินการจริง ทว่าการมีส่วนร่วมในฐานะผู้ออกแบบ ติดตั้ง ร่างระเบียบกระบวนการ หรือดำเนินงานระบบปฏิบัติการเองจะบั่นทอนความเที่ยงธรรมทันที (PA 1120-1)"
+  },
+  {
+    "id": 135,
+    "original_num": 135,
+    "question_en": "The major reason for the internal auditor’s involvement in information systems development is for the internal auditor to",
+    "options_en": [
+      "Gain familiarity with systems for use in subsequent reviews.",
+      "Help assure that systems have adequate control procedures.",
+      "Help minimize the cost and development time for new systems.",
+      "Propose enhancements for subsequent development and implementation."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The internal audit activity evaluates and improves risk management, control, and governance \nprocesses. The internal auditor’s objectivity is not adversely affected when the auditor recommends standards of control \nfor systems or reviews procedures before they are implemented. The auditor’s objectivity is considered to be impaired if \nthe auditor designs, installs, drafts procedures for, or operates such systems (PA 1120-1). \nAnswer (C) is incorrect. Minimizing the cost and development time for new systems is not the major reason for the \ninternal auditor’s involvement in information systems development. \nAnswer (D) is incorrect. Proposing enhancements for subsequent development and implementation is a managerial, not \nan internal auditing, function.",
+    "question_th": "เหตุผลหลักของการที่ผู้ตรวจสอบภายในเข้าไปมีส่วนร่วมในการพัฒนาระบบข้อมูลสารสนเทศคือเพื่ออะไร",
+    "options_th": [
+      "เพื่อสร้างความคุ้นเคยกับระบบงานสำหรับใช้อ้างอิงการตรวจสอบในอนาคต",
+      "เพื่อช่วยรับประกันว่าระบบดังกล่าวมีขั้นตอนการควบคุมที่เพียงพอ",
+      "เพื่อช่วยลดต้นทุนและระยะเวลาในการพัฒนาระบบใหม่ให้น้อยที่สุด",
+      "เพื่อเสนอแนวทางปรับปรุงสำหรับการพัฒนาระบบและติดตั้งระบบในระยะถัดไป"
+    ],
+    "explanation_th": "กิจกรรมตรวจสอบภายในทำหน้าที่ประเมินและช่วยปรับปรุงระบบบริหารความเสี่ยง การควบคุม และการกำกับดูแล ความเที่ยงธรรมไม่บั่นทอนจากการแนะนำการควบคุมก่อนเริ่มงาน ทว่าการออกแบบหรือดำเนินงานจะบั่นทอนความเที่ยงธรรม (PA 1120-1) การช่วยยืนยันความเพียงพอของระดับการควบคุมคือเหตุผลหลักในการเข้ามีส่วนร่วม\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากความประหยัดและประสิทธิภาพของเวลาพัฒนาระบบไม่ใช่บทบาทหลักทางตรงของผู้ตรวจสอบ\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการขับเคลื่อนหรือเสนอการเพิ่มประสิทธิภาพเชิงพาณิชย์เป็นหน้าที่ของผู้บริหาร"
+  },
+  {
+    "id": 136,
+    "original_num": 136,
+    "question_en": "A multinational organization has an agreement with a value-added network (VAN) that provides the encoding and communications transfer for the organization’s electronic data interchange (EDI) and electronic funds transfer (EFT) transactions. Before transfer of data to the VAN, the organization performs online preprocessing of the transactions. The internal auditor is responsible for assessing preprocessing controls. In addition, the agreement between the organization and the VAN states that the internal auditor is allowed to examine and report on the controls in place at the VAN on an annual basis. The contract specifies that access to the VAN can occur on a surprise basis during the second or third quarter of the fiscal year. This period was chosen so it would not interfere with processing during the VAN’s peak transaction periods. This provision was not reviewed with internal auditing. The annual engagement work schedule approved by the board of directors specifies that a full review would be done during the current year. When the internal auditor called to arrange the annual control review during the third quarter, the VAN stated that it could not accommodate the internal auditor because the peak processing period started earlier than normal this year and all VAN personnel were occupied. This scope limitation, along with its potential effect, must be communicated to which one of the following?",
+    "options_en": [
+      "The organization’s board of directors.",
+      "The board of directors of the VAN.",
+      "The board of directors of both the organization and the VAN.",
+      "The limitation does not need to be communicated at the board of directors level."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". A scope limitation is a restriction that precludes the internal audit activity from \naccomplishing its objectives and plans. The scope limitation and its potential effect should be communicated, \npreferably in writing, to the board, audit committee, or other appropriate governing authority. However, the chief \naudit executive needs to consider whether it is appropriate to inform the board regarding scope limitations that \nwere previously communicated to and accepted by the board (PA 1130-1). \nAnswer (B) is incorrect. The internal auditor should not communicate directly with the board of the VAN. \nAnswer (C) is incorrect. The internal auditor should not communicate directly with the board of the VAN. \nAnswer (D) is incorrect. A scope limitation must be communicated at the governing authority level.",
+    "question_th": "องค์กรข้ามชาติแห่งหนึ่งทำสัญญากับผู้ให้บริการเครือข่ายมูลค่าเพิ่ม (VAN) เพื่อให้บริการเข้ารหัสและส่งผ่านการสื่อสารสำหรับธุรกรรม EDI และการโอนเงินทางอิเล็กทรอนิกส์ (EFT) ก่อนส่งข้อมูลไปที่ VAN องค์กรจะต้องเตรียมข้อมูลรายการขั้นต้นแบบออนไลน์ก่อน ผู้ตรวจสอบภายในมีหน้าที่ประเมินการควบคุมของข้อมูลเตรียมการนี้ นอกจากนี้ สัญญยังอนุญาตให้ผู้ตรวจสอบเข้าตรวจสอบระบบควบคุมของ VAN ประจำปีได้ โดยระบุให้ตรวจสอบแบบไม่แจ้งล่วงหน้าในช่วงไตรมาส 2 หรือ 3 ของปีบัญชีเพื่อเลี่ยงช่วงที่มีการทำธุรกรรมสูง ข้อกำหนดนี้ไม่ได้นำมาทบทวนร่วมกับแผนกตรวจสอบ แผนงานตรวจสอบประจำปีที่อนุมัติโดยคณะกรรมการบริษัทกำหนดให้มีการตรวจประเมิน VAN เต็มรูปแบบในปีนี้ แต่เมื่อผู้ตรวจสอบติดต่อเพื่อทำเรื่องเข้าตรวจในไตรมาส 3 ทาง VAN แจ้งว่าไม่สะดวกเนื่องจากช่วงการทำธุรกรรมหนาแน่นเริ่มต้นเร็วกว่าปกติและเจ้าหน้าที่ไม่ว่าง ข้อจำกัดขอบเขตงานนี้พร้อมผลกระทบที่อาจเกิดขึ้นต้องส่งรายงานให้ผู้ใดทราบ",
+    "options_th": [
+      "คณะกรรมการบริษัทขององค์กรของผู้ตรวจสอบ",
+      "คณะกรรมการบริษัทของฝั่งผู้ให้บริการ VAN",
+      "คณะกรรมการของทั้งฝั่งองค์กรและฝั่งผู้ให้บริการ VAN",
+      "ข้อจำกัดดังกล่าวไม่จำเป็นต้องรายงานไปที่ระดับคณะกรรมการบริษัท"
+    ],
+    "explanation_th": "ข้อจำกัดขอบเขตคือข้อห้ามที่ขัดขวางไม่ให้ฝ่ายตรวจสอบภายในดำเนินงานตามเป้าหมายและแผนงานที่กำหนด ข้อจำกัดขอบเขตและผลกระทบของมันจะต้องรายงาน (ควรเป็นลายลักษณ์อักษร) ไปยังคณะกรรมการ คณะกรรมการตรวจสอบ หรือหน่วยงานที่มีอำนาจปกครองที่เหมาะสม อย่างไรก็ตาม CAE ต้องพิจารณาว่าจำเป็นต้องแจ้งให้คณะกรรมการรับทราบข้อจำกัดที่เคยได้รับแจ้งและยอมรับไปก่อนหน้านี้อีกครั้งหรือไม่ (PA 1130-1)\n\nตัวเลือก (B) และ (C) ไม่ถูกต้อง เนื่องจากผู้ตรวจสอบภายในไม่มีอำนาจหรือหน้าที่รายงานไปยังคณะกรรมการบริษัทของ VAN\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากข้อจำกัดขอบเขตงานถือเป็นประเด็นความเสี่ยงสำคัญที่ต้องนำส่งรายงานให้ระดับโครงสร้างการกำกับดูแลขององค์กรรู้เห็น"
+  },
+  {
+    "id": 138,
+    "original_num": 138,
+    "question_en": "Which of the following activities undertaken by the internal auditor might be in conflict with the standard of independence?",
+    "options_en": [
+      "Risk management consultant.",
+      "Product development team leader.",
+      "Ethics advocate.",
+      "External audit liaison."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". When the IAA, CAE, or an individual internal auditor is responsible for, or management is \nconsidering assigning, an operational responsibility that the IAA might audit, the internal auditor’s independence \nand objectivity may be impaired (PA 1130.A2-1). The role of team leader or member of a product development \nteam may conflict with the independence attribute of the internal audit activity. The auditor may participate as a \nconsultant to the team but should not participate as a team leader. \nAnswer (C) is incorrect. Internal auditors and the internal audit activity should take an active role in support of an \norganization’s ethical culture. Assuming the role of ethics advocate does not impair the internal auditor’s \nindependence. \nAnswer (D) is incorrect. The internal and external audit functions share information and work collaboratively \noutside of the influence of management. This role does not conflict with the independence standard.",
+    "question_th": "กิจกรรมใดที่ผู้ตรวจสอบภายในเข้าไปทำแล้วอาจขัดแย้งกับมาตรฐานความเป็นอิสระ",
+    "options_th": [
+      "ที่ปรึกษาด้านการบริหารความเสี่ยง (Risk management consultant)",
+      "หัวหน้าทีมพัฒนาผลิตภัณฑ์ใหม่ (Product development team leader)",
+      "ผู้รณรงค์ส่งเสริมจริยธรรมขององค์กร (Ethics advocate)",
+      "ผู้ประสานงานการตรวจสอบภายนอก (External audit liaison)"
+    ],
+    "explanation_th": "เมื่อแผนกตรวจสอบภายใน หัวหน้างานบริหารการตรวจสอบภายใน (CAE) หรือผู้ตรวจสอบแต่ละคนมีหน้าที่รับผิดชอบปฏิบัติการหรือฝ่ายบริหารกำลังมอบหมายภาระหน้าที่ปฏิบัติการซึ่งฝ่ายตรวจสอบอาจต้องเข้าตรวจสอบในภายหลัง ความเป็นอิสระและความเที่ยงธรรมจะลดลงทันที (PA 1130.A2-1) บทบาทของผู้นำทีมหรือสมาชิกทีมในการพัฒนาผลิตภัณฑ์ใหม่ถือเป็นภาระหน้าที่ปฏิบัติงานซึ่งส่งผลโดยตรงต่อส่วนได้เสีย ผู้ตรวจสอบสามารถร่วมเป็นที่ปรึกษาของทีมได้แต่ไม่ควรรับบทเป็นผู้นำทีมควบคุมทิศทางผลงาน\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากผู้ตรวจสอบและแผนกตรวจสอบมีหน้าที่สนับสนุนวัฒนธรรมจริยธรรมขององค์กรอยู่แล้ว การรณรงค์เรื่องนี้จึงไม่ขัดแย้งกับความเป็นอิสระ\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการทำงานร่วมกันกับผู้สอบบัญชีภายนอกหรือผู้แทนการตรวจสอบภายนอกไม่ส่งผลเสียต่อความเป็นอิสระขององค์กร"
+  },
+  {
+    "id": 139,
+    "original_num": 139,
+    "question_en": "An internal auditor assigned to audit a vendor’s compliance with product quality standards is the brother of the vendor’s controller. The auditor should:",
+    "options_en": [
+      "Accept the assignment, but avoid contact with the controller during fieldwork.",
+      "Accept the assignment, but disclose the relationship in the engagement final communication.",
+      "Notify the vendor of the potential conflict of interest.",
+      "Notify the chief audit executive of the potential conflict of interest."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". If independence or objectivity is impaired in fact or appearance, the details of the \nimpairment should be disclosed to the appropriate parties. PA 1130-1 states that internal auditors are to report to \nthe chief audit executive (CAE) any situations in which an actual or potential impairment to independence or \nobjectivity may reasonably be inferred, or if they have questions about whether a situation constitutes an \nimpairment to objectivity or independence.",
+    "question_th": "ผู้ตรวจสอบภายในที่ได้รับมอบหมายให้ตรวจสอบการปฏิบัติตามมาตรฐานคุณภาพของคู่ค้า (Vendor) รายหนึ่ง พบว่าผู้ควบคุมบัญชี (Controller) ของคู่ค้ารายนั้นคือพี่ชายของตนเอง ผู้ตรวจสอบภายในควรปฏิบัติอย่างไร",
+    "options_th": [
+      "ยอมรับงานมอบหมายนั้น แต่พยายามหลีกเลี่ยงการติดต่อกับผู้ควบคุมบัญชีในระหว่างปฏิบัติงานสนาม",
+      "ยอมรับงานมอบหมายนั้น แต่ให้ระบุและเปิดเผยความสัมพันธ์นี้ไว้ในรายงานผลการตรวจสอบขั้นสุดท้าย",
+      "แจ้งฝ่ายคู่ค้าให้ทราบถึงโอกาสในการเกิดความขัดแย้งทางผลประโยชน์",
+      "แจ้งหัวหน้างานบริหารการตรวจสอบภายใน (CAE) ให้ทราบถึงผลประโยชน์ขัดกันที่อาจเกิดขึ้น"
+    ],
+    "explanation_th": "หากความบกพร่องในความเป็นอิสระหรือความเที่ยงธรรมเกิดขึ้นจริงหรืออยู่ในขอบข่ายที่ทำให้ดูเป็นเช่นนั้น รายละเอียดความบกพร่องจะต้องรายงานต่อบุคคลที่เหมาะสม ในคำแนะนำเชิงปฏิบัติการ (PA 1130-1) ระบุว่าผู้ตรวจสอบภายในจะต้องรายงานให้ CAE ทราบถึงทุกสถานการณ์ที่อาจบ่งชี้ถึงความเสี่ยงหรือขัดต่อความเที่ยงธรรมเพื่อความโปร่งใสและหาแนวทางแก้ไขร่วมกัน"
+  },
+  {
+    "id": 140,
+    "original_num": 140,
+    "question_en": "An internal auditor’s objectivity could be compromised in all of the following situations except",
+    "options_en": [
+      "A conflict of interest.",
+      "An engagement client’s familiarity with the internal auditor due to lack of rotation in assignments.",
+      "The internal auditor’s assumption of operational duties on a temporary basis.",
+      "Reliance on an outside service provider when appropriate."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The CAE is responsible for all significant professional judgments made throughout the \nengagement (PA 2340-1). Thus, the CAE should obtain competent advice and assistance if the internal auditors \nlack the knowledge, skills, or other competencies needed to perform all or part of the engagement (Standard \n1210.A1). Consulting an outside service provider is therefore appropriate in these circumstances.",
+    "question_th": "ความเที่ยงธรรมของผู้ตรวจสอบภายในอาจตกอยู่ในสภาวะที่อาจเสื่อมเสียหรือบกพร่องในกรณีต่าง ๆ ดังต่อไปนี้ ยกเว้นกรณีใด",
+    "options_th": [
+      "การมีความขัดแย้งทางผลประโยชน์ (Conflict of interest)",
+      "ความคุ้นเคยของผู้ตรวจสอบภายในกับผู้รับการตรวจสอบอันเนื่องมาจากการขาดการหมุนเวียนการมอบหมายงาน",
+      "การที่ผู้ตรวจสอบภายในเข้าไปรับหน้าที่ปฏิบัติงานชั่วคราวแทนพนักงานที่ว่างลง",
+      "การพึ่งพาและขอความช่วยเหลือจากผู้ให้บริการภายนอก (Outside service provider) เมื่อมีความจำเป็น"
+    ],
+    "explanation_th": "หัวหน้างานบริหารการตรวจสอบภายใน (CAE) มีความรับผิดชอบในการตัดสินใจทางวิชาชีพที่สำคัญทั้งหมดตลอดงานปฏิบัติงานตรวจสอบ (PA 2340-1) ดังนั้น CAE ควรขอความเห็นชอบ คำปรึกษา หรือการสนับสนุนจากผู้ให้บริการภายนอกเมื่อผู้ตรวจสอบภายในขาดแคลนความรู้ ทักษะ หรือทักษะวิชาชีพจำเป็นเฉพาะทางในการทำงาน (มาตรฐาน 1210.A1) ดังนั้นการพึ่งพาผู้เชี่ยวชาญจึงเป็นสิทธิและการปฏิบัติที่เหมาะสมและไม่ได้บั่นทอนความเที่ยงธรรมใด ๆ"
+  },
+  {
+    "id": 141,
+    "original_num": 141,
+    "question_en": "The internal audit activity should be free to audit and report on any activity that also reports to its administrative head if it considers such coverage to be appropriate for its audit plan. Any limitation in scope or reporting of results of these activities needs to be brought to the attention of the",
+    "options_en": [
+      "Chief executive officer.",
+      "Chief financial officer.",
+      "External auditor.",
+      "Board."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". A scope limitation is a restriction placed upon the IAA that precludes the activity from \naccomplishing its objectives and plans. Among other things, a scope limitation may restrict (1) the scope defined in \nthe charter; (2) the IAA’s access to records, personnel, and physical properties relevant to the performance of \nengagements; (3) the approved engagement work schedule; (4) performance of necessary engagement procedures; \nand (5) approved staffing plan and financial budget. A scope limitation, along with its potential effect needs to be \ncommunicated, preferably in writing, to the board (PA 1130-1).",
+    "question_th": "กิจกรรมการตรวจสอบภายในควรมีความเป็นอิสระในการตรวจสอบและรายงานเกี่ยวกับกิจกรรมใด ๆ ที่ขึ้นตรงต่อผู้บังคับบัญชาด้านบริหารของตนเองด้วย หากพิจารณาว่าขอบเขตดังกล่าวนั้นเหมาะสมและบรรจุอยู่ในแผนตรวจสอบประจำปี ข้อจำกัดใด ๆ ในส่วนของขอบเขตงานหรือการรายงานผลตรวจสอบจำเป็นต้องนำไปเสนอแก่ผู้ใด",
+    "options_th": [
+      "ประธานเจ้าหน้าที่บริหาร (CEO)",
+      "ประธานเจ้าหน้าที่บริหารฝ่ายการเงิน (CFO)",
+      "ผู้สอบบัญชีภายนอก",
+      "คณะกรรมการบริษัท (Board)"
+    ],
+    "explanation_th": "ข้อจำกัดขอบเขตการปฏิบัติงานตรวจสอบ (Scope limitation) คือข้อบังคับหรือข้อจำกัดที่ส่งผลให้แผนกตรวจสอบไม่สามารถบรรลุวัตถุประสงค์และแผนงานที่กำหนดไว้ได้ ข้อจำกัดอาจขัดขวางการเข้าถึงเอกสาร บุคลากร สถานที่ หรือขัดขวางการดำเนินงานตามกระบวนการตรวจสอบที่ควรจะเป็น ข้อจำกัดดังกล่าวพร้อมผลกระทบต้องเสนอรายงานต่อคณะกรรมการ โดยควรจัดทำเป็นลายลักษณ์อักษร (PA 1130-1)"
+  },
+  {
+    "id": 142,
+    "original_num": 142,
+    "question_en": "Management for a snowboard manufacturer is considering outsourcing the design functions of the company. Complying with the Standards , the internal audit activity may contribute by",
+    "options_en": [
+      "Assessing the effectiveness of outsourcing instead of using employees in meeting management’s quality objectives.",
+      "Creating a checklist to use in selecting an external service provider.",
+      "Setting pay rates for multiple design projects, based on research of industry best practices in outsourcing.",
+      "Writing the contract for outsourcing."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". The IAA helps an organization accomplish its objectives by bringing a systematic, disciplined \napproach to evaluating and improving the effectiveness of risk management, control, and governance processes. When the \nIAA performs operational and other nonaudit activities, its objectivity and independence may be impaired. \nAnswer (B) is incorrect. Creating a checklist prevents the IAA from being objective and independent in performing \nevaluations. \nAnswer (C) is incorrect. Setting the pay rates prevents the IAA from being objective and independent in performing \nevaluations. \nAnswer (D) is incorrect. Writing the contract prevents the IAA from being objective and independent in performing \nevaluations.",
+    "question_th": "ผู้บริหารของบริษัทผลิตสโนว์บอร์ดแห่งหนึ่งกำลังพิจารณาจัดจ้างผู้ออกแบบภายนอก (Outsourcing) เพื่อทำงานออกแบบผลิตภัณฑ์ ตามมาตรฐานสากลการตรวจสอบภายใน กิจกรรมการตรวจสอบภายในสามารถมีส่วนช่วยเหลือองค์กรได้อย่างไรโดยไม่ขัดต่อวิชาชีพ",
+    "options_th": [
+      "การประเมินประสิทธิผลของการจัดจ้างคนภายนอกเปรียบเทียบกับการใช้บุคลากรของตนเองในการตอบสนองเป้าหมายเชิงคุณภาพของผู้บริหาร",
+      "การจัดทำรายการตรวจสอบ (Checklist) เพื่อใช้คัดเลือกผู้ให้บริการภายนอก",
+      "การกำหนดอัตราค่าจ้างสำหรับโครงการออกแบบต่าง ๆ ตามข้อมูลการศึกษากระบวนการปฏิบัติงานที่ดีที่สุดในอุตสาหกรรม",
+      "การเขียนหรือร่างสัญญาสำหรับการจ้างงานภายนอก"
+    ],
+    "explanation_th": "กิจกรรมตรวจสอบภายในช่วยให้องค์กรบรรลุวัตถุประสงค์โดยใช้แนวทางที่เป็นระบบและมีระเบียบวินัยในการประเมินและปรับปรุงประสิทธิผลของกระบวนการกำกับดูแล การบริหารความเสี่ยง และการควบคุม หากกิจกรรมตรวจสอบภายในเข้าไปดำเนินงานทางปฏิบัติการหรืองานที่ไม่ใช่งานตรวจสอบด้วยตนเอง ความเป็นอิสระและความเที่ยงธรรมจะลดลงทันที\n\nตัวเลือก (B), (C), และ (D) ไม่ถูกต้อง เนื่องจากการทำรายการคัดเลือก การคำนวณค่าจ้าง หรือการร่างสัญญาจ้างเป็นการก้าวล่วงเข้าไปรับบทบาทหน้าที่ของฝ่ายบริหารและปฏิบัติการ ซึ่งทำให้ผู้ตรวจสอบขาดความเป็นอิสระที่จะตรวจประเมินประสิทธิภาพการทำงานดังกล่าวในภายหลัง"
+  },
+  {
+    "id": 143,
+    "original_num": 143,
+    "question_en": "Internal auditing work encompasses all of the following processes except",
+    "options_en": [
+      "Risk management.",
+      "Control.",
+      "Financial statements.",
+      "Governance."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Financial statements are the responsibility of management, and evaluating the adequacy of \nthe statements is a role of the external auditor. The internal auditor evaluates and contributes to the improvement of \ngovernance, risk management, and control processes using a systematic and disciplined approach (Standard 2100). \nAnswer (D) is incorrect. The evaluation and improvement of the adequacy and effectiveness of this factor is part of \nthe scope of internal auditing.",
+    "question_th": "ขอบเขตการปฏิบัติงานตรวจสอบภายในครอบคลุมกระบวนการต่าง ๆ ดังต่อไปนี้ ยกเว้นกระบวนการใด",
+    "options_th": [
+      "การบริหารความเสี่ยง (Risk management)",
+      "ระบบการควบคุม (Control)",
+      "งบการเงิน (Financial statements)",
+      "การกำกับดูแลกิจการ (Governance)"
+    ],
+    "explanation_th": "งบการเงินเป็นความรับผิดชอบของฝ่ายบริหาร และการประเมินความถูกต้องเหมาะสมของงบการเงินเป็นบทบาทของผู้สอบบัญชีภายนอก ขณะที่ผู้ตรวจสอบภายในมีบทบาทสำคัญในการประเมินและให้คำแนะนำเพื่อส่งเสริมการกำกับดูแลกิจการ การบริหารความเสี่ยง และระบบควบคุมภายในขององค์กรโดยใช้แนวทางที่เป็นระบบและระเบียบวินัย (มาตรฐาน 2100)\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการประเมินและปรับปรุงกระบวนการกำกับดูแลกิจการถือเป็นขอบเขตงานหลักของงานตรวจสอบภายใน"
+  },
+  {
+    "id": 145,
+    "original_num": 145,
+    "question_en": "All of the following are primary objectives of the overall management process except",
+    "options_en": [
+      "Improving the effectiveness of governance, risk management, and control processes.",
+      "Compliance with laws, regulations, ethical and business norms, and contracts.",
+      "Identification of risk exposures and use of effective strategies to control them.",
+      "Safeguarding of the organization’s assets."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Improving the effectiveness of risk management, control, and governance processes is the \nscope of internal auditing work. Broadly, management is responsible for the sustainability of the whole\norganization and accountability for the organization’s actions, conduct, and performance to the owners, other \nstakeholders, regulators, and general public. Specifically, the primary objectives of the overall management process \nare to achieve \nRelevant, reliable, and credible financial and operating information. \nEffective and efficient use of the organization’s resources. \nSafeguarding of the organization’s assets. \nCompliance with laws, regulations, ethical and business norms, and contracts. \nIdentification of risk exposures and use of effective strategies to control them. \nEstablished objectives and goals for operations or programs. \nAnswer (B) is incorrect. This is a true statement regarding the primary objectives of the overall management \nprocess. \nAnswer (C) is incorrect. This is a true statement regarding the primary objectives of the overall management \nprocess. \nAnswer (D) is incorrect. This is a true statement regarding the primary objectives of the overall management \nprocess.",
+    "question_th": "ข้อใดต่อไปนี้ไม่ใช่หนึ่งในวัตถุประสงค์หลักของกระบวนการบริหารจัดการภาพรวม (Overall management process)",
+    "options_th": [
+      "การปรับปรุงประสิทธิผลของกระบวนการกำกับดูแล การบริหารความเสี่ยง และการควบคุม",
+      "การปฏิบัติตามกฎหมาย กฎระเบียบ บรรทัดฐานทางจริยธรรมและธุรกิจ รวมถึงสัญญาข้อตกลง",
+      "การระบุความเสี่ยงและการใช้กลยุทธ์ที่มีประสิทธิภาพในการควบคุมความเสี่ยงเหล่านั้น",
+      "การดูแลรักษาปกป้องทรัพย์สินขององค์กร"
+    ],
+    "explanation_th": "การปรับปรุงประสิทธิผลของกระบวนการบริหารความเสี่ยง การควบคุม และการกำกับดูแลกิจการ คือขอบเขตหน้าที่งานตรวจสอบภายใน โดยภาพรวมฝ่ายบริหารมีหน้าที่รับผิดชอบต่อความยั่งยืนของทั้งองค์กรและความรับผิดชอบต่อการตัดสินใจและการทำงานขององค์กรต่อเจ้าของ ผู้มีส่วนได้เสีย ผู้กำกับดูแล และสาธารณชน วัตถุประสงค์หลักของฝ่ายบริหารประกอบด้วย: การจัดทำข้อมูลการเงินและการปฏิบัติงานที่ถูกต้องและเชื่อถือได้ การใช้ทรัพยากรอย่างมีประสิทธิภาพและประสิทธิผล การดูแลความปลอดภัยของสินทรัพย์ การปฏิบัติตามกฎระเบียบ และการจัดการความเสี่ยง\n\nตัวเลือก (B), (C), และ (D) ไม่ถูกต้อง เนื่องจากสิ่งเหล่านี้ล้วนเป็นวัตถุประสงค์หลักที่ฝ่ายบริหารมีหน้าที่ต้องบรรลุและควบคุมให้เกิดขึ้นภายในองค์กร"
+  },
+  {
+    "id": 146,
+    "original_num": 146,
+    "question_en": "Which of the following potentially are subject to the internal auditors’ evaluations? The human resources function. I. The purchasing process. II. The manufacturing and production database system. III.",
+    "options_en": [
+      "I only.",
+      "II only.",
+      "I, II, and III.",
+      "None of the answers are correct."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Internal auditing evaluations, in the aggregate, provide information to appraise the overall \nmanagement process. Thus, all business systems, processes, operations, functions, and activities within the \norganization are potentially subject to the internal auditors’ evaluations. \nAnswer (D) is incorrect. All of the listed items are subject to internal auditor evaluation.",
+    "question_th": "ข้อใดต่อไปนี้ที่อาจอยู่ภายใต้ขอบเขตการประเมินและการตรวจสอบของผู้ตรวจสอบภายใน\nI. ฝ่ายทรัพยากรบุคคล (Human resources function)\nII. กระบวนการจัดซื้อ (Purchasing process)\nIII. ระบบฐานข้อมูลการผลิตและการผลิตโรงงาน (Manufacturing and production database system)",
+    "options_th": [
+      "เฉพาะข้อ I เท่านั้น",
+      "เฉพาะข้อ II เท่านั้น",
+      "ข้อ I, II และ III",
+      "ไม่มีข้อใดถูกต้อง"
+    ],
+    "explanation_th": "การประเมินของกิจกรรมตรวจสอบภายในช่วยรวบรวมข้อมูลเพื่อประเมินกระบวนการบริหารภาพรวมขององค์กร ดังนั้น ทุกระบบธุรกิจ กระบวนการ การปฏิบัติงาน หน้าที่การทำงาน และกิจกรรมทั้งหมดภายในองค์กรจึงล้วนอยู่ในข่ายที่อาจถูกตรวจสอบประเมินได้ทั้งสิ้น\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากตัวเลือก I, II และ III ทั้งหมดล้วนเข้าข่ายที่สามารถตรวจสอบได้"
+  },
+  {
+    "id": 147,
+    "original_num": 147,
+    "question_en": "Which of the following is not  a type of control?",
+    "options_en": [
+      "Preventive.",
+      "Reactive.",
+      "Detective.",
+      "Directive."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Control is any action taken by management to enhance the likelihood that established objectives \nand goals will be achieved. Controls may be preventive (to deter undesirable events from occurring), detective (to detect \nand correct undesirable events which have occurred), or directive (to cause or encourage a desirable event to occur). \n“Reactive” is not a specified type of control. However, controls may be reactive in the sense that they detect an \nundesirable event and react to it or correct it. \nAnswer (C) is incorrect. This is a valid type of control. \nAnswer (D) is incorrect. This is a valid type of control.",
+    "question_th": "ข้อใดต่อไปนี้ไม่ใช่ประเภทของการควบคุม (Type of control)",
+    "options_th": [
+      "การควบคุมแบบป้องกัน (Preventive control)",
+      "การควบคุมแบบตอบสนอง (Reactive control)",
+      "การควบคุมแบบค้นพบ (Detective control)",
+      "การควบคุมแบบชี้นำ (Directive control)"
+    ],
+    "explanation_th": "การควบคุมคือการดำเนินการใด ๆ ของฝ่ายบริหารเพื่อเพิ่มโอกาสที่จะบรรลุวัตถุประสงค์และเป้าหมายที่กำหนดไว้ การควบคุมประกอบด้วย: การควบคุมเพื่อป้องกัน (Preventive - ป้องกันไม่ให้เกิดเหตุการณ์ไม่พึงประสงค์) การควบคุมเพื่อค้นพบ (Detective - ตรวจหาและแก้ไขเมื่อมีเหตุการณ์เกิดขึ้นแล้ว) และการควบคุมเพื่อชี้นำ (Directive - ชักนำหรือส่งเสริมให้เกิดเหตุการณ์ที่น่าพึงประสงค์) ทั้งนี้ “การควบคุมแบบตอบสนอง (Reactive)” ไม่ใช่ประเภทของการควบคุมที่ถูกระบุไว้ตามทฤษฎีการควบคุม แม้ว่าในทางปฏิบัติการควบคุมอาจมีการตรวจพบและตอบสนองต่อเหตุการณ์เพื่อแก้ไขก็ตาม\n\nตัวเลือก (C) และ (D) ไม่ถูกต้อง เนื่องจากเป็นประเภทของการควบคุมที่ถูกต้องและได้รับการยอมรับอย่างแพร่หลาย"
+  },
+  {
+    "id": 149,
+    "original_num": 149,
+    "question_en": "Which of the following possible engagement objectives would lead to a test of the efficiency of an organization’s use of labor resources?",
+    "options_en": [
+      "To determine that all employees are paid in accordance with union wages.",
+      "To determine that employees are assigned to work situations equivalent to their training and skill level.",
+      "To determine that the quality of performance by labor meets organizational standards.",
+      "To determine that only authorized employees are paid."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Internal auditors should appraise the economy and efficiency with which resources are \nemployed. Assignment of employees to tasks not commensurate with their skills may result in excess labor costs \n(when more skilled and more highly paid workers perform jobs for which they are overqualified) or in poor \nperformance (when underqualified labor is used). \nAnswer (C) is incorrect. Quality concerns effectiveness, not efficiency. \nAnswer (D) is incorrect. Whether only authorized employees are paid is irrelevant to efficiency.",
+    "question_th": "วัตถุประสงค์ของงานตรวจสอบในข้อใดที่จะนำไปสู่การทดสอบประสิทธิภาพ (Efficiency) ของการใช้ทรัพยากรแรงงานขององค์กร",
+    "options_th": [
+      "เพื่อตรวจสอบว่าพนักงานทุกคนได้รับค่าจ้างที่เป็นไปตามข้อตกลงค่าจ้างของสหภาพแรงงาน",
+      "เพื่อตรวจสอบว่าพนักงานได้รับมอบหมายงานที่ตรงกับระดับการฝึกอบรมและทักษะความสามารถของตนเอง",
+      "เพื่อตรวจสอบว่าคุณภาพการทำงานของแรงงานเป็นไปตามมาตรฐานที่องค์กรกำหนด",
+      "เพื่อตรวจสอบว่าจ่ายเงินค่าจ้างเฉพาะพนักงานที่ได้รับสิทธิ์หรือได้รับอนุญาตเท่านั้น"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในควรประเมินความประหยัดและประสิทธิภาพการใช้ทรัพยากร การมอบหมายงานให้พนักงานไม่ตรงกับความรู้ความสามารถหรือทักษะอาจส่งผลให้ต้นทุนแรงงานสูงเกินความจำเป็น (กรณีพนักงานที่ทักษะสูงกว่าและได้รับค่าจ้างแพงทำงานที่ต้องใช้ทักษะต่ำกว่า) หรือส่งผลให้ผลการปฏิบัติงานตกต่ำไม่ได้คุณภาพ (กรณีใช้บุคลากรที่มีทักษะต่ำเกินไปเข้าทำงาน)\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากมิติคุณภาพเกี่ยวข้องกับประสิทธิผล (Effectiveness) ไม่ใช่ประสิทธิภาพ (Efficiency)\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการตรวจสอบว่าจ่ายค่าจ้างพนักงานที่ได้รับอนุมัติเท่านั้นเป็นการควบคุมความถูกต้องและความเสี่ยงเรื่องทุจริต ไม่เกี่ยวข้องกันโดยตรงกับการใช้ทรัพยากรแรงงานอย่างมีประสิทธิภาพ"
+  },
+  {
+    "id": 152,
+    "original_num": 152,
+    "question_en": "After using the same public accounting firm for several years, the board of directors retained another public accounting firm to perform the annual financial audit in order to reduce the annual audit fee. The new firm has now proposed a one- time engagement relating to the cost-effectiveness of the various operations of the business. The chief audit executive has been asked to advise management in making a decision on the proposal. An argument can be made that the internal audit activity is better able to perform such an engagement because",
+    "options_en": [
+      "External auditors may not possess the same depth of understanding of the organization as the internal auditors.",
+      "Internal auditors are required to be objective in performing engagements.",
+      "Engagement procedures used by internal auditors are different from those used by external auditors.",
+      "Internal auditors will not be vitally concerned with fraud and waste."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Internal auditors are more familiar than external auditors with the organization, including \nsystems, people, and objectives. Their internal auditing evaluations, in the aggregate, provide information to \nappraise the overall management process. All business systems, processes, operations, functions, and activities \nwithin the organization are subject to the internal auditors’ evaluations. The comprehensive scope of work of \ninternal auditing should provide reasonable assurance that management’s (1) risk management system is effective; \n(2) system of internal control is effective and efficient; and (3) governance process is effective by establishing and \npreserving values, setting goals, monitoring activities and performance, and defining the measures of \naccountability. \nAnswer (B) is incorrect. Both internal and external auditors are required to be objective. \nAnswer (C) is incorrect. Internal and external auditors use the same techniques. \nAnswer (D) is incorrect. Internal auditors are vitally concerned with fraud and waste.",
+    "question_th": "หลังจากใช้บริการสำนักงานสอบบัญชีแห่งเดิมมาหลายปี คณะกรรมการบริษัทได้ว่าจ้างสำนักงานสอบบัญชีแห่งใหม่เพื่อทำการตรวจสอบงบการเงินประจำปีเพื่อลดค่าธรรมเนียมการสอบบัญชี สำนักงานใหม่ได้เสนอการให้บริการงานตรวจสอบเฉพาะกิจครั้งเดียวเกี่ยวกับความคุ้มค่าของต้นทุน (Cost-effectiveness) ของการดำเนินงานต่าง ๆ ของธุรกิจ และหัวหน้างานบริหารการตรวจสอบภายใน (CAE) ได้รับคำขอให้คำปรึกษาแก่ฝ่ายบริหารในการตัดสินใจต่อข้อเสนอดังกล่าว ข้อโต้แย้งใดต่อไปนี้ที่ระบุว่าฝ่ายตรวจสอบภายในเหมาะสมที่จะปฏิบัติงานนี้มากกว่า",
+    "options_th": [
+      "ผู้สอบบัญชีภายนอกอาจไม่มีความเข้าใจในโครงสร้างองค์กรที่ลึกซึ้งเท่ากับผู้ตรวจสอบภายใน",
+      "ผู้ตรวจสอบภายในจำเป็นต้องมีความเที่ยงธรรมในการปฏิบัติงานตรวจสอบ",
+      "ขั้นตอนการปฏิบัติงานตรวจสอบที่ใช้โดยผู้ตรวจสอบภายในนั้นแตกต่างจากขั้นตอนที่ผู้สอบบัญชีภายนอกใช้",
+      "ผู้ตรวจสอบภายในจะไม่มุ่งเน้นหรือให้ความสำคัญเป็นพิเศษเกี่ยวกับเรื่องการทุจริตและการสูญเปล่า"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในมีความคุ้นเคยกับองค์กรมากกว่าผู้สอบบัญชีภายนอก ทั้งในเรื่องระบบ บุคลากร และวัตถุประสงค์ ผลการประเมินการตรวจสอบภายในในภาพรวมจะช่วยให้ข้อมูลสำหรับการประเมินกระบวนการบริหารจัดการทั้งหมด ทุกระบบธุรกิจ กระบวนการ การดำเนินงาน และกิจกรรมต่าง ๆ ล้วนเป็นเป้าหมายที่ตรวจสอบได้ ขอบเขตงานตรวจสอบภายในที่ครอบคลุมจะช่วยให้ความมั่นใจที่สมเหตุสมผลว่า ระบบการบริหารความเสี่ยง ระบบการควบคุมภายใน และกระบวนการกำกับดูแลของฝ่ายบริหารมีประสิทธิภาพและประสิทธิผล\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากทั้งผู้ตรวจสอบภายในและผู้สอบบัญชีภายนอกต่างก็ต้องมีความเที่ยงธรรมในการปฏิบัติงาน\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากผู้ตรวจสอบภายในและภายนอกใช้เทคนิควิธีการประเมินที่คล้ายกัน\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากผู้ตรวจสอบภายในให้ความสำคัญกับเรื่องการทุจริตและการสูญเปล่าอย่างมาก"
+  },
+  {
+    "id": 155,
+    "original_num": 155,
+    "question_en": "The following are primary objectives of the overall management process: Compliance with business norms I. Identification of risk exposures II. Reliable operating information III. Providing earnings estimates to securities analystsIV.",
+    "options_en": [
+      "I and II only.",
+      "I, II, and III.",
+      "II and III only.",
+      "I, II, and IV only."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Management’s primary objectives include compliance with laws, regulations, contracts, and \nethical and business norms; identification of risk exposures and use of strategies to control them; and providing \nreliable operating information. Although estimating earnings can create an important goal for management, \nreleasing those estimates to outside analysts is not a primary objective. Indeed, selective disclosure may create legal \nproblems. \nAnswer (C) is incorrect. Management also has a primary objective of complying with business norms. \nAnswer (D) is incorrect. Management is responsible for creating reliable operating information but does not have a \nprimary objective of reporting estimated earnings to securities analysts.",
+    "question_th": "ข้อใดต่อไปนี้คือวัตถุประสงค์หลักของกระบวนการบริหารจัดการภาพรวม (Overall management process)\nI. การปฏิบัติตามบรรทัดฐานทางธุรกิจ (Business norms)\nII. การระบุความเสี่ยงที่องค์กรเผชิญ (Risk exposures)\nIII. การจัดหาข้อมูลการปฏิบัติงานที่เชื่อถือได้\nIV. การประเมินส่วนแบ่งกำไรเพื่อส่งรายงานแก่นักวิเคราะห์หลักทรัพย์",
+    "options_th": [
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ I, II และ III",
+      "ข้อ II และ III เท่านั้น",
+      "ข้อ I, II และ IV เท่านั้น"
+    ],
+    "explanation_th": "วัตถุประสงค์หลักของฝ่ายบริหารประกอบด้วยการปฏิบัติตามกฎหมาย กฎระเบียบ สัญญาข้อตกลง บรรทัดฐานทางธุรกิจและจริยธรรม การระบุและควบคุมความเสี่ยงขององค์กร และการจัดเตรียมข้อมูลการดำเนินงานที่ถูกต้องและเชื่อถือได้ แม้การประมาณการกำไรจะเป็นเป้าหมายสำคัญของบริษัท แต่การเปิดเผยตัวเลขประมาณการแก่บุคคลภายนอกไม่ใช่วัตถุประสงค์หลักของฝ่ายบริหาร และอาจนำไปสู่ประเด็นปัญหาข้อกฎหมายได้\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากฝ่ายบริหารมีวัตถุประสงค์หลักในการปฏิบัติตามบรรทัดฐานธุรกิจ\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากฝ่ายบริหารไม่มีวัตถุประสงค์หลักในเรื่องการประมาณกำไรส่งนักวิเคราะห์หลักทรัพย์"
+  },
+  {
+    "id": 158,
+    "original_num": 158,
+    "question_en": "The governance process is also referred to as the way in which an organization chooses to conduct its affairs to meet four key responsibilities. Which of the following is a part of those responsibilities? Complying with society’s legal and regulatory rules.I. Satisfying the generally accepted business norms of society. II. Providing overall benefit to society and enhancing the interests of the specific stakeholders. III. Reporting fully and truthfully to its owners, regulators, other stakeholders, and the general public. IV.",
+    "options_en": [
+      "I and II only.",
+      "II and IV only.",
+      "I, III, and IV only.",
+      "I, II, III, and IV."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". An organization uses various legal forms, structures, strategies, and procedures to ensure that it \nComplies with society’s legal and regulatory rules. \nSatisfies the generally accepted business norms, ethical precepts, and social expectations of society.\nProvides overall benefit to society and enhances the interests of the specific stakeholders in both the long- and \nshort-term. \nReports fully and truthfully to its stakeholders and the public to ensure accountability for its decisions, actions, \nconduct, and performance. \nThe way in which an organization chooses to conduct its affairs to meet those four responsibilities is commonly referred \nto as its governance process.",
+    "question_th": "กระบวนการกำกับดูแลกิจการ (Governance process) หมายถึงวิธีการที่องค์กรเลือกในการดำเนินงานเพื่อตอบสนองต่อความรับผิดชอบหลัก 4 ประการ ข้อใดต่อไปนี้เป็นส่วนหนึ่งของความรับผิดชอบดังกล่าว\nI. การปฏิบัติตามกฎหมายและข้อบังคับของสังคม\nII. การปฏิบัติตามบรรทัดฐานทางธุรกิจ จริยธรรม และความคาดหวังของสังคม\nIII. การสร้างผลประโยชน์โดยรวมแก่สังคมและส่งเสริมผลประโยชน์ของผู้มีส่วนได้เสียเฉพาะกลุ่ม\nIV. การรายงานข้อมูลอย่างถูกต้องและครบถ้วนต่อเจ้าของ ผู้กำกับดูแล ผู้มีส่วนได้เสีย และสาธารณชน",
+    "options_th": [
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ II และ IV เท่านั้น",
+      "ข้อ I, III และ IV เท่านั้น",
+      "ข้อ I, II, III และ IV"
+    ],
+    "explanation_th": "กระบวนการกำกับดูแลกิจการคือการดำเนินกิจกรรมขององค์กรที่มุ่งเน้นการปฏิบัติตามกฎหมายและกฎระเบียบของสังคม, การตอบสนองต่อบรรทัดฐานธุรกิจและจริยธรรมของสังคม, การมอบผลประโยชน์และเสริมสร้างผลประโยชน์ของผู้มีส่วนได้เสียทั้งในระยะสั้นและระยะยาว และการรายงานผลการปฏิบัติงานอย่างเปิดเผยและตรงไปตรงมาต่อสาธารณะเพื่อสร้างความรับผิดชอบต่อการตัดสินใจและการกระทำขององค์กร ดังนั้นองค์ประกอบทั้งหมดจึงถือเป็นความรับผิดชอบที่อยู่ภายใต้การกำกับดูแลกิจการที่ดี"
+  },
+  {
+    "id": 159,
+    "original_num": 159,
+    "question_en": "Follow-up activity may be required to ensure that corrective action has taken place for certain observations made in an assurance engagement. The internal audit activity’s responsibility to perform follow-up activities as required should be defined in the",
+    "options_en": [
+      "Internal audit activity’s charter.",
+      "Mission statement of the audit committee.",
+      "Engagement memo issued prior to each engagement.",
+      "Purpose statement within applicable engagement communications."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Follow-up is a process by which internal auditors determine the adequacy, effectiveness, \nand timeliness of actions taken by management on reported engagement observations and recommendations,\nincluding those made by external auditors and others. Responsibility for follow-up in an assurance engagement \nshould be defined in the IAA’s charter (PA 2500.A1-1). In a consulting engagement, the extent of monitoring of \nthe disposition of results depends upon the agreement with the client. \nAnswer (B) is incorrect. Follow-up is not specified in the content of the audit committee’s mission statement. \nAnswer (C) is incorrect. The engagement memo may contain a statement about responsibility for follow-up, but it \nshould be based on the wording and authority of the IAA’s charter. \nAnswer (D) is incorrect. Follow-up authority and responsibility may be cited in applicable engagement \ncommunications, but the definition should be stated first in the IAA’s charter.",
+    "question_th": "กิจกรรมติดตามผล (Follow-up activity) อาจมีความจำเป็นเพื่อให้มั่นใจว่าได้รับการดำเนินการแก้ไขตามข้อตรวจพบในงานบริการให้ความเชื่อมั่น ความรับผิดชอบของกิจกรรมการตรวจสอบภายในในการปฏิบัติงานติดตามผลควรระบุไว้ในข้อใด",
+    "options_th": [
+      "กฎบัตรของกิจกรรมการตรวจสอบภายใน (Internal audit charter)",
+      "พันธกิจของคณะกรรมการตรวจสอบ (Audit committee mission statement)",
+      "บันทึกข้อตกลงงานตรวจสอบที่ออกก่อนการปฏิบัติงานแต่ละครั้ง",
+      "การระบุวัตถุประสงค์ในเอกสารรายงานการผลตรวจสอบ"
+    ],
+    "explanation_th": "การติดตามผลคือกระบวนการประเมินความเพียงพอ ประสิทธิผล และความรวดเร็วในการจัดการกับข้อตรวจพบและคำแนะนำโดยฝ่ายบริหาร ความรับผิดชอบในการติดตามผลสำหรับงานให้ความเชื่อมั่นต้องกำหนดไว้ในกฎบัตรของกิจกรรมการตรวจสอบภายในเป็นลายลักษณ์อักษร (PA 2500.A1-1) สำหรับงานให้คำปรึกษา ขอบเขตการติดตามผลจะขึ้นอยู่กับข้อตกลงกับผู้ว่าจ้าง\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากงานติดตามผลไม่ใช่ส่วนที่ต้องกำหนดในโครงสร้างเอกสารพันธกิจของกรรมการตรวจสอบ\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากบันทึกข้อตกลงงานระบุความคุ้มครองเฉพาะครั้ง แต่ความรับผิดชอบหลักในภาพรวมต้องได้รับการอนุมัติในกฎบัตรก่อน\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากแม้จะเขียนไว้ในรายงานสรุปการตรวจ แต่สิทธิ์และหน้าที่ในกระบวนการนี้ต้องได้รับการแต่งตั้งผ่านกฎบัตรอย่างเป็นทางการ"
+  },
+  {
+    "id": 161,
+    "original_num": 161,
+    "question_en": "Why should organizations require assurance engagement clients to reply promptly and outline the corrective action that has been implemented on reported observations?",
+    "options_en": [
+      "To remove items from the pending list as soon as possible.",
+      "To effect savings or to institute compliance as early as possible.",
+      "To indicate concurrence with the engagement observations.",
+      "To ensure that the engagement work schedule is kept up to date."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The internal auditors determine whether (1) management has taken action or implemented \nthe recommendation, and (2) the desired results (such as cost savings or compliance) were achieved or senior \nmanagement or the board has assumed the risk of not taking action (PA 2500.A1-1). Consequently, it follows that \nthe objectives of engagements and the timely reporting of observations and recommendations would be defeated if \nengagement clients do not promptly implement and report on corrective action. \nAnswer (C) is incorrect. The client may not concur with the observations and recommendations. This dispute may \nor may not be considered in closing the engagement.\nAnswer (D) is incorrect. Ensuring that the engagement work schedule is kept up to date is an administrative \nfunction of the IAA.",
+    "question_th": "เหตุใดองค์กรจึงควรกำหนดให้ผู้รับการตรวจสอบในงานบริการให้ความเชื่อมั่นรายงานตอบกลับโดยทันทีและแสดงรายละเอียดกระบวนการแก้ไขข้อบกพร่องตามที่ได้รับรายงาน",
+    "options_th": [
+      "เพื่อปิดรายการที่ค้างคา (Pending items) ออกจากรายงานให้เร็วที่สุด",
+      "เพื่อผลประโยชน์ในการประหยัดต้นทุนหรือสร้างความสอดคล้องตามกฎระเบียบโดยเร็วที่สุด",
+      "เพื่อแสดงว่ายอมรับและเห็นพ้องกับข้อสังเกตและข้อตรวจพบจากการตรวจสอบ",
+      "เพื่อช่วยให้กำหนดการปฏิบัติงานตรวจสอบอยู่ในสถานะล่าสุดอยู่เสมอ"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในจะทำหน้าที่ประเมินว่าฝ่ายบริหารได้ดำเนินการแก้ไขข้อบกพร่องหรือนำคำแนะนำไปปฏิบัติตามแผนงานหรือไม่ และได้รับผลลัพธ์ตามเป้าหมาย (เช่น การประหยัดต้นทุนหรือความสอดคล้องต่อกฎเกณฑ์) หรือไม่ หรือประเมินว่าบอร์ด/ผู้บริหารระดับสูงได้ยอมรับความเสี่ยงจากการไม่ดำเนินการใด ๆ หรือไม่ (PA 2500.A1-1) ดังนั้น หากผู้รับการตรวจสอบล่าช้าในการรายงานผลและการแก้ไขข้อบกพร่อง วัตถุประสงค์หลักของงานตรวจสอบจะล้มเหลว\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากผู้รับการตรวจสอบอาจไม่เห็นด้วยกับรายงาน ซึ่งการโต้แย้งนี้ต้องนำไปหาข้อสรุปร่วมกันในการปิดงานตรวจสอบต่อไป\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการปรับปรุงกำหนดการตรวจสอบเป็นเรื่องการบริหารจัดการของฝ่ายตรวจสอบภายในเอง"
+  },
+  {
+    "id": 162,
+    "original_num": 162,
+    "question_en": "Assume that the internal auditors’ observations are so serious that, in their view, they require immediate action by management. Which of the following statements regarding the internal auditors’ responsibility with respect to communicating results and follow-up are true? The actions taken are monitored by the internal auditors. I. Assumption of risk is communicated to senior management and the board, even if the engagement is not complete. II. The internal auditors test the actions implemented by management to determine whether they remedy the problem. III.",
+    "options_en": [
+      "I only.",
+      "II only.",
+      "II and III only.",
+      "I, II, and III."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Certain reported observations and recommendations may be so significant as to require immediate \naction by management. Thus, the IAA monitors actions taken until the observation is corrected or the recommendation is \nimplemented. The CAE should establish procedures to determine a time frame within which management’s response is \nrequired, to evaluate the response, to verify the response, to conduct a follow-up engagement, and to transmit \nunsatisfactory responses or actions (including assumption of risk) to senior management or the board (PA 2500-1).",
+    "question_th": "สมมติว่าข้อสังเกตของผู้ตรวจสอบภายในมีความรุนแรงมากจนต้องได้รับการดำเนินการแก้ไขทันทีจากฝ่ายบริหาร ข้อความใดต่อไปนี้เกี่ยวกับบทบาทหน้าที่ของผู้ตรวจสอบในการรายงานผลและติดตามผลที่ถูกต้อง\nI. การดำเนินการแก้ไขที่ฝ่ายบริหารทำจะได้รับการตรวจสอบติดตามโดยผู้ตรวจสอบภายใน\nII. การยอมรับความเสี่ยงที่เกิดขึ้นจะถูกรายงานไปยังผู้บริหารระดับสูงและคณะกรรมการบริษัททันทีแม้ว่างานตรวจสอบจะยังไม่เสร็จสิ้น\nIII. ผู้ตรวจสอบภายในจะทดสอบวิธีการแก้ไขที่ฝ่ายบริหารทำขึ้นเพื่อประเมินว่าสามารถแก้ไขปัญหาได้จริงหรือไม่",
+    "options_th": [
+      "ข้อ I เท่านั้น",
+      "ข้อ II เท่านั้น",
+      "ข้อ II และ III เท่านั้น",
+      "ข้อ I, II และ III"
+    ],
+    "explanation_th": "ข้อสังเกตและคำแนะนำบางข้อมีความสลักสำคัญมากจนฝ่ายบริหารต้องลงมือแก้ไขทันที ฝ่ายตรวจสอบภายในจึงต้องติดตามการดำเนินงานจนกว่าข้อบกพร่องจะได้รับการแก้ไข CAE ต้องกำหนดระเบียบวิธีการรายงานการติดตามผลภายในเวลาที่ระบุ ประเมินและทดสอบการแก้ไขนั้น รวมถึงรายงานการยอมรับความเสี่ยงหรือแนวทางแก้ไขที่ไม่พึงประสงค์ส่งตรงไปยังผู้บริหารระดับสูงและคณะกรรมการ (PA 2500-1)"
+  },
+  {
+    "id": 163,
+    "original_num": 163,
+    "question_en": "Upon reviewing the final communication of engagement results, senior management decided to assume the risk of not implementing corrective action on certain engagement observations. Evaluate the following and select the best  alternative for the chief audit executive:",
+    "options_en": [
+      "Notify regulatory authorities of management’s decision.",
+      "Perform additional engagement procedures to further identify the policy violations.",
+      "Conduct a follow-up engagement to determine whether corrective action was taken.",
+      "Discuss the matter with senior management and possibly the board if the residual risk accepted is excessive."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". According to Standard 2600, “When the chief audit executive believes that senior \nmanagement has accepted a level of residual risk that may be unacceptable to the organization, the chief audit \nexecutive must discuss the matter with senior management. If the decision regarding residual risk is not resolved, \nthe chief audit executive must report the matter to the board for resolution.”",
+    "question_th": "จากการสอบทานรายงานผลการตรวจสอบขั้นสุดท้าย ผู้บริหารระดับสูงตัดสินใจที่จะยอมรับความเสี่ยงที่จะไม่ดำเนินการแก้ไขใด ๆ สำหรับข้อตรวจพบและข้อสังเกตการตรวจสอบบางประการ ทางเลือกการปฏิบัติตามมาตรฐานที่ดีที่สุดของหัวหน้างานบริหารการตรวจสอบภายใน (CAE) คืออะไร",
+    "options_th": [
+      "รายงานการตัดสินใจของฝ่ายบริหารต่อหน่วยงานกำกับดูแลของภาครัฐ",
+      "ปฏิบัติงานตรวจสอบเพิ่มเติมเพื่อระบุหาข้อบกพร่องและขอบเขตการละเมิดนโยบายให้ละเอียดยิ่งขึ้น",
+      "จัดทำกระบวนการตรวจสอบติดตามผลเพื่อยืนยันอีกครั้งว่าไม่มีการดำเนินการแก้ไขเกิดขึ้น",
+      "เข้าหารือร่วมกับผู้บริหารระดับสูง และรายงานเรื่องต่อคณะกรรมการบริษัทหากระดับความเสี่ยงที่ฝ่ายบริหารยินยอมยอมรับนั้นสูงเกินขอบเขตที่องค์กรรับได้"
+    ],
+    "explanation_th": "ตามมาตรฐานวิชาชีพ 2600 กำหนดไว้ว่า เมื่อหัวหน้างานบริหารการตรวจสอบภายใน (CAE) เชื่อว่าผู้บริหารระดับสูงได้ยอมรับระดับความเสี่ยงคงเหลือที่อาจไม่สามารถยอมรับได้สำหรับองค์กร CAE จะต้องหารือเรื่องนี้กับผู้บริหารระดับสูงก่อน หากการตัดสินใจเกี่ยวกับความเสี่ยงคงเหลือนั้นยังไม่ได้รับการแก้ไข CAE จะต้องรายงานเรื่องนี้ต่อคณะกรรมการบริษัทเพื่อหาข้อยุติต่อไป"
+  },
+  {
+    "id": 166,
+    "original_num": 166,
+    "question_en": "What action must the chief audit executive take when (s)he believes that senior management has accepted a level of residual risk that is unacceptable to the organization?",
+    "options_en": [
+      "Report the matter to the board for resolution.",
+      "Report the matter to an external authority.",
+      "Discuss the matter with external auditors.",
+      "Discuss the matter with senior management."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". When the CAE believes that senior management has accepted a level of residual risk that is \nunacceptable to the organization, (s)he must discuss the matter with senior management. If the decision regarding \nresidual risk is not resolved, the CAE must report the matter to the board for resolution (Standard 2600).",
+    "question_th": "หัวหน้างานบริหารการตรวจสอบภายใน (CAE) ต้องทำอย่างไรในขั้นแรก หากเชื่อว่าผู้บริหารระดับสูงยินยอมรับระดับความเสี่ยงคงเหลือ (Residual risk) ที่สูงจนเกินกว่าระดับที่เหมาะสมต่อองค์กร",
+    "options_th": [
+      "รายงานต่อคณะกรรมการบริษัททันทีเพื่อให้มีมติในการตัดสินใจ",
+      "รายงานความเสี่ยงและเรื่องดังกล่าวต่อหน่วยงานภายนอกองค์กรที่มีอำนาจกำกับดูแล",
+      "แจ้งข้อมูลและปรึกษากับผู้สอบบัญชีภายนอก",
+      "เข้าหารือเกี่ยวกับเรื่องดังกล่าวร่วมกับผู้บริหารระดับสูงเป็นอันดับแรก"
+    ],
+    "explanation_th": "ตามมาตรฐานวิชาชีพ 2600 เมื่อ CAE เชื่อว่าฝ่ายบริหารยอมรับความเสี่ยงคงเหลือในระดับที่ส่งผลเสียหายต่อองค์กร CAE จะต้องเข้าพูดคุยประเด็นนี้กับผู้บริหารระดับสูงก่อนเป็นอันดับแรก และหากไม่สามารถหาข้อยุติหรือดำเนินการแก้ไขได้สำเร็จ จึงจะส่งรายงานต่อให้คณะกรรมการบริษัทเพื่อพิจารณาประเด็นปัญหา"
+  },
+  {
+    "id": 168,
+    "original_num": 168,
+    "question_en": "The role of the internal audit activity in the ethical culture of an organization is to",
+    "options_en": [
+      "Avoid active support of the ethical culture because of possible loss of independence.",
+      "Evaluate the effectiveness of the organization’s formal code of conduct.",
+      "Assume accountability for the effectiveness of the governance process.",
+      "Become the chief ethics officer."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". According to Standard 2110.A1, “The internal audit activity must evaluate the design, \nimplementation, and effectiveness of the organization’s ethics-related objectives, programs, and activities.”  As part \nof this assessment, internal auditors evaluate the effectiveness of the organization’s formal code of conduct. \nAnswer (C) is incorrect. The organization’s board and its senior management are responsible for the effectiveness \nof the governance process. \nAnswer (D) is incorrect. The internal auditor’s basic role is to be the assessor of the ethical culture. However, an \ninternal auditor may become chief ethics officer or a member of an ethics council, although the first role may, in \nsome circumstances, impair individual objectivity and the IAA’s independence.",
+    "question_th": "บทบาทหน้าที่ของกิจกรรมการตรวจสอบภายในที่มีต่อวัฒนธรรมทางจริยธรรม (Ethical culture) ขององค์กรคือข้อใด",
+    "options_th": [
+      "หลีกเลี่ยงการสนับสนุนด้านวัฒนธรรมจริยธรรมเนื่องจากอาจสูญเสียความเป็นอิสระของผู้ตรวจสอบ",
+      "ประเมินประสิทธิผลของจรรยาบรรณที่เป็นทางการ (Code of conduct) ขององค์กร",
+      "รับผิดชอบต่อประสิทธิผลของกระบวนการกำกับดูแลในภาพรวมขององค์กร",
+      "ทำหน้าที่เป็นเจ้าหน้าที่บริหารจริยธรรมหลัก (Chief ethics officer) ของบริษัท"
+    ],
+    "explanation_th": "ตามมาตรฐาน 2110.A1 กิจกรรมการตรวจสอบภายในต้องประเมินการออกแบบ การนำไปปฏิบัติ และประสิทธิผลของวัตถุประสงค์ แผนงาน และกิจกรรมที่เกี่ยวข้องกับจริยธรรมขององค์กร ผู้ตรวจสอบภายในจะร่วมประเมินประสิทธิผลของจรรยาบรรณที่เป็นทางการของบริษัทด้วย\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากคณะกรรมการบริษัทและผู้บริหารระดับสูงคือผู้มีหน้าที่รับผิดชอบต่อประสิทธิผลของระบบการกำกับดูแลกิจการ\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากบทบาทที่แท้จริงคือผู้ประเมินวัฒนธรรมจริยธรรม การเข้ารับตำแหน่งควบคุมจริยธรรมโดยตรงอาจส่งผลเสียหายต่อภาพลักษณ์ความเป็นอิสระและความเที่ยงธรรมในภายหลังได้"
+  },
+  {
+    "id": 169,
+    "original_num": 169,
+    "question_en": "The internal audit activity should contribute to the organization’s governance process by evaluating the processes through which: Ethics and values are promoted. I. Effective organizational performance management and accountability are ensured. II. Risk and control information is communicated. III. Activities of the external and internal auditors and management are coordinated. IV.",
+    "options_en": [
+      "I only.",
+      "IV only.",
+      "II and III only.",
+      "I, II, III, and IV."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". According to Standard 2110, “The internal audit activity must assess and make appropriate \nrecommendations for improving the governance process in its accomplishment of the following objectives: \nPromoting appropriate ethics and values within the organization. \nEnsuring effective organizational performance management and accountability. \nCommunicating risk and control information to appropriate areas of the organization. \nCoordinating the activities of and communicating information among the board, external and internal \nauditors, and management.”",
+    "question_th": "กิจกรรมการตรวจสอบภายในควรมีส่วนส่งเสริมกระบวนการกำกับดูแลกิจการขององค์กร โดยการประเมินกระบวนการต่าง ๆ ในข้อใดต่อไปนี้\nI. การส่งเสริมจริยธรรมและค่านิยมภายในองค์กร\nII. การดูแลให้มีการจัดการผลการปฏิบัติงานขององค์กรและความรับผิดชอบที่มีประสิทธิผล\nIII. การสื่อสารข้อมูลความเสี่ยงและการควบคุมภายใน\nIV. การประสานความร่วมมือระหว่างผู้สอบบัญชีภายนอก ผู้ตรวจสอบภายใน และฝ่ายบริหาร",
+    "options_th": [
+      "ข้อ I เท่านั้น",
+      "ข้อ IV เท่านั้น",
+      "ข้อ II และ III เท่านั้น",
+      "ข้อ I, II, III และ IV"
+    ],
+    "explanation_th": "ตามมาตรฐาน 2110 กิจกรรมการตรวจสอบภายในต้องประเมินและให้ข้อเสนอแนะที่เหมาะสมเพื่อปรับปรุงกระบวนการกำกับดูแลกิจการในการบรรลุวัตถุประสงค์ต่อไปนี้: การส่งเสริมจริยธรรมและค่านิยม, การบริหารจัดการประสิทธิภาพองค์กรและความรับผิดชอบ, การสื่อสารเรื่องความเสี่ยงและการควบคุมไปยังหน่วยงานที่เกี่ยวข้อง และการประสานงานแลกเปลี่ยนข้อมูลระหว่างบอร์ด ผู้ตรวจสอบภายนอก/ภายใน และฝ่ายบริหาร ดังนั้นองค์ประกอบทั้งหมดจึงถือเป็นขอบเขตงานประเมินกระบวนการกำกับดูแลที่ถูกต้อง"
+  },
+  {
+    "id": 172,
+    "original_num": 172,
+    "question_en": "Management is beginning to take corrective action on personnel department deficiencies reported during the last engagement performed by the internal audit activity. The internal auditor should",
+    "options_en": [
+      "Oversee the corrective action.",
+      "Postpone the next engagement of the personnel department until the corrective action is completed.",
+      "Refrain from judging whether the corrective action will remedy the deficiencies.",
+      "Follow up to see that the corrective action satisfies the engagement recommendations."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The CAE must establish a follow-up process to monitor and ensure that management \nactions have been effectively implemented or that senior management has accepted the risk of not taking action \n(Standard 2500.A1).",
+    "question_th": "ฝ่ายบริหารกำลังเริ่มต้นดำเนินการแก้ไขข้อบกพร่องของแผนกบุคคลตามรายงานการตรวจสอบรอบที่แล้ว กิจกรรมการตรวจสอบภายในควรดำเนินการอย่างไร",
+    "options_th": [
+      "เข้าไปช่วยควบคุมและสั่งการการดำเนินการแก้ไขของแผนกบุคคล",
+      "เลื่อนการปฏิบัติงานตรวจสอบในแผนกบุคคลรอบหน้าออกไปจนกว่าแผนการแก้ไขจะเสร็จสมบูรณ์",
+      "งดเว้นการให้ความเห็นว่าขั้นตอนการแก้ไขจะสามารถแก้ไขข้อบกพร่องได้จริงหรือไม่",
+      "ติดตามผล (Follow up) เพื่อให้แน่ใจว่าการดำเนินการแก้ไขเป็นไปตามคำแนะนำในการตรวจสอบอย่างเหมาะสม"
+    ],
+    "explanation_th": "หัวหน้างานบริหารการตรวจสอบภายใน (CAE) จะต้องจัดให้มีกระบวนการติดตามผลการตรวจสอบ เพื่อติดตามและดูแลให้มั่นใจว่ามาตรการแก้ไขของฝ่ายบริหารได้รับการนำไปใช้อย่างมีประสิทธิผล หรือฝ่ายบริหารระดับสูงได้ยอมรับความเสี่ยงจากการไม่ดำเนินการใด ๆ (มาตรฐาน 2500.A1)"
+  },
+  {
+    "id": 175,
+    "original_num": 175,
+    "question_en": "A basic principle of governance is",
+    "options_en": [
+      "Assessment of the governance process by an independent internal audit activity.",
+      "Holding the board, senior management, and the internal audit activity accountable for its effectiveness.",
+      "Exclusive use of external auditors to provide assurance about the governance process.",
+      "Separation of the governance process from promoting an ethical culture in the organization."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Governance includes effective use of internal auditors, ensuring (1) their independence, (2) \nthe adequacy of their resources and scope of activities, and (3) the effectiveness of operations. \nAnswer (B) is incorrect. The IAA is an assessor of the governance process. It is not accountable for that process. \nAnswer (C) is incorrect. External parties and internal auditors may provide assurance about the governance \nprocess. \nAnswer (D) is incorrect. The IAA must assess and make recommendations for improving the governance process in \nits promotion of appropriate ethics and values within the organization (Standard 2110).",
+    "question_th": "หลักการพื้นฐานของการกำกับดูแลกิจการ (Governance) คือข้อใด",
+    "options_th": [
+      "การประเมินกระบวนการกำกับดูแลกิจการโดยกิจกรรมการตรวจสอบภายในที่เป็นอิสระ",
+      "การให้คณะกรรมการบริษัท ผู้บริหารระดับสูง และกิจกรรมตรวจสอบภายใน ร่วมกันรับผิดชอบต่อประสิทธิผลของระบบกำกับดูแล",
+      "การใช้บริการผู้สอบบัญชีภายนอกเท่านั้นในการให้ความเชื่อมั่นต่อกระบวนการกำกับดูแล",
+      "การแยกการกำกับดูแลกิจการออกจากการส่งเสริมวัฒนธรรมทางจริยธรรมในองค์กร"
+    ],
+    "explanation_th": "ระบบการกำกับดูแลกิจการที่มีประสิทธิผลรวมถึงการใช้ประโยชน์จากผู้ตรวจสอบภายใน โดยรับประกันความเป็นอิสระ ขอบเขตการทำงาน และการมีงบประมาณทรัพยากรที่เหมาะสมในการทำหน้าที่เป็นผู้ประเมินกระบวนการดังกล่าว\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากกิจกรรมการตรวจสอบภายในทำหน้าที่เป็นผู้ประเมินกระบวนการกำกับดูแลแต่ไม่ได้เป็นผู้รับผิดชอบหรือเป็นเจ้าของกระบวนการนั้นโดยตรง\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากทั้งหน่วยงานภายในและผู้เชี่ยวชาญภายนอกต่างก็มีส่วนร่วมในการให้ความเชื่อมั่นได้\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากฝ่ายตรวจสอบภายในต้องประเมินและให้ข้อเสนอแนะเพื่อส่งเสริมค่านิยมจริยธรรมซึ่งเป็นส่วนสำคัญของการกำกับดูแลกิจการ (มาตรฐาน 2110)"
+  },
+  {
+    "id": 176,
+    "original_num": 176,
+    "question_en": "Which of the following is most  likely an internal audit role in a less structured governance process?",
+    "options_en": [
+      "Designing specific governance processes.",
+      "Playing a consulting role in optimizing governance practices and structure.",
+      "Providing advice about basic risks to the organization.",
+      "Evaluating the effectiveness of specific governance processes."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". A less mature governance system will emphasize the requirements for compliance with policies, \nprocedures, plans, laws, regulations, and contracts. It will also address the basic risks to the organization. Thus, the IAA \nwill provide advice about such matters. As the governance process becomes more structured, the IAA’s emphasis will \nshift to optimizing the governance structure and practices. \nAnswer (D) is incorrect. Evaluating the effectiveness of specific governance processes is typical of a more structured \ninternal auditing governance maturity model.",
+    "question_th": "บทบาทใดของผู้ตรวจสอบภายในที่มีความเหมาะสมมากที่สุดในองค์กรที่มีกระบวนการกำกับดูแลกิจการแบบไม่ซับซ้อนหรือไม่เป็นทางการสูง (Less structured governance process)",
+    "options_th": [
+      "การออกแบบกระบวนการกำกับดูแลกิจการเฉพาะด้าน",
+      "การทำหน้าที่เป็นที่ปรึกษาในการพัฒนาและปรับปรุงโครงสร้างกำกับดูแลกิจการให้ดีที่สุด",
+      "การให้คำแนะนำเกี่ยวกับความเสี่ยงขั้นพื้นฐานขององค์กร",
+      "การประเมินประสิทธิผลของกระบวนการกำกับดูแลกิจการเฉพาะด้าน"
+    ],
+    "explanation_th": "ในองค์กรที่ระบบการกำกับดูแลยังไม่พัฒนาหรือเป็นระบบขั้นพื้นฐาน การทำหน้าที่หลักจะเน้นที่การกำกับดูแลการปฏิบัติตามกฎเกณฑ์ ระเบียบวิธีปฏิบัติ และการระบุประเด็นความเสี่ยงพื้นฐานของธุรกิจ ฝ่ายตรวจสอบจึงทำหน้าที่ให้คำแนะนำประเด็นความเสี่ยงเหล่านี้ เมื่อระบบกำกับดูแลมีความมั่นคงและเป็นระบบมากขึ้น ฝ่ายตรวจสอบจึงจะเปลี่ยนบทบาทไปเน้นการให้คำปรึกษาปรับปรุงโครงสร้างและประเมินประสิทธิภาพในขั้นที่สูงขึ้น\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากการประเมินประสิทธิผลของกระบวนการเฉพาะด้านเป็นบทบาทในระดับความมั่นคงของกระบวนการกำกับดูแล (Governance maturity model) ที่สูงขึ้น"
+  },
+  {
+    "id": 177,
+    "original_num": 177,
+    "question_en": "Ensuring effective organizational performance management and accountability is most  directly the proper function of",
+    "options_en": [
+      "Control.",
+      "Governance.",
+      "Risk management.",
+      "A quality assurance program."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The internal audit activity must assess and make appropriate recommendations for \nimproving the governance process in its accomplishment of the following objectives: \nPromoting appropriate ethics and values within the organization. \nEnsuring effective organizational performance management and accountability. \nCommunicating risk and control information to appropriate areas of the organization. \nCoordinating the activities of and communicating information among the board, external and internal \nauditors and management. (Standard 2110) \n \nAnswer (C) is incorrect. Governance (not risk management) is directly responsible for ensuring effective \norganizational performance management and accountability. \nAnswer (D) is incorrect. A quality assurance program normally is implemented for an organizational unit, e.g., the \nIAA.",
+    "question_th": "การสร้างความมั่นใจในการจัดการผลการปฏิบัติงานขององค์กรและความรับผิดชอบที่มีประสิทธิผล ถือเป็นหน้าที่โดยตรงของข้อใด",
+    "options_th": [
+      "การควบคุมภายใน (Control)",
+      "การกำกับดูแลกิจการ (Governance)",
+      "การบริหารความเสี่ยง (Risk management)",
+      "แผนการประกันคุณภาพ (Quality assurance program)"
+    ],
+    "explanation_th": "ตามมาตรฐาน 2110 การกำกับดูแลกิจการ (Governance) เป็นหน้าที่โครงสร้างหลักขององค์กรที่มีวัตถุประสงค์เพื่อดูแลผลการดำเนินงานและสร้างความโปร่งใสความรับผิดชอบในการบริหารจัดการ\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากระบบบริหารความเสี่ยงช่วยระบุและจัดการภัยคุกคาม แต่การกำกับดูแลกิจการคือส่วนที่ควบคุมมิติความรับผิดชอบและผลการปฏิบัติงานโดยตรง\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากแผนประกันคุณภาพมักจำกัดใช้ในระดับหน่วยงานเฉพาะส่วน เช่น ฝ่ายตรวจสอบภายใน"
+  },
+  {
+    "id": 179,
+    "original_num": 179,
+    "question_en": "The board is responsible for implementing Risk management I. Governance II. Control III.",
+    "options_en": [
+      "I only.",
+      "II only.",
+      "III only.",
+      "II and III only."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Governance is the combination of processes and structures implemented by the board to \ninform, direct, manage, and monitor the activities of the organization toward the achievement of its objectives. \n(Glossary). Risk management is a key responsibility of senior management and the board. But the board’s role is to \nprovide oversight (PA 2120-1). Senior management’s role is to overall the establishment, administration, and \nassessment of the system of risk management and control processes (PA 2130-1). \nAnswer (C) is incorrect. Senior management’s role is to overall the establishment, administration, and assessment \nof the system of risk management and control processes (PA 2130-1). \nAnswer (D) is incorrect. Implementation of risk management and control processes are key responsibilities of \nmanagement at all levels.",
+    "question_th": "คณะกรรมการบริษัทมีหน้าที่รับผิดชอบหลักในการจัดให้มีสิ่งใดต่อไปนี้\nI. การบริหารความเสี่ยง (Risk management)\nII. การกำกับดูแลกิจการ (Governance)\nIII. ระบบการควบคุม (Control)",
+    "options_th": [
+      "ข้อ I เท่านั้น",
+      "ข้อ II เท่านั้น",
+      "ข้อ III เท่านั้น",
+      "ข้อ II และ III เท่านั้น"
+    ],
+    "explanation_th": "การกำกับดูแลกิจการ (Governance) คือกระบวนการและโครงสร้างที่คณะกรรมการบริษัทเป็นผู้กำหนดทิศทาง ควบคุมดูแล และติดตามการทำงานเพื่อให้บรรลุเป้าหมายองค์กร สำหรับการบริหารความเสี่ยงและระบบการควบคุมภายใน คณะกรรมการบริษัทมีหน้าที่ในการกำกับดูแลในภาพรวม (Oversight) ขณะที่การจัดทำและนำไปปฏิบัติงานเป็นหน้าที่ของฝ่ายบริหารและเจ้าหน้าที่ระดับปฏิบัติงานในองค์กร"
+  },
+  {
+    "id": 180,
+    "original_num": 180,
+    "question_en": "The internal audit activity evaluates controls in response to risks in governance systems regarding",
+    "options_en": [
+      "Compliance with contracts.",
+      "Strategic planning.",
+      "Formation of a governance committee of the board.",
+      "Formation of an audit committee of the board."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". The IAA must evaluate the adequacy and effectiveness of controls in responding to the risks \nwithin the organization’s governance, operations, and information systems regarding the (1) reliability and integrity \nof financial and operational information; (2) effectiveness and efficiency of operations; (3) safeguarding of assets; \nand (4) compliance with laws, regulations, and contracts (Standard 2130.A1). \nAnswer (B) is incorrect. Strategic planning is part of the governance function of strategic direction. The assurance \nprovided by the IAA is part of the governance function of oversight. \nAnswer (C) is incorrect. The IAA addresses the (1) reliability and integrity of financial and operational \ninformation; (2) effectiveness and efficiency of operations; (3) safeguarding of assets; and (4) compliance with \nlaws, regulations, and contracts, not the formation of board committees. \nAnswer (D) is incorrect. As part of its assurance function, the IAA does not address formation of board \ncommittees.",
+    "question_th": "กิจกรรมการตรวจสอบภายในทำหน้าที่ประเมินระบบการควบคุมเพื่อตอบสนองต่อความเสี่ยงในระบบการกำกับดูแลที่เกี่ยวข้องกับเรื่องใด",
+    "options_th": [
+      "การปฏิบัติตามสัญญาข้อตกลง (Compliance with contracts)",
+      "การวางแผนกลยุทธ์ขององค์กร (Strategic planning)",
+      "การจัดตั้งคณะกรรมการกำกับดูแลกิจการของบอร์ด",
+      "การจัดตั้งคณะกรรมการตรวจสอบของบอร์ด"
+    ],
+    "explanation_th": "ตามมาตรฐาน 2130.A1 ฝ่ายตรวจสอบภายในต้องประเมินความเพียงพอและประสิทธิผลของระบบควบคุมภายในต่อความเสี่ยงในกระบวนการกำกับดูแล การปฏิบัติงาน และระบบข้อมูลสารสนเทศที่เกี่ยวข้องกับ: (1) ความน่าเชื่อถือของข้อมูลทางการเงินและปฏิบัติงาน (2) ประสิทธิภาพและประสิทธิผลของงาน (3) การปกป้องสินทรัพย์ และ (4) การปฏิบัติตามกฎหมาย กฎระเบียบ และสัญญาข้อตกลง\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากแผนกลยุทธ์เป็นส่วนของการกำหนดทิศทาง ขณะที่ฝ่ายตรวจสอบทำหน้าที่ดูแลความมั่นใจเชิงกำกับดูแล (Oversight)\n\nตัวเลือก (C) และ (D) ไม่ถูกต้อง เนื่องจากขอบเขตงานไม่ได้ครอบคลุมการจัดตั้งหรือการสร้างโครงสร้างคณะกรรมการต่าง ๆ ของบอร์ดโดยตรง"
+  },
+  {
+    "id": 181,
+    "original_num": 181,
+    "question_en": "Compliance programs assist organizations by doing which of the following? Evaluating business continuity. I. Determining director and officer liability. II. Evaluating disaster recovery plans. III.",
+    "options_en": [
+      "I only.",
+      "II only.",
+      "I and II only.",
+      "I, II, and III."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Compliance programs assist organizations in preventing inadvertent employee violations, \ndetecting illegal activities, and discouraging intentional employee violations. They can also help (1) prove \ninsurance claims, (2) determine director and officer liability, (3) create or enhance corporate identity, and (4) \ndecide the appropriateness of punitive damages. Evaluating the business continuity and disaster recovery plans are \nmajor components of auditing e-commerce activities.\nAnswer (C) is incorrect. Evaluating the business continuity is a way in which e-commerce activities assist an \norganization, not compliance programs. \nAnswer (D) is incorrect. Evaluating the business continuity and disaster recovery plans are both major components \nof auditing e-commerce activities.",
+    "question_th": "แผนงานการปฏิบัติตามกฎเกณฑ์ (Compliance programs) ช่วยเหลือองค์กรในเรื่องใดต่อไปนี้\nI. การประเมินแผนความต่อเนื่องทางธุรกิจ (Business continuity)\nII. การพิจารณาความรับผิดทางกฎหมายของกรรมการและผู้บริหาร (Director and officer liability)\nIII. การประเมินแผนการกู้คืนระบบจากภัยพิบัติ (Disaster recovery plans)",
+    "options_th": [
+      "ข้อ I เท่านั้น",
+      "ข้อ II เท่านั้น",
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ I, II และ III"
+    ],
+    "explanation_th": "แผนงานกำกับดูแลการปฏิบัติตามกฎเกณฑ์ช่วยป้องกันการทำผิดกฎระเบียบของพนักงาน ตรวจพบกิจกรรมที่ผิดกฎหมาย และช่วยกำหนดหรือพิจารณาจำกัดขอบเขตความรับผิดทางกฎหมายของกรรมการบริษัทและผู้บริหาร (D&O liability) ตลอดจนช่วยสนับสนุนการเคลมประกัน ส่วนการประเมินความต่อเนื่องทางธุรกิจและแผนกู้ภัยพิบัติเป็นกิจกรรมตรวจสอบในสายงานธุรกรรมอิเล็กทรอนิกส์หรือเทคโนโลยีสารสนเทศเป็นหลัก ไม่ใช่วัตถุประสงค์โดยตรงของแผนงานปฏิบัติตามกฎเกณฑ์"
+  },
+  {
+    "id": 184,
+    "original_num": 184,
+    "question_en": "Environmental compliance information and training is most  applicable, and should be provided, to which of the following departments?",
+    "options_en": [
+      "Sales.",
+      "Human resources.",
+      "Manufacturing.",
+      "Information technology."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". When presenting compliance information and training, different sets of employees should \nbe targeted based on areas important to each functional group, and the information should be tailored to that \ngroup’s job requirements. Environmental compliance, in this case, is not in reference to the market or information \ntechnology environment, but the physical environment. Thus, information regarding environmental compliance is \nmost applicable to the manufacturing department. It has an increased likelihood of violating or detecting violations \nof such laws and regulations. \nAnswer (D) is incorrect. Environmental compliance is not vital to the job requirements of the departments’ \nemployees. In addition, they have a low likelihood of violating or detecting violations of such laws and regulations. \nFurthermore, providing such information and training to a department with no such responsibilities could be \ndetrimental, inspiring employee apathy or a belief that the program was not well constructed (PA 2100-5).",
+    "question_th": "ข้อมูลการปฏิบัติตามกฎระเบียบด้านสิ่งแวดล้อม (Environmental compliance) และการฝึกอบรม มีความเกี่ยวข้องและควรจัดสรรให้กับแผนกใดมากที่สุด",
+    "options_th": [
+      "แผนกขาย (Sales)",
+      "แผนกทรัพยากรบุคคล (Human resources)",
+      "แผนกการผลิต (Manufacturing)",
+      "แผนกเทคโนโลยีสารสนเทศ (Information technology)"
+    ],
+    "explanation_th": "การฝึกอบรมการปฏิบัติตามกฎระเบียบควรออกแบบข้อมูลให้ตรงตามหน้าที่การทำงานของพนักงานแต่ละกลุ่ม เรื่องสิ่งแวดล้อมในที่นี้หมายถึงสิ่งแวดล้อมทางกายภาพและระบบนิเวศน์ จึงมีความเกี่ยวข้องโดยตรงกับแผนกการผลิตซึ่งมีโอกาสเกิดการทำผิดกฎระเบียบด้านสิ่งแวดล้อม (เช่น มลพิษ ขยะอุตสาหกรรม) หรือต้องสังเกตเหตุการณ์ดังกล่าวในการทำงานมากที่สุด\n\nตัวเลือกอื่น ๆ ไม่ถูกต้องเนื่องจากไม่ได้มีความรับผิดชอบต่อกระบวนการผลิตทางกายภาพโดยตรง การฝึกอบรมในสิ่งที่ไม่มีหน้าที่รับผิดชอบอาจสร้างความไม่ใส่ใจหรือทำให้มองว่าหลักสูตรไม่ตอบโจทย์ความต้องการจริง (PA 2100-5)"
+  },
+  {
+    "id": 185,
+    "original_num": 185,
+    "question_en": "The chief compliance officer of an organization should report to the",
+    "options_en": [
+      "Chief executive officer.",
+      "Chief general counsel.",
+      "Chief operating officer.",
+      "Chief audit executive."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". It is not enough for an organization to create the position of chief compliance officer and to select \nthe rest of the compliance unit. The organization should also ensure that these personnel are appropriately empowered \nand supplied with the resources necessary for carrying out their mission. Furthermore, compliance personnel should have \nadequate access to senior management. A reporting structure in which the chief compliance officer reports directly to the \nchief executive officer (CEO) is optimal. \nAnswer (B) is incorrect. The chief general counsel in many organizations is assigned chief compliance responsibilities. In \nmany organizations, however, this structure may convince employees that management is not committed to the program \nand that the program is important only to the legal department. Anyone assigned chief compliance responsibilities should \nreport to the CEO. \nAnswer (C) is incorrect. The chief compliance officer should report to the CEO, not the COO. \nAnswer (D) is incorrect. The chief compliance officer should report to the CEO, not the CAE.",
+    "question_th": "หัวหน้าฝ่ายควบคุมการปฏิบัติตามกฎเกณฑ์ (Chief compliance officer) ขององค์กรควรรายงานตรงต่อผู้ใด",
+    "options_th": [
+      "ประธานเจ้าหน้าที่บริหาร (CEO)",
+      "หัวหน้าฝ่ายกฎหมายหลัก (Chief general counsel)",
+      "ประธานเจ้าหน้าที่ฝ่ายปฏิบัติการ (COO)",
+      "หัวหน้างานบริหารการตรวจสอบภายใน (CAE)"
+    ],
+    "explanation_th": "องค์กรต้องจัดสรรทรัพยากรและมอบอำนาจให้ฝ่ายควบคุมการปฏิบัติตามกฎเกณฑ์ทำงานได้อย่างมีประสิทธิภาพ และมีช่องทางการเข้าหาผู้บริหารระดับสูงอย่างเพียงพอ โครงสร้างการรายงานที่เหมาะสมที่สุดคือหัวหน้าฝ่ายดังกล่าวรายงานตรงต่อประธานเจ้าหน้าที่บริหาร (CEO)\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากหากรายงานต่อฝ่ายกฎหมาย พนักงานอาจเกิดความรู้สึกว่าผู้บริหารไม่ได้ใส่ใจอย่างแท้จริงและเป็นเรื่องของฝ่ายกฎหมายเท่านั้น\n\nตัวเลือก (C) และ (D) ไม่ถูกต้อง เนื่องจากตำแหน่งนี้ควรขึ้นตรงและเข้าหา CEO เพื่อความมั่นใจในอำนาจและการสนับสนุนการทำงาน"
+  },
+  {
+    "id": 186,
+    "original_num": 186,
+    "question_en": "An organization should use due care not to delegate substantial discretionary authority to individuals the organization knows have a propensity to engage in illegal activities. Which of the following are steps an organization can take to ensure that such individuals are detected? Screening of applicants for employment at all levels for evidence of past wrongdoing, especially past criminal convictions within the industry. I. Asking professionals about any history of discipline by licensing boards. II. Performing nonconsensual background checks on employees’ or applicants’ credit reports to ensure that they are financially sound and are unlikely to commit theft or fraud. III.",
+    "options_en": [
+      "I only.",
+      "III only.",
+      "I and II only.",
+      "I, II, and III."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". As part of the exercise of due diligence, an organization can take steps to protect itself \nagainst individuals who have a propensity to engage in illegal activities. For instance, an organization can screen \napplicants for employment at all levels for evidence of past wrongdoing, especially that within the organization’s \nindustry. Furthermore, it may inquire as to past criminal convictions, and professionals may be asked about any \nhistory of discipline by licensing boards. Care should be taken, however, to ensure that the organization does not \ninfringe upon employees’ and applicants’ privacy rights under applicable laws. Many jurisdictions have laws \nlimiting the amount of information an organization may obtain in performing background checks on employees. \nAnswer (D) is incorrect. Performing checks on an employee’s or applicant’s credit report, no matter how noble the \nreason, infringes upon their privacy rights, under applicable laws. Thus, such an act is considered illegal and the \norganization can be held liable.",
+    "question_th": "องค์กรควรระมัดระวังเป็นพิเศษที่จะไม่มอบหมายอำนาจที่ใช้ดุลยพินิจสูงแก่บุคคลที่รู้ว่ามีพฤติกรรมโน้มเอียงที่จะทำงานผิดกฎหมาย ขั้นตอนใดที่องค์กรสามารถทำเพื่อตรวจสอบคัดกรองบุคคลกลุ่มดังกล่าว\nI. การคัดกรองประวัติผู้สมัครงานทุกระดับเพื่อหาประวัติทำความผิด โดยเฉพาะประวัติคดีอาญาในอุตสาหกรรมเดียวกัน\nII. การตรวจสอบกับสภาวิชาชีพเกี่ยวกับประวัติการถูกลงโทษทางวินัยของผู้สมัคร\nIII. การตรวจสอบประวัติเครดิตบูโร (Credit reports) ของพนักงานหรือผู้สมัครโดยไม่ขอความยินยอม เพื่อประเมินสถานะทางการเงินและป้องกันการลักทรัพย์หรือทุจริต",
+    "options_th": [
+      "ข้อ I เท่านั้น",
+      "ข้อ III เท่านั้น",
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ I, II และ III"
+    ],
+    "explanation_th": "การใช้ความระมัดระวังรอบคอบในการคัดเลือกบุคลากรช่วยลดความเสี่ยง องค์กรสามารถประเมินคดีอาญาในอดีตหรือตรวจสอบความประพฤติจากสภาวิชาชีพได้ อย่างไรก็ตาม ต้องระวังไม่ให้ละเมิดสิทธิความเป็นส่วนตัวตามกฎหมายคุ้มครองข้อมูลส่วนบุคคล การดึงข้อมูลเครดิตบูโรโดยไม่ขอความยินยอมจากเจ้าตัวถือเป็นการกระทำที่ผิดกฎหมายและองค์กรอาจต้องรับผิดตามกฎหมาย (PDPA)"
+  },
+  {
+    "id": 187,
+    "original_num": 187,
+    "question_en": "An ombudsperson is most  effective when (s)he Is located on-site. I. Reports to the chief compliance officer or the board. II. Is located off-site. III. Reports to no one, thus protecting a whistle-blower’s identity. IV.",
+    "options_en": [
+      "II only.",
+      "I and II only.",
+      "I and IV only.",
+      "III and IV only."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Use of an ombudsperson is more effective if (s)he is on-site, reports directly to the chief \ncompliance officer or the board, keeps the names of whistleblowers secret, provides guidance to whistleblowers, \nand undertakes follow-up review to ensure that retaliation has not occurred. An ombudsperson must report to \nsomeone at a high level in the organization who is empowered to initiate a change in organizational policies based \non the ombudsperson’s findings. Thus, reporting to no one is not an option. In addition, an ombudspers on’s \npresence on-site promotes employee confidence. \nAnswer (C) is incorrect. An ombudsperson must report to someone at a high level in the organization that can \ninitiate a change in organization policies, based on the ombudspersons’ findings. \nAnswer (D) is incorrect. An ombudsperson should report to someone high-up in the organization that can initiate \nchange based on the ombudsperson’s findings, and the ombudsperson should be located on-site to promote\nemployee confidence.",
+    "question_th": "ผู้ตรวจการแผ่นดินหรือผู้ไกล่เกลี่ยร้องเรียน (Ombudsperson) จะปฏิบัติงานได้อย่างมีประสิทธิผลสูงสุดเมื่อมีลักษณะตามข้อใด\nI. ประจำการอยู่ในสำนักงาน (On-site)\nII. รายงานตรงต่อหัวหน้าฝ่ายปฏิบัติตามกฎเกณฑ์หรือคณะกรรมการบริษัท\nIII. ประจำการอยู่นอกสำนักงาน (Off-site)\nIV. ไม่รายงานต่อใครเลยเพื่อปกป้องตัวตนของผู้แจ้งเบาะแส",
+    "options_th": [
+      "เฉพาะข้อ II เท่านั้น",
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ I และ IV เท่านั้น",
+      "ข้อ III และ IV เท่านั้น"
+    ],
+    "explanation_th": "การใช้บริการผู้ไกล่เกลี่ยหรือร้องเรียน (Ombudsperson) จะมีประสิทธิผลเมื่อปฏิบัติงานในพื้นที่ (On-site) เพื่อสร้างความเชื่อมั่นแก่พนักงาน และรายงานตรงต่อหัวหน้าฝ่ายกำกับดูแลหรือบอร์ดเพื่อผลักดันการเปลี่ยนแปลงนโยบาย การไม่รายงานต่อผู้ใดเลยจะทำให้ผลการสอบสวนไม่มีผลในทางปฏิบัติ และผู้ไกล่เกลี่ยยังต้องทำหน้าที่ติดตามผลเพื่อป้องกันพนักงานผู้แจ้งเบาะแสจากการถูกกลั่นแกล้ง"
+  },
+  {
+    "id": 188,
+    "original_num": 188,
+    "question_en": "Employees have the most  confidence in a hotline monitored by which of the following?",
+    "options_en": [
+      "An expert from the legal department, backed by a nonretaliation policy.",
+      "An in-house representative, backed by a retaliation policy.",
+      "An in-house representative, backed by a nonretaliation policy.",
+      "An off-site attorney who can better protect attorney-client privilege."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Although an attorney monitoring the hotline is better able to protect attorney-client and \nwork-product privileges, one study observed that employees have little confidence in hotlines answered by the \nlegal department or by an outside service. The same study showed that employees have even less confidence in \nwrite-in reports or an off-site ombudsperson, but have the most confidence in hotlines answered by an in-house \nrepresentative (or an on-site ombudsperson) and backed by a nonretaliation policy. \nAnswer (D) is incorrect. Employees have little confidence in hotlines monitored by the legal department or by an \noutside service. Thus, they would have even less confidence in an outside attorney.",
+    "question_th": "พนักงานจะมีความมั่นใจในสายด่วนแจ้งเหตุร้องเรียน (Hotline) มากที่สุด เมื่อสายด่วนดังกล่าวได้รับการดูแลโดยข้อใด",
+    "options_th": [
+      "ผู้เชี่ยวชาญจากฝ่ายกฎหมายของบริษัท ร่วมกับนโยบายป้องกันการตอบโต้กลั่นแกล้ง",
+      "ตัวแทนภายในองค์กร ร่วมกับนโยบายการลงโทษตอบโต้",
+      "ตัวแทนภายในองค์กร ร่วมกับนโยบายป้องกันการตอบโต้กลั่นแกล้ง (Nonretaliation policy)",
+      "ทนายความภายนอกบริษัทที่สามารถปกป้องความลับระหว่างทนายความและลูกความได้ดีกว่า"
+    ],
+    "explanation_th": "แม้การใช้ทนายความจะช่วยควบคุมความลับทางกฎหมายได้ดีกว่า แต่การวิจัยชี้ว่าพนักงานมักไม่มีความมั่นใจหากสายด่วนเป็นบริการของฝ่ายกฎหมายหรือบริษัทภายนอก พนักงานจะมีความเชื่อมั่นและไว้วางใจสูงสุดเมื่อผู้รับเรื่องเป็นตัวแทนภายในองค์กร (หรือผู้ไกล่เกลี่ยในพื้นที่) และได้รับการคุ้มครองผ่านนโยบายต่อต้านการตอบโต้หรือกลั่นแกล้งอย่างเป็นรูปธรรม\n\nตัวเลือกอื่น ๆ ไม่ถูกต้องเนื่องจากมีระดับความไว้วางใจของพนักงานต่ำกว่า"
+  },
+  {
+    "id": 189,
+    "original_num": 189,
+    "question_en": "An internal audit plan should include a review of the organization’s compliance program and its procedures, including reviews to determine all but which of the following?",
+    "options_en": [
+      "The effectiveness of written materials.",
+      "The receipt of communications by employees.",
+      "The appropriate handling of detected violations.",
+      "The performance of full background checks on employees and new hires."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The audit plan should include a review of the compliance program and its procedures. The review \nshould determine whether (1) written materials are effective, (2) communications have been received by employees, \n(3) detected violations have been appropriately handled, (4) discipline has been even-handed, (5) whistleblowers have \nbeen protected, and (6) the compliance unit has fulfilled its responsibilities. The auditors should review the compliance \nprogram to determine whether it can be improved and should solicit employee input. Moreover, organizations should \nscreen applicants for employment at all levels and inquire as to past criminal convictions, taking care not to infringe upon \nemployees’ and applicants’ privacy rights. However, a review of the performance of full background checks is not \nincluded in an audit plan as part of the review of an organization’s compliance program.",
+    "question_th": "แผนการตรวจสอบภายในควรบรรจุการประเมินแผนงานควบคุมการปฏิบัติตามกฎเกณฑ์ (Compliance program) และขั้นตอนการทำงาน โดยการทบทวนควรประเมินประเด็นต่าง ๆ ดังต่อไปนี้ ยกเว้นข้อใด",
+    "options_th": [
+      "ประสิทธิผลของเอกสารที่เป็นลายลักษณ์อักษร",
+      "การรับทราบข้อมูลข่าวสารและการสื่อสารของพนักงาน",
+      "การจัดการและตอบสนองที่เหมาะสมเมื่อตรวจพบการฝ่าฝืนกฎระเบียบ",
+      "การประเมินการตรวจสอบประวัติอย่างละเอียดในพนักงานเดิมและพนักงานเข้าใหม่ทุกคน"
+    ],
+    "explanation_th": "การตรวจสอบแผนงานปฏิบัติตามกฎเกณฑ์จะเน้นประเมินประสิทธิผลของเอกสาร, การรับรู้ข่าวสารของพนักงาน, การจัดการผู้ฝ่าฝืน, ความเท่าเทียมในการลงโทษวินัย และการปกป้องผู้แจ้งเบาะแส รวมถึงประเมินว่าองค์กรมีการกรองพนักงานเพื่อจำกัดผู้มีประวัติคดีอาญาโดยไม่ละเมิดสิทธิส่วนบุคคล ทว่าการเข้าทบทวนกระบวนการตรวจสอบประวัติอย่างเต็มรูปแบบแก่พนักงานทุกคน (Full background checks) ไม่ใช่องค์ประกอบที่จะบรรจุเป็นส่วนหนึ่งของการตรวจสอบประเมินแผนงานควบคุมการปฏิบัติตามกฎเกณฑ์นี้"
+  },
+  {
+    "id": 190,
+    "original_num": 190,
+    "question_en": "Which of the following is an effective tool for uncovering unethical or illegal activity in an organization?",
+    "options_en": [
+      "The screening of applicants.",
+      "The ethics interview.",
+      "The background check.",
+      "The ethics questionnaire."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". An effective tool for uncovering unethical or illegal activity is the ethics questionnaire. \nEach employee of the organization should receive a questionnaire that asks whether the employee is aware of \nkickbacks, bribes, or other wrong-doing.",
+    "question_th": "เครื่องมือใดที่มีประสิทธิภาพสูงสุดในการสืบทราบพฤติกรรมที่ผิดจรรยาบรรณหรือการทำผิดกฎหมายภายในองค์กร",
+    "options_th": [
+      "การคัดกรองประวัติผู้สมัครงาน",
+      "การสัมภาษณ์เรื่องจริยธรรมในการทำงาน (Ethics interview)",
+      "การตรวจสอบประวัติพื้นฐาน (Background check)",
+      "แบบสอบถามประเด็นจริยธรรม (Ethics questionnaire)"
+    ],
+    "explanation_th": "เครื่องมือที่มีประสิทธิภาพสูงในการตรวจหาการทุจริตหรือพฤติกรรมมิชอบคือ แบบสอบถามประเด็นจริยธรรม (Ethics questionnaire) ซึ่งพนักงานทุกคนจะได้รับแบบสอบถามเพื่อถามข้อมูลเชิงลึกอย่างเป็นความลับว่ารับรู้หรือตรวจพบเบาะแสเรื่องการรับเงินใต้โต๊ะ การติดสินบน หรือพฤติกรรมมิชอบอื่น ๆ หรือไม่"
+  },
+  {
+    "id": 191,
+    "original_num": 191,
+    "question_en": "Which of the following are forms of punishment for those who violate an organization’s code of conduct? A warning I. Loss of pay II. Suspension III. Termination IV.",
+    "options_en": [
+      "I and II only.",
+      "I, III, and IV only.",
+      "I, II, and III only.",
+      "I, II, III, and IV."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Those who violate the code of conduct should receive punishment appropriate to the \noffense, such as warning, loss of pay, suspension, transfer, or termination. Thus, if an employee is found to have \ncommitted some illegal act, the organization might have to terminate that employee. This action is consistent with \nthe organization’s obligation to use due care not to delegate substantial discretionary authority to individuals whom \nthe organization knew, or should have known through the exercise of due diligence, had a tendency to commit \ncrimes.",
+    "question_th": "ข้อใดคือรูปแบบการลงโทษทางวินัยสำหรับผู้ที่ฝ่าฝืนจรรยาบรรณขององค์กร\nI. การตักเตือน (Warning)\nII. การหักเงินเดือนหรือค่าจ้าง (Loss of pay)\nIII. การพักงาน (Suspension)\nIV. การเลิกจ้าง (Termination)",
+    "options_th": [
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ I, III และ IV เท่านั้น",
+      "ข้อ I, II และ III เท่านั้น",
+      "ข้อ I, II, III และ IV"
+    ],
+    "explanation_th": "ผู้ที่กระทำความผิดหรือฝ่าฝืนจรรยาบรรณควรได้รับโทษที่เหมาะสมกับความผิด เช่น การตักเตือน การลดหรือหักเงินค่าตอบแทน การพักงานชั่วคราว การโอนย้ายแผนก หรือการเลิกจ้าง ซึ่งการลงโทษทางวินัยอย่างเคร่งครัดเป็นหน้าที่รับผิดชอบขององค์กรในการป้องกันไม่ให้ผู้มีพฤติกรรมทุจริตมีอำนาจตัดสินใจในตำแหน่งสำคัญต่อไป"
+  },
+  {
+    "id": 192,
+    "original_num": 192,
+    "question_en": "Termination or other discipline of employees may be limited by all of the following except",
+    "options_en": [
+      "Whistleblower laws.",
+      "Employer responsibilities with regard to employer good faith doctrines.",
+      "Union contracts.",
+      "Exceptions to the employee-at-will doctrine."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Termination or other discipline of employees may be limited by (1) whistleblower laws, (2) \nexceptions to the employee-at-will doctrine, (3) employee or union contracts, and (4) employer responsibilities \nwith regard to discrimination, wrongful discharge, and employer good faith doctrines. The employee-at-will \ndoctrine allows an employer to terminate employment for any reason and without justification. Exceptions may \narise from, for example, union contracts. Under some laws, however, employers must act in good faith. \nAnswer (C) is incorrect. This is a way in which the termination or other discipline of employees may be limited. \nAnswer (D) is incorrect. This is a way in which the termination or other discipline of employees may be limited.",
+    "question_th": "การเลิกจ้างหรือการลงโทษพนักงานอาจถูกจำกัดสิทธิ์โดยปัจจัยต่าง ๆ ต่อไปนี้ ยกเว้นข้อใด",
+    "options_th": [
+      "กฎหมายคุ้มครองผู้แจ้งเบาะแสการทุจริต (Whistleblower laws)",
+      "ความรับผิดชอบของนายจ้างตามหลักความสุจริตใจของนายจ้าง (Employer good faith doctrines)",
+      "ข้อตกลงหรือสัญญาร่วมของสหภาพแรงงาน (Union contracts)",
+      "ข้อยกเว้นภายใต้หลักการจ้างงานตามความพอใจ (Employee-at-will doctrine)"
+    ],
+    "explanation_th": "ความรับผิดชอบตามหลักความสุจริตของนายจ้าง (Employer good faith) แท้จริงแล้วเป็นหนึ่งในปัจจัยที่ช่วยจำกัดหรือควบคุมไม่ให้นายจ้างเลิกจ้างอย่างไม่เป็นธรรม แต่คำถามระบุข้อยกเว้นการจำกัดสิทธิ์ หลักจ้างงานตามความพอใจ (Employee-at-will) อนุญาตให้นายจ้างเลิกจ้างพนักงานเมื่อใดก็ได้โดยไม่ต้องมีเหตุผลรองรับ แต่จะมีข้อยกเว้นจำกัดสิทธิ์นี้ผ่านกฎหมายแรงงาน กฎหมายปกป้องผู้แจ้งเบาะแส หรือสัญญาสหภาพแรงงาน"
+  },
+  {
+    "id": 194,
+    "original_num": 194,
+    "question_en": "Which of the following is true regarding appropriate responses to an offense detected by an organization’s compliance program? Disciplinary action taken against those engaged in misconduct is an appropriate response. I. Self-reporting the violation to the government is an appropriate response. II. Acceptance of responsibility for the violation is an appropriate response. III. An appropriate response can lower the amount of an organization’s court fines. IV.",
+    "options_en": [
+      "I and II only.",
+      "I and III only.",
+      "I, II, and III only.",
+      "I, II, III, and IV."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". An organization should respond appropriately to each offense detected by the compliance \nprogram. Appropriate responses include disciplinary action taken with regard to those who engaged in misconduct. In \nsome circumstances, an appropriate response could require self-reporting the violation to the government, cooperation \nwith governmental investigations, and the acceptance of responsibility for the violation. Making these responses could \nresult in a court’s reduction of the amount of the organization’s fine. A similar result may follow when the compliance \nprogram is effective.",
+    "question_th": "ข้อใดถูกต้องเกี่ยวกับการตอบสนองที่เหมาะสมเมื่อแผนงานกำกับดูแลขององค์กรตรวจพบการกระทำความผิดกฎระเบียบ\nI. การลงโทษทางวินัยต่อผู้กระทำความผิดถือเป็นการตอบสนองที่เหมาะสม\nII. การรายงานความผิดพลาดของตนเองต่อหน่วยงานรัฐ (Self-reporting) ถือเป็นการตอบสนองที่เหมาะสม\nIII. การยอมรับผิดในเหตุการณ์ละเมิดกฎเกณฑ์เป็นแนวทางตอบสนองที่เหมาะสม\nIV. การตอบสนองที่รวดเร็วและเหมาะสมสามารถมีส่วนช่วยลดวงเงินค่าปรับในชั้นศาลขององค์กรลงได้",
+    "options_th": [
+      "ข้อ I และ II เท่านั้น",
+      "ข้อ I และ III เท่านั้น",
+      "ข้อ I, II และ III เท่านั้น",
+      "ข้อ I, II, III และ IV"
+    ],
+    "explanation_th": "เมื่อตรวจพบการฝ่าฝืนกฎระเบียบ องค์กรต้องตอบสนองอย่างถูกต้องและรวดเร็ว มาตรการลงโทษทางวินัยเป็นสิ่งจำเป็น และในบางสถานการณ์ องค์กรต้องรายงานความผิดต่อหน่วยงานรัฐด้วยตนเอง ยอมรับผิด และให้ความร่วมมือในการสอบสวน การแสดงแนวทางตอบสนองเชิงบวกเหล่านี้ รวมถึงการมีแผนงานกำกับดูแลที่มีประสิทธิภาพ จะช่วยให้ศาลพิจารณาลดโทษหรือลดจำนวนค่าปรับขององค์กรลงตามความเหมาะสม"
+  },
+  {
+    "id": 197,
+    "original_num": 197,
+    "question_en": "If the annual audit plan does not allow for adequate review of compliance with all material regulations affecting the company, the internal audit activity should:",
+    "options_en": [
+      "Ensure that the board of directors and senior management are aware of the limitation.",
+      "Include a memo with the audit planning file listing the reasons for the lack of coverage.",
+      "Document that regulations not included will be reviewed in the subsequent year.",
+      "Decrease the scope of operational and financial audits to make additional audit time available."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". The internal audit activity evaluates and contributes to the improvement of risk \nmanagement, control, and governance processes by using a systematic and defined approach (Standard 2100). \nThus, they should assess compliance in specific areas as part of their role in organizational governance. If the \nannual audit plan does not allow for adequate review of compliance, senior management and the board of directors \nshould be informed of the implications of gaps in audit coverage, including the review of compliance with \napplicable laws and regulations. \nAnswer (B) is incorrect. The knowledge of incomplete audit coverage should not be limited to the internal audit \nactivity. \nAnswer (C) is incorrect. Compliance with material regulations may need to be reviewed at least on an annual basis. \nAnswer (D) is incorrect. Audit coverage in other areas should not be automatically reduced. The internal audit \nactivity may require additional resources to provide adequate coverage of risks.",
+    "question_th": "หากแผนการตรวจสอบประจำปีมีเวลาหรืออัตรากำลังไม่เพียงพอสำหรับการทบทวนการปฏิบัติตามกฎเกณฑ์ที่สำคัญทั้งหมดที่มีผลกระทบต่อบริษัท กิจกรรมการตรวจสอบภายในควรดำเนินการอย่างไร",
+    "options_th": [
+      "ดูแลและรับประกันว่าคณะกรรมการบริษัทและผู้บริหารระดับสูงได้รับทราบถึงข้อจำกัดขอบเขตงานนี้",
+      "เขียนบันทึกข้อความแนบไว้ในแฟ้มวางแผนการตรวจสอบเพื่ออธิบายเหตุผลของการละเว้นงานตรวจสอบนั้น",
+      "บันทึกเอกสารไว้ว่าส่วนกฎเกณฑ์ที่ข้ามไปในปีนี้จะจัดสรรเข้าตรวจในปีถัดไปแทน",
+      "ลดขอบเขตการตรวจสอบด้านการปฏิบัติงานและการเงินลงเพื่อโอนเวลาตรวจสอบมาให้งานนี้"
+    ],
+    "explanation_th": "ฝ่ายตรวจสอบภายในทำหน้าที่ประเมินเพื่อช่วยส่งเสริมระบบบริหารความเสี่ยง ระบบควบคุมภายใน และการกำกับดูแล (มาตรฐาน 2100) หากแผนตรวจสอบประจำปีไม่สามารถเข้าตรวจประเมินด้านการปฏิบัติตามกฎหมายที่สำคัญได้ครบถ้วน CAE ต้องแจ้งผู้บริหารระดับสูงและคณะกรรมการให้ทราบถึงผลกระทบและระดับความเสี่ยงของช่องว่างในการตรวจสอบ (Audit coverage gaps) ดังกล่าว\n\nตัวเลือก (B) ไม่ถูกต้อง เนื่องจากไม่ควรจำกัดเรื่องของข้อจำกัดไว้รับรู้เฉพาะในฝ่ายตรวจสอบ\n\nตัวเลือก (C) ไม่ถูกต้อง เนื่องจากกฎเกณฑ์ที่สำคัญจำเป็นต้องได้รับตรวจประเมินเป็นรายปีอย่างต่อเนื่อง\n\nตัวเลือก (D) ไม่ถูกต้อง เนื่องจากไม่ควรลดงานตรวจสอบในด้านสำคัญอื่น ๆ ลงอย่างไม่มีเกณฑ์ แต่ควรขออนุมัติงบประมาณหรือทรัพยากรเพิ่มหากจำเป็น"
+  },
+  {
+    "id": 199,
+    "original_num": 199,
+    "question_en": "In the risk management process, management’s view of the internal audit activity’s role is likely to be determined by all of the following factors except",
+    "options_en": [
+      "Organizational culture.",
+      "Preferences of the independent auditor.",
+      "Ability of the internal audit staff.",
+      "Local conditions and customs of the country."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". It is the role of senior management and the board to determine the role of internal auditing in the \nrisk management process. Management’s view of that role is likely to be determined by factors such as the culture of the \norganization, ability of the internal audit staff, and local conditions and customs (PA 2120-1). \nAnswer (C) is incorrect. The ability of the internal audit staff is a factor that influences management’s view of the role of \ninternal auditing. \nAnswer (D) is incorrect. Local conditions and customs of the country influence management’s view of the role of internal \nauditing.",
+    "question_th": "ในกระบวนการบริหารความเสี่ยง มุมมองของฝ่ายบริหารที่มีต่อบทบาทของกิจกรรมการตรวจสอบภายใน มีแนวโน้มที่จะถูกกำหนดโดยปัจจัยต่าง ๆ ต่อไปนี้ ยกเว้นข้อใด",
+    "options_th": [
+      "วัฒนธรรมองค์กร (Organizational culture)",
+      "ความพึงพอใจหรือความต้องการของผู้สอบบัญชีอิสระภายนอก",
+      "ความสามารถของทีมงานและผู้ตรวจสอบภายใน",
+      "สภาพแวดล้อมและขนบธรรมเนียมท้องถิ่นของประเทศที่ตั้งสาขา"
+    ],
+    "explanation_th": "บทบาทหน้าที่ในการประเมินการบริหารความเสี่ยงจะถูกกำหนดโดยผู้บริหารระดับสูงและบอร์ดบริษัท มุมมองที่มีต่อบทบาทผู้ตรวจสอบภายในจะขึ้นอยู่กับวัฒนธรรมองค์กร ขีดความสามารถของผู้ตรวจสอบ และขนบธรรมเนียมท้องถิ่น (PA 2120-1) โดยไม่ได้มีส่วนเกี่ยวข้องกับความพึงพอใจหรือข้อเสนอแนะของผู้สอบบัญชีภายนอก\n\nตัวเลือก (C) และ (D) ไม่ถูกต้อง เนื่องจากเป็นปัจจัยที่มีอิทธิพลต่อทัศนะของฝ่ายบริหารต่อความน่าเชื่อถือและการใช้งานฝ่ายตรวจสอบ"
+  },
+  {
+    "id": 200,
+    "original_num": 200,
+    "question_en": "Which of the following threatens the independence of an internal auditor who had participated in the initial establishment of a risk management process?",
+    "options_en": [
+      "Developing assessments and reports on the risk management process.",
+      "Managing the identified risks.",
+      "Evaluating the adequacy and effectiveness of management’s risk processes.",
+      "Recommending controls to address the risks identified."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Ultimately, it is the role of senior management and the board to determine the role of \ninternal auditing in the risk management process. Their view on internal auditing’s role is likely to be determined \nby factors such as the culture of the organization, ability of the internal audit staff, and local conditions and \ncustoms of the country. However, taking on management’s responsibility regarding the risk management process \nand the potential threat to the internal audit activity’s independence requires a full discussion and board approval \n(PA 2120-1). \nAnswer (C) is incorrect. Internal auditors assist both management and the board by examining, evaluating, \nreporting, and recommending improvements on the adequacy and effectiveness of risk management processes. \nAnswer (D) is incorrect. Internal auditors may recommend controls.",
+    "question_th": "ข้อใดถือเป็นภัยคุกคามต่อความเป็นอิสระของผู้ตรวจสอบภายในที่เคยมีส่วนร่วมในช่วงเริ่มต้นของการจัดทำระบบบริหารความเสี่ยง",
+    "options_th": [
+      "การพัฒนาประเมินและจัดทำรายงานเกี่ยวกับระบบการบริหารความเสี่ยง",
+      "การเข้าไปมีหน้าที่จัดการความเสี่ยงที่ระบุไว้ด้วยตนเอง (Managing risks)",
+      "การเข้าประเมินความเพียงพอและประสิทธิผลของกระบวนการจัดการความเสี่ยงของผู้บริหาร",
+      "การให้คำแนะนำเกี่ยวกับมาตรการควบคุมเพื่อตอบสนองความเสี่ยงที่ตรวจพบ"
+    ],
+    "explanation_th": "หน้าที่จัดการความเสี่ยงเป็นความรับผิดชอบของฝ่ายบริหาร การที่ผู้ตรวจสอบเข้าไปรับหน้าที่ตัดสินใจหรือจัดการความเสี่ยงด้วยตัวเอง (Managing the identified risks) จะบั่นทอนความเป็นอิสระของการตรวจสอบในภายหลัง หากจะกระทำต้องได้รับอนุมัติเป็นกรณีพิเศษจากคณะกรรมการบริษัท (PA 2120-1)\n\nตัวเลือก (C) และ (D) ไม่ถูกต้อง เนื่องจากเป็นขอบเขตงานปกติในการให้ความช่วยเหลือ ตรวจประเมิน และแนะนำแนวทางควบคุมความเสี่ยงอย่างเหมาะสม"
   }
 ]
