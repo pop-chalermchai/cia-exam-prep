@@ -1,0 +1,947 @@
+[
+  {
+    "id": 1,
+    "original_num": 1,
+    "question_en": "The purposes of the Standards  include all of the following except",
+    "options_en": [
+      "Establishing the basis for the measurement of internal audit performance.",
+      "Guiding the ethical conduct of internal auditors.",
+      "Stating basic principles that represent the practice of internal auditing as it should be.",
+      "Fostering improved organizational processes and operations."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The IIA Code of Ethics describes Rules of Conduct that constitute “behavior norms \nexpected of internal auditors. These rules are intended as an aid to interpreting the Principles into practical \napplications and are intended to guide the ethical conduct of internal auditors.”  The purposes of the Standards  are \nto \nState basic principles that represent the practice of internal auditing as it should be. 1. \nProvide a framework for performing and promoting a broad range of value-added internal audit activities. 2. \nEstablish the basis for the measurement of internal audit performance. 3. \nFoster improved organizational processes and operations. 4. \n(Introduction to the Standards )\nAnswer (C) is incorrect. The purposes of the Standards  are to \nState basic principles that represent the practice of internal auditing as it should be. 1. \nProvide a framework for performing and promoting a broad range of value-added internal audit activities. 2. \nEstablish the basis for the measurement of internal audit performance. 3. \nFoster improved organizational processes and operations. 4. \nAnswer (D) is incorrect. The purposes of the Standards  are to \nState basic principles that represent the practice of internal auditing as it should be. 1. \nProvide a framework for performing and promoting a broad range of value-added internal audit activities. 2. \nEstablish the basis for the measurement of internal audit performance. 3. \nFoster improved organizational processes and operations. 4.",
+    "question_th": "วัตถุประสงค์ของมาตรฐานประกอบด้วยทุกข้อต่อไปนี้ ยกเว้นข้อใด",
+    "options_th": [
+      "การสร้างพื้นฐานสำหรับการวัดผลการปฏิบัติงานตรวจสอบภายใน",
+      "การนำทางด้านจริยธรรมของผู้ตรวจสอบภายใน",
+      "การระบุหลักการพื้นฐานที่เป็นตัวแทนของการปฏิบัติงานตรวจสอบภายในตามที่ควรจะเป็น",
+      "การส่งเสริมกระบวนการและการปฏิบัติงานขององค์กรให้ดีขึ้น"
+    ],
+    "explanation_th": "จรรยาบรรณของ IIA อธิบายถึงกฎแห่งความประพฤติที่เป็น “บรรทัดฐานพฤติกรรมที่คาดหวังจากผู้ตรวจสอบภายใน กฎเหล่านี้มีวัตถุประสงค์เพื่อช่วยในการตีความหลักการไปสู่การประยุกต์ใช้ในทางปฏิบัติ และเพื่อนำทางด้านจริยธรรมของผู้ตรวจสอบภายใน” วัตถุประสงค์ของมาตรฐานคือ: 1. ระบุหลักการพื้นฐานที่เป็นตัวแทนของการปฏิบัติงานตรวจสอบภายในตามที่ควรจะเป็น 2. จัดหาโครงสร้างสำหรับการปฏิบัติงานและส่งเสริมกิจกรรมการตรวจสอบภายในที่เพิ่มมูลค่าในวงกว้าง 3. สร้างพื้นฐานสำหรับการวัดผลการปฏิบัติงานตรวจสอบภายใน 4. ส่งเสริมกระบวนการและการปฏิบัติงานขององค์กรให้ดีขึ้น (อารัมภบทของมาตรฐาน) ตัวเลือก (C) ไม่ถูกต้อง เนื่องจากวัตถุประสงค์ของมาตรฐานคือ: 1. ระบุหลักการพื้นฐานที่เป็นตัวแทนของการปฏิบัติงานตรวจสอบภายในตามที่ควรจะเป็น 2. จัดหาโครงสร้างสำหรับการปฏิบัติงานและส่งเสริมกิจกรรมการตรวจสอบภายในที่เพิ่มมูลค่าในวงกว้าง 3. สร้างพื้นฐานสำหรับการวัดผลการปฏิบัติงานตรวจสอบภายใน 4. ส่งเสริมกระบวนการและการปฏิบัติงานขององค์กรให้ดีขึ้น ตัวเลือก (D) ไม่ถูกต้อง เนื่องจากวัตถุประสงค์ของมาตรฐานคือ: 1. ระบุหลักการพื้นฐานที่เป็นตัวแทนของการปฏิบัติงานตรวจสอบภายในตามที่ควรจะเป็น 2. จัดหาโครงสร้างสำหรับการปฏิบัติงานและส่งเสริมกิจกรรมการตรวจสอบภายในที่เพิ่มมูลค่าในวงกว้าง 3. สร้างพื้นฐานสำหรับการวัดผลการปฏิบัติงานตรวจสอบภายใน 4. ส่งเสริมกระบวนการและการปฏิบัติงานขององค์กรให้ดีขึ้น"
+  },
+  {
+    "id": 2,
+    "original_num": 2,
+    "question_en": "The proper organizational role of internal auditing is to",
+    "options_en": [
+      "Assist the external auditor to reduce external audit fees.",
+      "Perform studies to assist in the attainment of more efficient operations.",
+      "Serve as the investigative arm of the board.",
+      "Serve as an independent, objective assurance and consulting activity that adds value to operations."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". According to the definition of internal auditing, “Internal auditing is an independent, \nobjective assurance and consulting activity designed to add value and improve an organization’s operations. It \nhelps an organization accomplish its objectives by bringing a systematic, disciplined approach to evaluate and \nimprove the effectiveness of risk management, control, and governance processes.”",
+    "question_th": "บทบาทองค์กรที่เหมาะสมของการตรวจสอบภายในคืออะไร",
+    "options_th": [
+      "ช่วยเหลือผู้สอบบัญชีภายนอกเพื่อลดค่าธรรมเนียมการสอบบัญชีภายนอก",
+      "ทำการศึกษาเพื่อช่วยในการบรรลุการปฏิบัติงานที่มีประสิทธิภาพมากขึ้น",
+      "ทำหน้าที่เป็นหน่วยงานสืบสวนสอบสวนของคณะกรรมการ",
+      "ทำหน้าที่เป็นกิจกรรมการบริการให้ความเชื่อมั่นและให้คำปรึกษาที่เป็นอิสระและเที่ยงธรรม ซึ่งเพิ่มมูลค่าให้กับการปฏิบัติงาน"
+    ],
+    "explanation_th": "ตามคำนิยามของการตรวจสอบภายใน “การตรวจสอบภายในคือกิจกรรมการบริการให้ความเชื่อมั่นและให้คำปรึกษาที่เป็นอิสระและเที่ยงธรรม ซึ่งออกแบบมาเพื่อเพิ่มมูลค่าและปรับปรุงการปฏิบัติงานขององค์กร ช่วยให้องค์กรบรรลุวัตถุประสงค์โดยนำแนวทางที่เป็นระบบและมีวินัยมาใช้ในการประเมินและปรับปรุงประสิทธิผลของการบริหารความเสี่ยง การควบคุม และกระบวนการกำกับดูแล”"
+  },
+  {
+    "id": 3,
+    "original_num": 3,
+    "question_en": "One of the purposes of the International Standards for the Professional Practi ce of Internal Auditing  as stated in the Introduction to the current version of the Standards  is to",
+    "options_en": [
+      "Encourage the professionalization of internal auditing.",
+      "Establish the independence of the internal audit activity and emphasize the objectivity of internal auditing.",
+      "Encourage external auditors to make more extensive use of the work of internal auditors.",
+      "Establish the basis for evaluating internal auditing performance."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The Introduction states the following purposes of the current version of the Standards :\nState basic principles that represent the practice of internal auditing as it should be. 1. \nProvide a framework for performing and promoting a broad range of value-added internal audit activities. 2. \nEstablish the basis for evaluating internal auditing performance. 3. \nFoster improved organizational processes and operations. 4.",
+    "question_th": "วัตถุประสงค์หนึ่งของมาตรฐานสากลสำหรับการปฏิบัติงานวิชาชีพการตรวจสอบภายใน ตามที่ระบุไว้ในอารัมภบทของมาตรฐานฉบับปัจจุบันคือ",
+    "options_th": [
+      "ส่งเสริมการประกอบวิชาชีพการตรวจสอบภายใน",
+      "กำหนดความเป็นอิสระของกิจกรรมการตรวจสอบภายในและเน้นย้ำความเที่ยงธรรมของการตรวจสอบภายใน",
+      "ส่งเสริมให้ผู้สอบบัญชีภายนอกใช้ประโยชน์จากผลงานของผู้ตรวจสอบภายในมากขึ้น",
+      "สร้างพื้นฐานสำหรับการประเมินผลการปฏิบัติงานตรวจสอบภายใน"
+    ],
+    "explanation_th": "อารัมภบทระบุวัตถุประสงค์ของมาตรฐานฉบับปัจจุบันดังต่อไปนี้: 1. ระบุหลักการพื้นฐานที่เป็นตัวแทนของการปฏิบัติงานตรวจสอบภายในตามที่ควรจะเป็น 2. จัดหาโครงสร้างสำหรับการปฏิบัติงานและส่งเสริมกิจกรรมการตรวจสอบภายในที่เพิ่มมูลค่าในวงกว้าง 3. สร้างพื้นฐานสำหรับการประเมินผลการปฏิบัติงานตรวจสอบภายใน 4. ส่งเสริมกระบวนการและการปฏิบัติงานขององค์กรให้ดีขึ้น"
+  },
+  {
+    "id": 4,
+    "original_num": 4,
+    "question_en": "Internal audit activities may involve which of the following?",
+    "options_en": [
+      "Assurance services.",
+      "Consulting services.",
+      "Both assurance and consulting services.",
+      "Neither assurance nor consulting services."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Internal audit activities may involve both assurance and consulting services. Assurance \nservices are objective examinations of evidence for the purpose of providing an independent assessment of risk \nmanagement, control, and governance processes for the organization. Consulting services are advisory and related \nclient service activities. Their nature and scope are agreed upon with the client and are intended to add value and \nimprove an organization’s governance, risk management, and control processes without assumption of management \nresponsibility by the internal auditor. \nAnswer (D) is incorrect. Internal audit activities may involve both assurance and consulting activities.",
+    "question_th": "กิจกรรมการตรวจสอบภายในอาจเกี่ยวข้องกับสิ่งใดต่อไปนี้",
+    "options_th": [
+      "งานบริการให้ความเชื่อมั่น",
+      "งานบริการให้คำปรึกษา",
+      "ทั้งงานบริการให้ความเชื่อมั่นและงานบริการให้คำปรึกษา",
+      "ไม่ใช่งานบริการให้ความเชื่อมั่นและไม่ใช่งานบริการให้คำปรึกษา"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายในอาจเกี่ยวข้องกับทั้งงานบริการให้ความเชื่อมั่นและงานบริการให้คำปรึกษา งานบริการให้ความเชื่อมั่นคือการตรวจสอบหลักฐานอย่างเที่ยงธรรมเพื่อวัตถุประสงค์ในการให้การประเมินที่เป็นอิสระเกี่ยวกับการบริหารความเสี่ยง การควบคุม และกระบวนการกำกับดูแลขององค์กร งานบริการให้คำปรึกษาคือกิจกรรมที่ปรึกษาและกิจกรรมบริการลูกค้าที่เกี่ยวข้อง ลักษณะและขอบเขตของงานบริการให้คำปรึกษาได้ตกลงกับลูกค้าและมีวัตถุประสงค์เพื่อเพิ่มมูลค่าและปรับปรุงกระบวนการกำกับดูแล การบริหารความเสี่ยง และการควบคุมขององค์กร โดยผู้ตรวจสอบภายในไม่ได้เข้ามารับผิดชอบในหน้าที่การบริหารจัดการ ตัวเลือก (D) ไม่ถูกต้อง กิจกรรมการตรวจสอบภายในอาจเกี่ยวข้องกับทั้งงานบริการให้ความเชื่อมั่นและงานบริการให้คำปรึกษา"
+  },
+  {
+    "id": 5,
+    "original_num": 5,
+    "question_en": "Which Standards expand upon the other Standards?",
+    "options_en": [
+      "Performance Standards.",
+      "Attribute Standards.",
+      "Implementation Standards.",
+      "All of the Standards listed in the other answer choices."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". According to the Introduction to the International Standards for the Professional Practi ce \nof Internal Auditing , Implementation Standards are provided to expand upon the Attribute and Performance \nStandards. They provide requirements applicable to assurance or consulting activities. \nAnswer (D) is incorrect. Implementation Standards provide requirements applicable to assurance or consulting \nactivities.",
+    "question_th": "มาตรฐานประเภทใดที่ขยายความมาตรฐานประเภทอื่น ๆ",
+    "options_th": [
+      "มาตรฐานการปฏิบัติงาน",
+      "มาตรฐานคุณลักษณะ",
+      "มาตรฐานการนำไปปฏิบัติ",
+      "มาตรฐานทั้งหมดที่ระบุในตัวเลือกอื่น ๆ"
+    ],
+    "explanation_th": "ตามอารัมภบทของมาตรฐานสากลสำหรับการปฏิบัติงานวิชาชีพการตรวจสอบภายใน มาตรฐานการนำไปปฏิบัติถูกจัดทำขึ้นเพื่อขยายความมาตรฐานคุณลักษณะและมาตรฐานการปฏิบัติงาน มาตรฐานเหล่านี้กำหนดข้อกำหนดที่ใช้บังคับกับงานบริการให้ความเชื่อมั่นหรืองานบริการให้คำปรึกษา ตัวเลือก (D) ไม่ถูกต้อง มาตรฐานการนำไปปฏิบัติเป็นมาตรฐานที่กำหนดข้อกำหนดที่ใช้บังคับกับงานบริการให้ความเชื่อมั่นหรืองานบริการให้คำปรึกษา"
+  },
+  {
+    "id": 6,
+    "original_num": 6,
+    "question_en": "An internal auditor often faces special problems when performing an engagement at a foreign subsidiary. Which of the following statements is false with respect to the conduct of international engagements?",
+    "options_en": [
+      "The IIA Standards  do not apply outside of the United States.",
+      "The internal auditor should determine whether managers are in compliance with local laws.",
+      "There may be justification for having different organizational policies in force in foreign branches.",
+      "It is preferable to have multilingual internal auditors conduct engagements at branches in foreign nations."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Pronouncements by The IIA have no geographic limits. Internal auditing is practiced in \ndiverse environments and organizations throughout the world, and laws and customs vary among nations. These \ndifferences affect the practice of internal auditing and therefore the implementation of the Standards . However, \ncompliance with the concepts in the Standards  is essential before the responsibilities of internal auditors can be \nmet. \nAnswer (B) is incorrect. The internal auditor should evaluate the adequacy and effectiveness of controls, including \nthose relating to compliance with laws, regulations, and contracts (Standard 2120.A1). \nAnswer (C) is incorrect. Varying laws and customs and other environmental factors justify policy differences. \nAnswer (D) is incorrect. The internal audit activity collectively must have the knowledge, skills, and other \ncompetencies needed to perform its responsibilities (Standard 1210).",
+    "question_th": "ผู้ตรวจสอบภายในมักเผชิญปัญหาพิเศษเมื่อปฏิบัติงานตรวจสอบที่บริษัทย่อยในต่างประเทศ ข้อใดต่อไปนี้เป็นเท็จเกี่ยวกับการปฏิบัติงานตรวจสอบระหว่างประเทศ",
+    "options_th": [
+      "มาตรฐานของ IIA ไม่มีผลบังคับใช้นอกสหรัฐอเมริกา",
+      "ผู้ตรวจสอบภายในควรกำหนดว่าผู้บริหารปฏิบัติตามกฎหมายท้องถิ่นหรือไม่",
+      "อาจมีเหตุผลอันสมควรสำหรับการมีนโยบายองค์กรที่แตกต่างกันซึ่งมีผลบังคับใช้ในสาขาต่างประเทศ",
+      "เป็นที่พึงปรารถนาที่จะมีผู้ตรวจสอบภายในที่สามารถสื่อสารได้หลายภาษาเพื่อปฏิบัติงานตรวจสอบที่สาขาในต่างประเทศ"
+    ],
+    "explanation_th": "ประกาศของ IIA ไม่มีข้อจำกัดทางภูมิศาสตร์ การตรวจสอบภายในมีการปฏิบัติในสภาพแวดล้อมและองค์กรที่หลากหลายทั่วโลก และกฎหมายและธรรมเนียมประเพณีแตกต่างกันไปในแต่ละประเทศ ความแตกต่างเหล่านี้ส่งผลกระทบต่อการปฏิบัติงานตรวจสอบภายใน และดังนั้นจึงส่งผลต่อการนำมาตรฐานไปปฏิบัติ อย่างไรก็ตาม การปฏิบัติตามแนวคิดในมาตรฐานเป็นสิ่งจำเป็นก่อนที่ความรับผิดชอบของผู้ตรวจสอบภายในจะบรรลุผลได้ ตัวเลือก (B) ไม่ถูกต้อง ผู้ตรวจสอบภายในควรประเมินความเพียงพอและประสิทธิผลของการควบคุม รวมถึงการควบคุมที่เกี่ยวข้องกับการปฏิบัติตามกฎหมาย ข้อบังคับ และสัญญา (มาตรฐาน 2120.A1) ตัวเลือก (C) ไม่ถูกต้อง กฎหมายและธรรมเนียมประเพณีที่แตกต่างกัน รวมถึงปัจจัยด้านสิ่งแวดล้อมอื่น ๆ เป็นเหตุผลอันสมควรสำหรับความแตกต่างของนโยบาย ตัวเลือก (D) ไม่ถูกต้อง กิจกรรมการตรวจสอบภายในโดยรวมต้องมีความรู้ ทักษะ และความสามารถอื่น ๆ ที่จำเป็นในการปฏิบัติหน้าที่รับผิดชอบ (มาตรฐาน 1210)"
+  },
+  {
+    "id": 7,
+    "original_num": 7,
+    "question_en": "Which of the following best  describes the purpose of the internal audit activity?",
+    "options_en": [
+      "To add value and improve an organization’s operations.",
+      "To assist management with the design and implementation of risk management and control systems.",
+      "To examine and evaluate an organization’s accounting system as a service to management.",
+      "To monitor the organization’s internal control system for the external auditors."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". According to the definition of internal auditing, “Internal auditing is an independent, \nobjective assurance and consulting activity designed to add value and improve an organization’s operations. It \nhelps an organization accomplish its objectives by bringing a systematic, disciplined approach to evaluate and \nimprove the effectiveness of risk management, control, and governance processes.” \nAnswer (B) is incorrect. Performing the functions of design and implementation of risk management and control \nsystems would impair the objectivity of the internal auditors. An internal auditor may recommend control standards \nand review procedures prior to their implementation. \nAnswer (C) is incorrect. Internal auditing is much broader than examining and evaluating an organization’s \naccounting system. \nAnswer (D) is incorrect. Internal auditing serves the organization, not the external auditors.",
+    "question_th": "ข้อใดต่อไปนี้อธิบายวัตถุประสงค์ของกิจกรรมการตรวจสอบภายในได้ดีที่สุด",
+    "options_th": [
+      "เพื่อเพิ่มมูลค่าและปรับปรุงการปฏิบัติงานขององค์กร",
+      "เพื่อช่วยผู้บริหารในการออกแบบและนำระบบการบริหารความเสี่ยงและการควบคุมไปปฏิบัติ",
+      "เพื่อตรวจสอบและประเมินระบบบัญชีขององค์กรในฐานะบริการแก่ผู้บริหาร",
+      "เพื่อติดตามระบบการควบคุมภายในขององค์กรสำหรับผู้สอบบัญชีภายนอก"
+    ],
+    "explanation_th": "ตามคำนิยามของการตรวจสอบภายใน “การตรวจสอบภายในคือกิจกรรมการบริการให้ความเชื่อมั่นและให้คำปรึกษาที่เป็นอิสระและเที่ยงธรรม ซึ่งออกแบบมาเพื่อเพิ่มมูลค่าและปรับปรุงการปฏิบัติงานขององค์กร ช่วยให้องค์กรบรรลุวัตถุประสงค์โดยนำแนวทางที่เป็นระบบและมีวินัยมาใช้ในการประเมินและปรับปรุงประสิทธิผลของการบริหารความเสี่ยง การควบคุม และกระบวนการกำกับดูแล” ตัวเลือก (B) ไม่ถูกต้อง การปฏิบัติหน้าที่ในการออกแบบและนำระบบการบริหารความเสี่ยงและการควบคุมไปปฏิบัติจะทำให้ความเที่ยงธรรมของผู้ตรวจสอบภายในลดลง ผู้ตรวจสอบภายในอาจแนะนำมาตรฐานการควบคุมและทบทวนขั้นตอนก่อนการนำไปปฏิบัติ ตัวเลือก (C) ไม่ถูกต้อง การตรวจสอบภายในมีขอบเขตกว้างกว่าการตรวจสอบและประเมินระบบบัญชีขององค์กรมาก ตัวเลือก (D) ไม่ถูกต้อง การตรวจสอบภายในให้บริการแก่องค์กร ไม่ใช่ผู้สอบบัญชีภายนอก"
+  },
+  {
+    "id": 8,
+    "original_num": 8,
+    "question_en": "The function of internal auditing, as related to communicating results, is to",
+    "options_en": [
+      "Ensure compliance with reporting procedures.",
+      "Review the expenditure items and match each item with the expenses incurred.",
+      "Determine whether any employees are expending funds without authorization.",
+      "Identify inadequate controls that increase the likelihood of unauthorized expenditures."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". According to the definition of internal auditing, “Internal auditing is an independent, objective \nassurance and consulting activity designed to add value and improve an organization’s operations. It helps an \norganization accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the \neffectiveness of risk management, control, and governance processes.”  Accordingly, the internal audit activity should \nevaluate the adequacy and effectiveness of controls and develop recommendations for improvement.",
+    "question_th": "หน้าที่ของการตรวจสอบภายในที่เกี่ยวข้องกับการสื่อสารผลการปฏิบัติงานคืออะไร",
+    "options_th": [
+      "สร้างความมั่นใจในการปฏิบัติตามขั้นตอนการรายงาน",
+      "ทบทวนรายการค่าใช้จ่ายและจับคู่แต่ละรายการกับค่าใช้จ่ายที่เกิดขึ้นจริง",
+      "พิจารณาว่ามีพนักงานคนใดใช้จ่ายเงินโดยไม่ได้รับอนุญาตหรือไม่",
+      "ระบุการควบคุมที่ไม่เพียงพอซึ่งเพิ่มโอกาสในการใช้จ่ายโดยไม่ได้รับอนุญาต"
+    ],
+    "explanation_th": "ตามคำนิยามของการตรวจสอบภายใน “การตรวจสอบภายในคือกิจกรรมการบริการให้ความเชื่อมั่นและให้คำปรึกษาที่เป็นอิสระและเที่ยงธรรม ซึ่งออกแบบมาเพื่อเพิ่มมูลค่าและปรับปรุงการปฏิบัติงานขององค์กร ช่วยให้องค์กรบรรลุวัตถุประสงค์โดยนำแนวทางที่เป็นระบบและมีวินัยมาใช้ในการประเมินและปรับปรุงประสิทธิผลของการบริหารความเสี่ยง การควบคุม และกระบวนการกำกับดูแล” ดังนั้น กิจกรรมการตรวจสอบภายในจึงควรประเมินความเพียงพอและประสิทธิผลของการควบคุม และพัฒนาข้อเสนอแนะเพื่อการปรับปรุง"
+  },
+  {
+    "id": 9,
+    "original_num": 9,
+    "question_en": "The internal audit activity’s scope of responsibilities includes",
+    "options_en": [
+      "Eliminating risk.",
+      "Managing risk.",
+      "Evaluating risk.",
+      "Controlling risk."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The internal audit activity helps an organization accomplish its objectives by bringing a \nsystematic, disciplined approach to evaluating and improving the effectiveness of risk management, control, and \ngovernance processes. Managing, controlling, and eliminating risk is the responsibility of management.\nAnswer (D) is incorrect. Controlling risk is the responsibility of management.",
+    "question_th": "ขอบเขตความรับผิดชอบของกิจกรรมการตรวจสอบภายในประกอบด้วย",
+    "options_th": [
+      "การกำจัดความเสี่ยง",
+      "การบริหารความเสี่ยง",
+      "การประเมินความเสี่ยง",
+      "การควบคุมความเสี่ยง"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายในช่วยให้องค์กรบรรลุวัตถุประสงค์โดยนำแนวทางที่เป็นระบบและมีวินัยมาใช้ในการประเมินและปรับปรุงประสิทธิผลของการบริหารความเสี่ยง การควบคุม และกระบวนการกำกับดูแล การบริหารจัดการ การควบคุม และการกำจัดความเสี่ยงเป็นความรับผิดชอบของผู้บริหาร ตัวเลือก (D) ไม่ถูกต้อง การควบคุมความเสี่ยงเป็นความรับผิดชอบของผู้บริหาร"
+  },
+  {
+    "id": 10,
+    "original_num": 10,
+    "question_en": "The Standards  consist of three types of standards. Which standards apply to the characteristics of organizations and parties providing internal auditing services?",
+    "options_en": [
+      "Implementation Standards.",
+      "Performance Standards.",
+      "Attribute Standards.",
+      "Independence Standards."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The Standards  consist of Attribute Standards, Performance Standards, and Implementation \nStandards. Attribute Standards concern the characteristics of organizations and parties providing internal auditing. \nPerformance Standards describe the nature of internal auditing and provide quality criteria for evaluation of their \nperformance. Attribute and Performance Standards furnish guidance for all internal audit services (assurance, \nconsulting, and other). \nAnswer (D) is incorrect. Independence Standards are not one of the three types of Standards. The Attribute \nStandards address organizational independence.",
+    "question_th": "มาตรฐานประกอบด้วยมาตรฐานสามประเภท มาตรฐานประเภทใดที่ใช้กับคุณลักษณะขององค์กรและบุคคลที่ให้บริการตรวจสอบภายใน",
+    "options_th": [
+      "มาตรฐานการนำไปปฏิบัติ",
+      "มาตรฐานการปฏิบัติงาน",
+      "มาตรฐานคุณลักษณะ",
+      "มาตรฐานความเป็นอิสระ"
+    ],
+    "explanation_th": "มาตรฐานประกอบด้วยมาตรฐานคุณลักษณะ มาตรฐานการปฏิบัติงาน และมาตรฐานการนำไปปฏิบัติ มาตรฐานคุณลักษณะเกี่ยวข้องกับคุณลักษณะขององค์กรและบุคคลที่ให้บริการตรวจสอบภายใน มาตรฐานการปฏิบัติงานอธิบายลักษณะของการตรวจสอบภายในและให้เกณฑ์คุณภาพสำหรับการประเมินผลการปฏิบัติงาน มาตรฐานคุณลักษณะและมาตรฐานการปฏิบัติงานให้คำแนะนำสำหรับบริการตรวจสอบภายในทั้งหมด (งานบริการให้ความเชื่อมั่น งานบริการให้คำปรึกษา และอื่น ๆ) ตัวเลือก (D) ไม่ถูกต้อง มาตรฐานความเป็นอิสระไม่ใช่หนึ่งในสามประเภทของมาตรฐาน มาตรฐานคุณลักษณะจะกล่าวถึงความเป็นอิสระขององค์กร"
+  },
+  {
+    "id": 11,
+    "original_num": 11,
+    "question_en": "During a consulting engagement, an internal auditor should exercise due professional care by considering which of the following? Needs and expectations of engagement clients, including the nature, timing, and communication of engagement results. I. Relative complexity and extent of work needed to achieve the engagement’s objectives. II. Cost of the consulting engagement in relation to the potential benefits. III.",
+    "options_en": [
+      "I and II.",
+      "II and III.",
+      "I and III.",
+      "I, II, and III."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The internal auditor should exercise due professional care during a consulting engagement \nby consider the: \nNeeds and expectations of engagement clients, including the nature, timing, and communication of \nengagement results. \nRelative complexity and extent of work needed to achieve the engagement’s objectives. \nCost of the consulting engagement in relation to potential benefits. \n(Standard 1220.C1)",
+    "question_th": "ในระหว่างงานบริการให้คำปรึกษา ผู้ตรวจสอบภายในควรใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ โดยพิจารณาจากสิ่งใดต่อไปนี้: I. ความต้องการและความคาดหวังของลูกค้างานบริการเกี่ยวกับการปฏิบัติงาน รวมถึงลักษณะ กำหนดเวลา และการสื่อสารผลการปฏิบัติงาน II. ความซับซ้อนและขอบเขตของงานที่จำเป็นเพื่อให้บรรลุวัตถุประสงค์ของงานบริการเกี่ยวกับการปฏิบัติงาน III. ต้นทุนของงานบริการให้คำปรึกษาที่สัมพันธ์กับประโยชน์ที่อาจได้รับ",
+    "options_th": [
+      "I และ II",
+      "II และ III",
+      "I และ III",
+      "I, II, และ III"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในควรใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพในระหว่างงานบริการให้คำปรึกษา โดยพิจารณาถึง: ความต้องการและความคาดหวังของลูกค้างานบริการเกี่ยวกับการปฏิบัติงาน รวมถึงลักษณะ กำหนดเวลา และการสื่อสารผลการปฏิบัติงาน ความซับซ้อนและขอบเขตของงานที่จำเป็นเพื่อให้บรรลุวัตถุประสงค์ของงานบริการเกี่ยวกับการปฏิบัติงาน ต้นทุนของงานบริการให้คำปรึกษาที่สัมพันธ์กับประโยชน์ที่อาจได้รับ (มาตรฐาน 1220.C1)"
+  },
+  {
+    "id": 12,
+    "original_num": 13,
+    "question_en": "Which of the following is responsible for developing and maintaining a quality assurance and improvement program that covers all aspects of the internal audit activity and continuously monitors its effectiveness?",
+    "options_en": [
+      "Senior management.",
+      "Chief audit executive.",
+      "The board of directors.",
+      "Audit committee."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The chief audit executive must develop and maintain a quality assurance and improvement \nprogram that covers all aspects of the internal audit activity. A quality assurance and improvement program is \ndesigned to enable an evaluation of the internal audit activity’s conformance with the Definition of Internal \nAuditing and the Standards  and an evaluation of whether internal auditors apply the Code of Ethics. The program \nalso assesses the efficiency and effectiveness of the internal audit activity and identifies opportunities for \nimprovement. \nAnswer (C) is incorrect. They are not responsible for developing and maintaining a quality assurance and \nimprovement program that covers all aspects of the internal audit activity and continuously monitors its \neffectiveness. \nAnswer (D) is incorrect. They are not responsible for developing and maintaining a quality assurance and \nimprovement program that covers all aspects of the internal audit activity and continuously monitors its \neffectiveness.",
+    "question_th": "ข้อใดต่อไปนี้มีหน้าที่รับผิดชอบในการพัฒนาและบำรุงรักษาโครงการประกันคุณภาพและการปรับปรุงที่ครอบคลุมทุกด้านของกิจกรรมการตรวจสอบภายใน และติดตามประสิทธิผลอย่างต่อเนื่อง",
+    "options_th": [
+      "ผู้บริหารระดับสูง",
+      "หัวหน้าผู้บริหารงานตรวจสอบ",
+      "คณะกรรมการ",
+      "คณะกรรมการตรวจสอบ"
+    ],
+    "explanation_th": "หัวหน้าผู้บริหารงานตรวจสอบต้องพัฒนาและบำรุงรักษาโครงการประกันคุณภาพและการปรับปรุงที่ครอบคลุมทุกด้านของกิจกรรมการตรวจสอบภายใน โครงการประกันคุณภาพและการปรับปรุงนี้ได้รับการออกแบบมาเพื่อช่วยให้สามารถประเมินการปฏิบัติตามคำนิยามของการตรวจสอบภายในและมาตรฐานของกิจกรรมการตรวจสอบภายใน และประเมินว่าผู้ตรวจสอบภายในปฏิบัติตามจรรยาบรรณหรือไม่ โครงการนี้ยังประเมินประสิทธิภาพและประสิทธิผลของกิจกรรมการตรวจสอบภายใน และระบุโอกาสในการปรับปรุงอีกด้วย ตัวเลือก (C) ไม่ถูกต้อง พวกเขาไม่มีหน้าที่รับผิดชอบในการพัฒนาและบำรุงรักษาโครงการประกันคุณภาพและการปรับปรุงที่ครอบคลุมทุกด้านของกิจกรรมการตรวจสอบภายใน และติดตามประสิทธิผลอย่างต่อเนื่อง ตัวเลือก (D) ไม่ถูกต้อง พวกเขาไม่มีหน้าที่รับผิดชอบในการพัฒนาและบำรุงรักษาโครงการประกันคุณภาพและการปรับปรุงที่ครอบคลุมทุกด้านของกิจกรรมการตรวจสอบภายใน และติดตามประสิทธิผลอย่างต่อเนื่อง"
+  },
+  {
+    "id": 13,
+    "original_num": 15,
+    "question_en": "According to the International Professional Practices Framework of The IIA, which pronouncements represent mandatory guidance for implementing the Standards ?",
+    "options_en": [
+      "Development Aids.",
+      "Practice Aids.",
+      "Performance Standards.",
+      "Practice Advisories."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Development Aids and Practice Aids are not part of the IPPF. Practice Advisories are \nstrongly recommended guidance. They assist internal auditors in applying the Definition of Internal Auditing, the \nCode of Ethics, and the Standards  and promoting good practices. Practice Advisories address internal auditing’s \napproach, methodologies, and consideration, but not detailed processes or procedures. They include practices \nrelating to (1) international, country, or industry-specific issues; (2) specific types of engagements; and (3) legal or \nregulatory issues. The Code of Ethics, Attribute Standards, Implementation Standards, and Performance Standards \nconstitute mandatory guidance. \nAnswer (D) is incorrect. The Code of Ethics, Attribute Standards, Implementation Standards, and Performance \nStandards constitute mandatory guidance.",
+    "question_th": "ตามกรอบการปฏิบัติงานวิชาชีพระหว่างประเทศ (IPPF) ของ IIA ข้อประกาศใดเป็นแนวปฏิบัติที่บังคับสำหรับการนำมาตรฐานไปปฏิบัติ",
+    "options_th": [
+      "เครื่องมือช่วยในการพัฒนา",
+      "เครื่องมือช่วยในการปฏิบัติงาน",
+      "มาตรฐานการปฏิบัติงาน",
+      "คำแนะนำการปฏิบัติงาน"
+    ],
+    "explanation_th": "เครื่องมือช่วยในการพัฒนาและเครื่องมือช่วยในการปฏิบัติงานไม่ได้เป็นส่วนหนึ่งของ IPPF คำแนะนำการปฏิบัติงานเป็นแนวปฏิบัติที่แนะนำอย่างยิ่ง สิ่งเหล่านี้ช่วยผู้ตรวจสอบภายในในการประยุกต์ใช้คำนิยามของการตรวจสอบภายใน จรรยาบรรณ และมาตรฐาน และส่งเสริมการปฏิบัติงานที่ดี คำแนะนำการปฏิบัติงานกล่าวถึงแนวทาง วิธีการ และข้อควรพิจารณาของการตรวจสอบภายใน แต่ไม่ใช่กระบวนการหรือขั้นตอนโดยละเอียด รวมถึงการปฏิบัติที่เกี่ยวข้องกับ (1) ประเด็นระหว่างประเทศ ประเทศ หรืออุตสาหกรรมเฉพาะ (2) ประเภทงานบริการเกี่ยวกับการปฏิบัติงานที่เฉพาะเจาะจง และ (3) ประเด็นทางกฎหมายหรือกฎระเบียบ จรรยาบรรณ มาตรฐานคุณลักษณะ มาตรฐานการนำไปปฏิบัติ และมาตรฐานการปฏิบัติงาน ถือเป็นแนวปฏิบัติที่บังคับ"
+  },
+  {
+    "id": 14,
+    "original_num": 16,
+    "question_en": "Which of the following are closely related to engagement objectives? The engagement work program I. Engagement communications II. The engagement plan III.",
+    "options_en": [
+      "I and III only.",
+      "I and II only.",
+      "II and III only.",
+      "I, II, and III."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Engagement objectives are broad statements developed by internal auditors that define intended \nengagement accomplishments (Glossary). The engagement work program is a document that lists the procedures to be \nfollowed during an engagement that are designed to achieve the engagement objectives (Glossary). An engagement \ncommunication must include the engagement’s objectives and scope as well as applicable conclusions, recommendations, \nand action plans (Standard 2410). The engagement plan must include the engagement’s scope, objectives, timing, and \nresource allocations (Standard 2200).",
+    "question_th": "ข้อใดต่อไปนี้มีความสัมพันธ์อย่างใกล้ชิดกับวัตถุประสงค์ของงานบริการเกี่ยวกับการปฏิบัติงาน? I. แผนการปฏิบัติงานตรวจสอบ II. การสื่อสารผลการปฏิบัติงาน III. แผนงานบริการเกี่ยวกับการปฏิบัติงาน",
+    "options_th": [
+      "เฉพาะ I และ III",
+      "เฉพาะ I และ II",
+      "เฉพาะ II และ III",
+      "I, II, และ III"
+    ],
+    "explanation_th": "วัตถุประสงค์ของงานบริการเกี่ยวกับการปฏิบัติงานคือข้อความกว้างๆ ที่ผู้ตรวจสอบภายในจัดทำขึ้นเพื่อกำหนดความสำเร็จของงานบริการเกี่ยวกับการปฏิบัติงานที่ตั้งใจไว้ (อภิธานศัพท์) แผนการปฏิบัติงานตรวจสอบคือเอกสารที่ระบุขั้นตอนที่จะปฏิบัติตามระหว่างงานบริการเกี่ยวกับการปฏิบัติงาน ซึ่งออกแบบมาเพื่อให้บรรลุวัตถุประสงค์ของงานบริการเกี่ยวกับการปฏิบัติงาน (อภิธานศัพท์) การสื่อสารผลการปฏิบัติงานต้องประกอบด้วยวัตถุประสงค์และขอบเขตของงานบริการเกี่ยวกับการปฏิบัติงาน รวมถึงข้อสรุป ข้อเสนอแนะ และแผนปฏิบัติการที่เกี่ยวข้อง (มาตรฐาน 2410) แผนงานบริการเกี่ยวกับการปฏิบัติงานต้องประกอบด้วยขอบเขต วัตถุประสงค์ กำหนดเวลา และการจัดสรรทรัพยากรของงานบริการเกี่ยวกับการปฏิบัติงาน (มาตรฐาน 2200)"
+  },
+  {
+    "id": 15,
+    "original_num": 17,
+    "question_en": "Internal auditors need to ascertain the extent to which management has established adequate criteria to determine whether goals and objectives have been accomplished. For this purpose, which of the following actions may be appropriate? Determining whether operating and program goals and objectives conform to those of the organization I. Reviewing operations to ascertain the extent to which results are consistent with established goals and objectives II. Working with management to develop appropriate control evaluation criteria III.",
+    "options_en": [
+      "I only.",
+      "I and II only.",
+      "I, II, and III.",
+      "II only."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". According to Standard 2130.A2, “Internal auditors should ascertain the extent to which \noperating and program goals and objectives have been established and conform to those of the organization.” \nStandard 2130.A3 states, “Internal auditors should review operations and programs to ascertain the extent to which \nresults are consistent with established goals and objectives to determine whether operations and programs are being \nimplemented or performed as intended.”  Furthermore, “Adequate criteria are needed to evaluate controls. Internal \nauditors must ascertain the extent to which management has established adequate criteria to determine whether \nobjectives and goals have been accomplished. If adequate, internal auditors must use such criteria in their \nevaluation. If inadequate, internal auditors must work with management to develop appropriate evaluation criteria” \n(Standard 2210.A3). \nAnswer (D) is incorrect. The internal auditors may take any of the actions described in statements I, II, and III.",
+    "question_th": "ผู้ตรวจสอบภายในจำเป็นต้องตรวจสอบว่าผู้บริหารได้กำหนดเกณฑ์ที่เพียงพอเพื่อพิจารณาว่าเป้าหมายและวัตถุประสงค์บรรลุผลแล้วหรือไม่ เพื่อวัตถุประสงค์นี้ การกระทำใดต่อไปนี้อาจเหมาะสม? I. พิจารณาว่าเป้าหมายและวัตถุประสงค์การปฏิบัติงานและโครงการสอดคล้องกับขององค์กรหรือไม่ II. ทบทวนการปฏิบัติงานเพื่อตรวจสอบว่าผลลัพธ์สอดคล้องกับเป้าหมายและวัตถุประสงค์ที่กำหนดไว้หรือไม่ III. ทำงานร่วมกับผู้บริหารเพื่อพัฒนาเกณฑ์การประเมินการควบคุมที่เหมาะสม",
+    "options_th": [
+      "เฉพาะ I",
+      "เฉพาะ I และ II",
+      "I, II, และ III",
+      "เฉพาะ II"
+    ],
+    "explanation_th": "ตามมาตรฐาน 2130.A2 “ผู้ตรวจสอบภายในควรกำหนดขอบเขตที่เป้าหมายและวัตถุประสงค์การปฏิบัติงานและโครงการได้รับการกำหนดขึ้นและสอดคล้องกับขององค์กร” มาตรฐาน 2130.A3 ระบุว่า “ผู้ตรวจสอบภายในควรทบทวนการปฏิบัติงานและโครงการเพื่อตรวจสอบว่าผลลัพธ์สอดคล้องกับเป้าหมายและวัตถุประสงค์ที่กำหนดไว้หรือไม่ เพื่อพิจารณาว่าการปฏิบัติงานและโครงการกำลังถูกนำไปปฏิบัติหรือดำเนินการตามที่ตั้งใจไว้หรือไม่” นอกจากนี้ “จำเป็นต้องมีเกณฑ์ที่เพียงพอในการประเมินการควบคุม ผู้ตรวจสอบภายในต้องตรวจสอบว่าผู้บริหารได้กำหนดเกณฑ์ที่เพียงพอเพื่อพิจารณาว่าวัตถุประสงค์และเป้าหมายบรรลุผลแล้วหรือไม่ หากเพียงพอ ผู้ตรวจสอบภายในต้องใช้เกณฑ์ดังกล่าวในการประเมินของตน หากไม่เพียงพอ ผู้ตรวจสอบภายในต้องทำงานร่วมกับผู้บริหารเพื่อพัฒนาเกณฑ์การประเมินที่เหมาะสม” (มาตรฐาน 2210.A3) ตัวเลือก (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในอาจดำเนินการใดๆ ตามที่อธิบายไว้ในข้อความ I, II และ III"
+  },
+  {
+    "id": 16,
+    "original_num": 18,
+    "question_en": "In planning an engagement, internal auditors should consider which of the following items? The objectives of the activity being reviewed and the means by which the activity controls performance. I. The adequacy and effectiveness of the activity’s risk management and control systems compared to a relevant control framework or model. II. The opportunities for making significant improvements to the activity’s information technology systems and control systems. III.",
+    "options_en": [
+      "I and II.",
+      "II and III.",
+      "I and III.",
+      "I, II, and III."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". In planning the engagement, internal auditors must consider: \nThe objectives of the activity being reviewed and the means by which the activity controls its performance. \nThe significant risks to the activity, its objectives, resources, and operations and the means by which the potential \nimpact of risk is kept to an acceptable level. \nThe adequacy and effectiveness of the activity’s risk management and control processes compared to a relevant \ncontrol framework or model. \nThe opportunities for making significant improvements to the activity’s risk management and control processes. \n(Standard 2201) \nAnswer (B) is incorrect. The internal auditor does not have to consider opportunities to improve the activity’s information \ntechnology system. \nAnswer (C) is incorrect. The internal auditor does not have to consider opportunities to improve the activity’s information \ntechnology system. \nAnswer (D) is incorrect. The internal auditor does not have to consider opportunities to improve the activity’s \ninformation technology system.",
+    "question_th": "ในการวางแผนการปฏิบัติงานตรวจสอบ ผู้ตรวจสอบภายในควรพิจารณารายการใดต่อไปนี้ วัตถุประสงค์ของกิจกรรมที่กำลังได้รับการตรวจสอบและวิธีการที่กิจกรรมใช้ในการควบคุมผลการปฏิบัติงาน I. ความเพียงพอและประสิทธิผลของระบบบริหารความเสี่ยงและระบบการควบคุมของกิจกรรม เมื่อเทียบกับกรอบการควบคุมหรือแบบจำลองที่เกี่ยวข้อง II. โอกาสในการปรับปรุงที่สำคัญต่อระบบเทคโนโลยีสารสนเทศและระบบการควบคุมของกิจกรรม III.",
+    "options_th": [
+      "I และ II",
+      "II และ III",
+      "I และ III",
+      "I, II และ III"
+    ],
+    "explanation_th": "ในการวางแผนการปฏิบัติงานตรวจสอบ ผู้ตรวจสอบภายในต้องพิจารณา: วัตถุประสงค์ของกิจกรรมที่กำลังได้รับการตรวจสอบและวิธีการที่กิจกรรมใช้ในการควบคุมผลการปฏิบัติงาน ความเสี่ยงที่สำคัญต่อกิจกรรม วัตถุประสงค์ ทรัพยากร และการดำเนินงาน รวมถึงวิธีการที่ผลกระทบที่อาจเกิดขึ้นจากความเสี่ยงจะถูกรักษาไว้ในระดับที่ยอมรับได้ ความเพียงพอและประสิทธิผลของกระบวนการบริหารความเสี่ยงและการควบคุมของกิจกรรม เมื่อเทียบกับกรอบการควบคุมหรือแบบจำลองที่เกี่ยวข้อง โอกาสในการปรับปรุงที่สำคัญต่อกระบวนการบริหารความเสี่ยงและการควบคุมของกิจกรรม (มาตรฐาน 2201) คำตอบ (B) ไม่ถูกต้อง ผู้ตรวจสอบภายในไม่จำเป็นต้องพิจารณาโอกาสในการปรับปรุงระบบเทคโนโลยีสารสนเทศของกิจกรรม คำตอบ (C) ไม่ถูกต้อง ผู้ตรวจสอบภายในไม่จำเป็นต้องพิจารณาโอกาสในการปรับปรุงระบบเทคโนโลยีสารสนเทศของกิจกรรม คำตอบ (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในไม่จำเป็นต้องพิจารณาโอกาสในการปรับปรุงระบบเทคโนโลยีสารสนเทศของกิจกรรม"
+  },
+  {
+    "id": 17,
+    "original_num": 19,
+    "question_en": "Internal auditors should communicate results. Communications for assurance engagements should include Limitations on distribution to outside parties I. The auditor’s overall opinion when appropriate II. Recommendations and action plans when appropriate III.",
+    "options_en": [
+      "II only.",
+      "III only.",
+      "I and II only.",
+      "I, II, and III."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Standard 2410.A3 states, “When releasing engagement results to parties outside the \norganization, the communication must include limitations on distribution and use of the results.”  Standard \n2410.A1 states, “Final communication of engagement results must, where appropriate, contain internal auditors’ \noverall opinion and/or conclusions.”  Standard 2410 states, “Communications must include the engagement’s \nobjectives and scope as well as applicable conclusions, recommendations, and action plans.”",
+    "question_th": "ผู้ตรวจสอบภายในควรสื่อสารผลการปฏิบัติงาน การสื่อสารสำหรับงานบริการให้ความเชื่อมั่นควรรวมถึง ข้อจำกัดในการเผยแพร่ไปยังบุคคลภายนอก I. ความเห็นโดยรวมของผู้ตรวจสอบเมื่อเหมาะสม II. ข้อเสนอแนะและแผนปฏิบัติการเมื่อเหมาะสม III.",
+    "options_th": [
+      "เฉพาะ II",
+      "เฉพาะ III",
+      "เฉพาะ I และ II",
+      "I, II และ III"
+    ],
+    "explanation_th": "มาตรฐาน 2410.A3 ระบุว่า “เมื่อเผยแพร่ผลการปฏิบัติงานตรวจสอบไปยังบุคคลภายนอกองค์กร การสื่อสารต้องรวมถึงข้อจำกัดในการเผยแพร่และการใช้ผลการปฏิบัติงานตรวจสอบ” มาตรฐาน 2410.A1 ระบุว่า “การสื่อสารขั้นสุดท้ายเกี่ยวกับผลการปฏิบัติงานตรวจสอบ ต้องประกอบด้วยความเห็นโดยรวมและ/หรือข้อสรุปของผู้ตรวจสอบภายในในกรณีที่เหมาะสม” มาตรฐาน 2410 ระบุว่า “การสื่อสารต้องรวมถึงวัตถุประสงค์และขอบเขตของการปฏิบัติงานตรวจสอบ ตลอดจนข้อสรุป ข้อเสนอแนะ และแผนปฏิบัติการที่เกี่ยวข้อง”"
+  },
+  {
+    "id": 18,
+    "original_num": 21,
+    "question_en": "The work of the internal audit activity includes evaluating and contributing to the improvement of risk management systems. Risk is The negative effect of events certain to occur I. Measured in terms of impact II. Measured in terms of likelihood III.",
+    "options_en": [
+      "I only.",
+      "I and II only.",
+      "II and III only.",
+      "I, II, and III."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The IAA must evaluate the effectiveness and contribute to the improvement of risk \nmanagement processes (Standard 2120). Risk is the possibility that an event will occur having an effect on the \nachievement of objectives. It is measured in terms of impact and likelihood (Glossary). \nAnswer (D) is incorrect. Risk involves uncertainty, and the effects of events are not necessarily negative.",
+    "question_th": "งานของกิจกรรมการตรวจสอบภายในรวมถึงการประเมินและช่วยปรับปรุงระบบบริหารความเสี่ยง ความเสี่ยงคือ ผลกระทบเชิงลบของเหตุการณ์ที่แน่นอนว่าจะเกิดขึ้น I. วัดในแง่ของผลกระทบ II. วัดในแง่ของโอกาสที่จะเกิด III.",
+    "options_th": [
+      "เฉพาะ I",
+      "เฉพาะ I และ II",
+      "เฉพาะ II และ III",
+      "I, II และ III"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายในต้องประเมินประสิทธิผลและช่วยปรับปรุงกระบวนการบริหารความเสี่ยง (มาตรฐาน 2120) ความเสี่ยงคือความเป็นไปได้ที่เหตุการณ์หนึ่งจะเกิดขึ้นและมีผลกระทบต่อการบรรลุวัตถุประสงค์ วัดในแง่ของผลกระทบและโอกาสที่จะเกิด (อภิธานศัพท์) คำตอบ (D) ไม่ถูกต้อง ความเสี่ยงเกี่ยวข้องกับความไม่แน่นอน และผลกระทบของเหตุการณ์ไม่จำเป็นต้องเป็นเชิงลบเสมอไป"
+  },
+  {
+    "id": 19,
+    "original_num": 23,
+    "question_en": "A major reason for establishing an internal audit activity is to",
+    "options_en": [
+      "Relieve overburdened management of the responsibility for establishing effective controls.",
+      "Safeguard resources entrusted to the organization.",
+      "Ensure the reliability and integrity of financial and operational information.",
+      "Evaluate and improve the effectiveness of control processes."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Control processes are the “policies, procedures, and activities that are part of a control \nframework, designed to ensure that risks are contained within the risk tolerances established by the risk \nmanagement process.”  Hence, they have a prominent role in internal auditing, which “helps an organization \naccomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness \nof risk management, control, and governance processes” (Glossary).",
+    "question_th": "เหตุผลหลักในการจัดตั้งกิจกรรมการตรวจสอบภายในคือเพื่อ",
+    "options_th": [
+      "แบ่งเบาภาระงานของผู้บริหารที่มากเกินไปจากความรับผิดชอบในการสร้างการควบคุมที่มีประสิทธิผล",
+      "ปกป้องทรัพย์สินที่ได้รับมอบหมายจากองค์กร",
+      "สร้างความมั่นใจในความน่าเชื่อถือและความครบถ้วนของข้อมูลทางการเงินและการดำเนินงาน",
+      "ประเมินและปรับปรุงประสิทธิผลของกระบวนการควบคุม"
+    ],
+    "explanation_th": "กระบวนการควบคุมคือ “นโยบาย กระบวนการ และกิจกรรมที่เป็นส่วนหนึ่งของกรอบการควบคุม ซึ่งออกแบบมาเพื่อให้มั่นใจว่าความเสี่ยงจะอยู่ในระดับที่ยอมรับได้ตามที่กำหนดไว้ในกระบวนการบริหารความเสี่ยง” ดังนั้น จึงมีบทบาทสำคัญในการตรวจสอบภายใน ซึ่ง “ช่วยให้องค์กรบรรลุวัตถุประสงค์โดยการนำแนวทางที่เป็นระบบและมีระเบียบวินัยมาใช้ในการประเมินและปรับปรุงประสิทธิผลของการบริหารความเสี่ยง การควบคุม และกระบวนการกำกับดูแล” (อภิธานศัพท์)"
+  },
+  {
+    "id": 20,
+    "original_num": 24,
+    "question_en": "What is the most  accurate term for the procedures used by the board to oversee activities performed to achieve organizational objectives?",
+    "options_en": [
+      "Governance.",
+      "Control.",
+      "Risk management.",
+      "Monitoring."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Governance is the “combination of processes and structures implemented by the board to inform, \ndirect, manage, and monitor the activities of the organization toward the achievement of its objectives” (Glossary). \nAnswer (B) is incorrect. Control is “any action taken by management, the board, and other parties to manage risk and \nincrease the likelihood that established objectives and goals will be achieved. Management plans, organizes, and directs \nthe performance of sufficient actions to provide reasonable assurance that objectives and goals will be achieved” \n(Glossary). \nAnswer (C) is incorrect. Risk management is “a process to identify, assess, manage, and control potential events or \nsituations to provide reasonable assurance regarding the achievement of the organization’s objectives” (Glossary). \nAnswer (D) is incorrect. Monitoring consists of actions taken by management and others to assess the quality of internal \ncontrol performance over time. It is not currently defined in the Standards  and Glossary.",
+    "question_th": "คำศัพท์ที่ถูกต้องที่สุดสำหรับขั้นตอนที่คณะกรรมการใช้ในการกำกับดูแลกิจกรรมที่ดำเนินการเพื่อให้บรรลุวัตถุประสงค์ขององค์กรคืออะไร?",
+    "options_th": [
+      "การกำกับดูแล",
+      "การควบคุม",
+      "การบริหารความเสี่ยง",
+      "การติดตาม"
+    ],
+    "explanation_th": "การกำกับดูแลคือ “การรวมกันของกระบวนการและโครงสร้างที่คณะกรรมการนำไปใช้เพื่อแจ้งข้อมูล ชี้นำ บริหารจัดการ และติดตามกิจกรรมขององค์กรไปสู่การบรรลุวัตถุประสงค์” (อภิธานศัพท์) คำตอบ (B) ไม่ถูกต้อง การควบคุมคือ “การดำเนินการใด ๆ ที่ผู้บริหาร คณะกรรมการ และบุคคลอื่น ๆ ใช้เพื่อบริหารความเสี่ยงและเพิ่มโอกาสที่วัตถุประสงค์และเป้าหมายที่กำหนดไว้จะบรรลุผล ผู้บริหารวางแผน จัดระบบ และกำกับดูแลการดำเนินการที่เพียงพอเพื่อให้ความเชื่อมั่นอย่างสมเหตุสมผลว่าวัตถุประสงค์และเป้าหมายจะบรรลุผล” (อภิธานศัพท์) คำตอบ (C) ไม่ถูกต้อง การบริหารความเสี่ยงคือ “กระบวนการในการระบุ ประเมิน บริหารจัดการ และควบคุมเหตุการณ์หรือสถานการณ์ที่อาจเกิดขึ้น เพื่อให้ความเชื่อมั่นอย่างสมเหตุสมผลเกี่ยวกับการบรรลุวัตถุประสงค์ขององค์กร” (อภิธานศัพท์) คำตอบ (D) ไม่ถูกต้อง การติดตามประกอบด้วยการดำเนินการที่ผู้บริหารและบุคคลอื่น ๆ ใช้เพื่อประเมินคุณภาพของการปฏิบัติงานการควบคุมภายในเมื่อเวลาผ่านไป ไม่ได้มีการให้คำจำกัดความไว้ในปัจจุบันในมาตรฐานและอภิธานศัพท์"
+  },
+  {
+    "id": 21,
+    "original_num": 25,
+    "question_en": "The actions taken to manage risk and increase the likelihood that established objectives and goals will be achieved are best described as",
+    "options_en": [
+      "Supervision.",
+      "Quality assurance.",
+      "Control.",
+      "Compliance."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Control is “any action taken by management, the board, and other parties to manage risk \nand increase the likelihood that established objectives and goals will be achieved. Management plans, organizes, \nand directs the performance of sufficient actions to provide reasonable assurance that objectives and goals will be \nachieved” (Glossary). \nAnswer (D) is incorrect. Compliance is “adherence to policies, plans, procedures, laws, regulations, contracts, or \nother requirements” (Glossary).",
+    "question_th": "การดำเนินการเพื่อบริหารความเสี่ยงและเพิ่มโอกาสที่วัตถุประสงค์และเป้าหมายที่กำหนดไว้จะบรรลุผล อธิบายได้ดีที่สุดว่าคือ",
+    "options_th": [
+      "การควบคุมดูแล",
+      "การประกันคุณภาพ",
+      "การควบคุม",
+      "การปฏิบัติตามกฎระเบียบ"
+    ],
+    "explanation_th": "การควบคุมคือ “การดำเนินการใด ๆ ที่ผู้บริหาร คณะกรรมการ และบุคคลอื่น ๆ ใช้เพื่อบริหารความเสี่ยงและเพิ่มโอกาสที่วัตถุประสงค์และเป้าหมายที่กำหนดไว้จะบรรลุผล ผู้บริหารวางแผน จัดระบบ และกำกับดูแลการดำเนินการที่เพียงพอเพื่อให้ความเชื่อมั่นอย่างสมเหตุสมผลว่าวัตถุประสงค์และเป้าหมายจะบรรลุผล” (อภิธานศัพท์) คำตอบ (D) ไม่ถูกต้อง การปฏิบัติตามกฎระเบียบคือ “การยึดถือนโยบาย แผนงาน กระบวนการ กฎหมาย ข้อบังคับ สัญญา หรือข้อกำหนดอื่น ๆ” (อภิธานศัพท์)"
+  },
+  {
+    "id": 22,
+    "original_num": 26,
+    "question_en": "Which of the following is the most  accurate term for the attitudes and actions of the board and management regarding the significance of control within the organization?",
+    "options_en": [
+      "Control processes.",
+      "Control environment.",
+      "Governance process.",
+      "Management’s philosophy and operating style."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The control environment encompasses “the attitude and actions of the board and management \nregarding the significance of control within the organization. The control environment provides the discipline and \nstructure for the achievement of the primary objectives of the system of internal control. The control environment \nincludes the following elements: \nIntegrity and ethical values \nManagement’s philosophy and operating style \nOrganizational structure \nAssignment of authority and responsibility \nHuman resource policies and practices \nCompetence of personnel” (Glossary). \nAnswer (C) is incorrect. Governance is the “combination of processes and structures implemented by the board to inform, \ndirect, manage, and monitor the activities of the organization toward the achievement of its objectives” (Glossary). \nAnswer (D) is incorrect. Management’s philosophy and operating style is just one element of the control environment.",
+    "question_th": "คำศัพท์ที่ถูกต้องที่สุดสำหรับทัศนคติและการกระทำของคณะกรรมการและผู้บริหารเกี่ยวกับความสำคัญของการควบคุมภายในองค์กรคืออะไร?",
+    "options_th": [
+      "กระบวนการควบคุม",
+      "สภาพแวดล้อมการควบคุม",
+      "กระบวนการกำกับดูแล",
+      "ปรัชญาและรูปแบบการปฏิบัติงานของผู้บริหาร"
+    ],
+    "explanation_th": "สภาพแวดล้อมการควบคุมครอบคลุม “ทัศนคติและการกระทำของคณะกรรมการและผู้บริหารเกี่ยวกับความสำคัญของการควบคุมภายในองค์กร สภาพแวดล้อมการควบคุมเป็นระเบียบวินัยและโครงสร้างสำหรับการบรรลุวัตถุประสงค์หลักของระบบการควบคุมภายใน สภาพแวดล้อมการควบคุมประกอบด้วยองค์ประกอบดังต่อไปนี้: ความซื่อสัตย์และค่านิยมทางจริยธรรม ปรัชญาและรูปแบบการปฏิบัติงานของผู้บริหาร โครงสร้างองค์กร การมอบอำนาจและความรับผิดชอบ นโยบายและแนวปฏิบัติเกี่ยวกับทรัพยากรบุคคล ความรู้ความสามารถของบุคลากร” (อภิธานศัพท์) คำตอบ (C) ไม่ถูกต้อง การกำกับดูแลคือ “การรวมกันของกระบวนการและโครงสร้างที่คณะกรรมการนำไปใช้เพื่อแจ้งข้อมูล ชี้นำ บริหารจัดการ และติดตามกิจกรรมขององค์กรไปสู่การบรรลุวัตถุประสงค์” (อภิธานศัพท์) คำตอบ (D) ไม่ถูกต้อง ปรัชญาและรูปแบบการปฏิบัติงานของผู้บริหารเป็นเพียงองค์ประกอบหนึ่งของสภาพแวดล้อมการควบคุมเท่านั้น"
+  },
+  {
+    "id": 23,
+    "original_num": 27,
+    "question_en": "What is residual risk?",
+    "options_en": [
+      "Impact of risk.",
+      "Risk that is under control.",
+      "Risk that is not managed.",
+      "Underlying risk in the environment."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Risk is the possibility of an event’s occurrence that will have an impact on the achievement \nof objectives. Risk is measured in terms of impact and likelihood. Residual risk is the risk remaining after \nmanagement takes action to reduce the impact and likelihood of an adverse event, including control activities, in \nresponding to a risk. \nAnswer (D) is incorrect. The underlying risk is the inherent risk.",
+    "question_th": "ความเสี่ยงคงเหลือคืออะไร?",
+    "options_th": [
+      "ผลกระทบของความเสี่ยง",
+      "ความเสี่ยงที่อยู่ภายใต้การควบคุม",
+      "ความเสี่ยงที่ไม่ได้ถูกบริหารจัดการ",
+      "ความเสี่ยงพื้นฐานในสภาพแวดล้อม"
+    ],
+    "explanation_th": "ความเสี่ยงคือความเป็นไปได้ที่จะเกิดเหตุการณ์ที่มีผลกระทบต่อการบรรลุวัตถุประสงค์ ความเสี่ยงวัดในแง่ของผลกระทบและโอกาสที่จะเกิด ความเสี่ยงคงเหลือคือความเสี่ยงที่ยังคงมีอยู่หลังจากที่ผู้บริหารดำเนินการเพื่อลดผลกระทบและโอกาสที่จะเกิดเหตุการณ์ไม่พึงประสงค์ รวมถึงกิจกรรมการควบคุม ในการตอบสนองต่อความเสี่ยง คำตอบ (D) ไม่ถูกต้อง ความเสี่ยงพื้นฐานคือความเสี่ยงที่แท้จริง"
+  },
+  {
+    "id": 24,
+    "original_num": 28,
+    "question_en": "Internal auditing is an assurance and consulting activity. An example of an assurance service is a",
+    "options_en": [
+      "Process design engagement.",
+      "Facilitation engagement.",
+      "Training engagement.",
+      "Compliance engagement."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". According to the Glossary, an assurance service is “an objective examination of evidence for the \npurpose of providing an independent assessment on governance, risk management, and control processes for the \norganization. Examples may include financial, performance, compliance, system security, and due diligence \nengagements.”",
+    "question_th": "การตรวจสอบภายในเป็นกิจกรรมให้ความเชื่อมั่นและให้คำปรึกษา ตัวอย่างของงานบริการให้ความเชื่อมั่นคือ",
+    "options_th": [
+      "งานบริการเกี่ยวกับการออกแบบกระบวนการ",
+      "งานบริการเกี่ยวกับการอำนวยความสะดวก",
+      "งานบริการเกี่ยวกับการฝึกอบรม",
+      "งานบริการเกี่ยวกับการปฏิบัติตามกฎระเบียบ"
+    ],
+    "explanation_th": "ตามอภิธานศัพท์ งานบริการให้ความเชื่อมั่นคือ “การตรวจสอบหลักฐานอย่างเป็นกลางเพื่อวัตถุประสงค์ในการให้การประเมินที่เป็นอิสระเกี่ยวกับกระบวนการกำกับดูแล การบริหารความเสี่ยง และการควบคุมสำหรับองค์กร ตัวอย่างอาจรวมถึงงานบริการเกี่ยวกับการเงิน ผลการดำเนินงาน การปฏิบัติตามกฎระเบียบ ความปลอดภัยของระบบ และการตรวจสอบวิเคราะห์สถานะ”"
+  },
+  {
+    "id": 25,
+    "original_num": 29,
+    "question_en": "What are the policies, procedures, and activities that are part of a control framework, designed to ensure that risks are contained within the established risk tolerances?",
+    "options_en": [
+      "Risk management process.",
+      "Internal audit activities.",
+      "Control processes.",
+      "Governance process."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Control processes are the policies, procedures, and activities that are part of a control \nframework, designed to ensure that risks are contained within the risk tolerances established by the risk \nmanagement process. \nAnswer (D) is incorrect. This is not the definition of a governance process.",
+    "question_th": "นโยบาย กระบวนการ และกิจกรรมที่เป็นส่วนหนึ่งของกรอบการควบคุม ซึ่งออกแบบมาเพื่อให้มั่นใจว่าความเสี่ยงจะอยู่ในระดับที่ยอมรับได้ตามที่กำหนดไว้คืออะไร?",
+    "options_th": [
+      "กระบวนการบริหารความเสี่ยง",
+      "กิจกรรมการตรวจสอบภายใน",
+      "กระบวนการควบคุม",
+      "กระบวนการกำกับดูแล"
+    ],
+    "explanation_th": "กระบวนการควบคุมคือนโยบาย กระบวนการ และกิจกรรมที่เป็นส่วนหนึ่งของกรอบการควบคุม ซึ่งออกแบบมาเพื่อให้มั่นใจว่าความเสี่ยงจะอยู่ในระดับที่ยอมรับได้ตามที่กำหนดไว้ในกระบวนการบริหารความเสี่ยง คำตอบ (D) ไม่ถูกต้อง นี่ไม่ใช่คำจำกัดความของกระบวนการกำกับดูแล"
+  },
+  {
+    "id": 26,
+    "original_num": 31,
+    "question_en": "Freedom from conditions that threaten objectivity or the appearance of objectivity is",
+    "options_en": [
+      "Control.",
+      "Compliance.",
+      "Independence.",
+      "Avoidance of conflicts of interest."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Independence is “the freedom from conditions that threaten objectivity or the appearance of \nobjectivity. Such threats to objectivity must be managed at the individual auditor, engagement, functional and \norganizational levels” (Glossary). \nAnswer (D) is incorrect. Conditions other than conflicts of interest may impair objectivity.",
+    "question_th": "ความอิสระจากเงื่อนไขที่คุกคามความเที่ยงธรรมหรือภาพลักษณ์ของความเที่ยงธรรมคือ",
+    "options_th": [
+      "การควบคุม",
+      "การปฏิบัติตามกฎระเบียบ",
+      "ความเป็นอิสระ",
+      "การหลีกเลี่ยงความขัดแย้งทางผลประโยชน์"
+    ],
+    "explanation_th": "ความเป็นอิสระคือ “ความอิสระจากเงื่อนไขที่คุกคามความเที่ยงธรรมหรือภาพลักษณ์ของความเที่ยงธรรม ภัยคุกคามต่อความเที่ยงธรรมดังกล่าวต้องได้รับการบริหารจัดการในระดับบุคคลผู้ตรวจสอบ การปฏิบัติงาน หน้าที่ และองค์กร” (อภิธานศัพท์) คำตอบ (D) ไม่ถูกต้อง เงื่อนไขอื่น ๆ นอกเหนือจากความขัดแย้งทางผลประโยชน์อาจทำให้ความเที่ยงธรรมลดลงได้"
+  },
+  {
+    "id": 27,
+    "original_num": 33,
+    "question_en": "Use of external service providers with expertise in health care benefits is appropriate when the internal audit activity is",
+    "options_en": [
+      "Evaluating the organization’s estimate of its liability for postretirement benefits, which include health care benefits.",
+      "Comparing the cost of the organization’s health care program with other programs offered in the industry.",
+      "Training its staff to conduct an audit of health care costs in a major division of the organization.",
+      "All of the answers are correct."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The IAA must collectively possess or obtain the knowledge, skills, and other competencies needed \nto perform its responsibilities (Standard 1210). In regard to an assurance engagement, the CAE must obtain competent \nadvice and assistance if the internal auditors lack the knowledge, skills, and other competencies needed to perform all or \npart of the engagement (Standard 1210.A1). In regard to a consulting engagement, the CAE must decline the engagement \nor obtain competence advice and assistance if the internal auditors lack the knowledge, skills, and other competencies \nneeded to perform all or part of the engagement (Standard 1210.C1). Accordingly, if the internal auditors lack expertise \nwith regard to health care costs, external service providers should be employed who can provide the requisite knowledge, \nskills, and other competencies. They may be used in connection with, among other things, determining amounts by using \nspecialized methods, such as actuarial calculation of employee benefit obligations (PA 1210.A1-1). Thus, ESPs may \nprovide assistance in (1) estimating the liability for postretirement benefits, (2) developing a comparative analysis of \nhealth care costs, and (3) training the staff to audit health care costs.",
+    "question_th": "การใช้ผู้ให้บริการภายนอกที่มีความเชี่ยวชาญด้านผลประโยชน์การดูแลสุขภาพมีความเหมาะสมเมื่อกิจกรรมการตรวจสอบภายในกำลัง",
+    "options_th": [
+      "ประเมินประมาณการหนี้สินขององค์กรสำหรับผลประโยชน์หลังเกษียณ ซึ่งรวมถึงผลประโยชน์การดูแลสุขภาพ",
+      "เปรียบเทียบต้นทุนโครงการดูแลสุขภาพขององค์กรกับโครงการอื่น ๆ ที่เสนอในอุตสาหกรรม",
+      "ฝึกอบรมพนักงานเพื่อดำเนินการตรวจสอบต้นทุนการดูแลสุขภาพในแผนกหลักขององค์กร",
+      "ถูกต้องทุกข้อ"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายในต้องมีความรู้ ทักษะ และความรู้ความสามารถอื่น ๆ ที่จำเป็นในการปฏิบัติหน้าที่ความรับผิดชอบร่วมกันหรือจัดหามา (มาตรฐาน 1210) สำหรับงานบริการให้ความเชื่อมั่น หัวหน้าผู้บริหารงานตรวจสอบต้องได้รับคำแนะนำและความช่วยเหลือจากผู้เชี่ยวชาญ หากผู้ตรวจสอบภายในขาดความรู้ ทักษะ และความรู้ความสามารถอื่น ๆ ที่จำเป็นในการปฏิบัติงานตรวจสอบทั้งหมดหรือบางส่วน (มาตรฐาน 1210.A1) สำหรับงานบริการให้คำปรึกษา หัวหน้าผู้บริหารงานตรวจสอบต้องปฏิเสธงานบริการให้คำปรึกษาหรือได้รับคำแนะนำและความช่วยเหลือจากผู้เชี่ยวชาญ หากผู้ตรวจสอบภายในขาดความรู้ ทักษะ และความรู้ความสามารถอื่น ๆ ที่จำเป็นในการปฏิบัติงานตรวจสอบทั้งหมดหรือบางส่วน (มาตรฐาน 1210.C1) ดังนั้น หากผู้ตรวจสอบภายในขาดความเชี่ยวชาญเกี่ยวกับต้นทุนการดูแลสุขภาพ ควรใช้ผู้ให้บริการภายนอกที่สามารถให้ความรู้ ทักษะ และความรู้ความสามารถที่จำเป็นได้ พวกเขาอาจใช้ในการกำหนดจำนวนเงินโดยใช้วิธีการเฉพาะทาง เช่น การคำนวณภาระผูกพันผลประโยชน์พนักงานตามหลักคณิตศาสตร์ประกันภัย (PA 1210.A1-1) ดังนั้น ผู้ให้บริการภายนอกอาจให้ความช่วยเหลือใน (1) การประมาณการหนี้สินสำหรับผลประโยชน์หลังเกษียณ (2) การพัฒนาการวิเคราะห์เปรียบเทียบต้นทุนการดูแลสุขภาพ และ (3) การฝึกอบรมพนักงานเพื่อตรวจสอบต้นทุนการดูแลสุขภาพ"
+  },
+  {
+    "id": 28,
+    "original_num": 35,
+    "question_en": "An internal audit activity has scheduled an engagement relating to a construction contract. One portion of this engagement will include comparing materials purchased with those specified in the engineering drawings. The IAA does not have anyone on staff with sufficient expertise to complete this procedure. The chief audit executive should",
+    "options_en": [
+      "Delete the engagement from the schedule.",
+      "Perform the entire engagement using current staff.",
+      "Engage an engineering consultant to perform the comparison.",
+      "Accept the contractor’s written representations."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The IAA may use internal resources or external service providers that are qualified in such \ndisciplines as accounting, auditing, economics, finance, statistics, information technology, engineering, taxation, law, \nenvironmental affairs, and other areas as needed to meet the IAA’s responsibilities. Each member of the IAA, however, \nneed not be qualified in all of these disciplines (PA 1210.A1-1). Thus, hiring an outside service provider is also necessary \nas an exercise of due professional care. \nAnswer (D) is incorrect. Accepting the contractor’s representations without adequate testing is inappropriate.",
+    "question_th": "กิจกรรมการตรวจสอบภายในได้กำหนดการปฏิบัติงานตรวจสอบที่เกี่ยวข้องกับสัญญาการก่อสร้าง ส่วนหนึ่งของการปฏิบัติงานตรวจสอบนี้จะรวมถึงการเปรียบเทียบวัสดุที่ซื้อกับที่ระบุในแบบทางวิศวกรรม กิจกรรม การตรวจสอบภายในไม่มีบุคลากรที่มีความเชี่ยวชาญเพียงพอที่จะดำเนินขั้นตอนดังกล่าว หัวหน้าผู้บริหารงานตรวจสอบควรดำเนินการอย่างไร?",
+    "options_th": [
+      "ยกเลิกการปฏิบัติงานตรวจสอบจากตารางเวลา",
+      "ดำเนินการปฏิบัติงานตรวจสอบทั้งหมดโดยใช้พนักงานปัจจุบัน",
+      "ว่าจ้างที่ปรึกษาวิศวกรรมเพื่อทำการเปรียบเทียบ",
+      "ยอมรับการแสดงตนเป็นลายลักษณ์อักษรของผู้รับเหมา"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายในอาจใช้ทรัพยากรภายในหรือผู้ให้บริการภายนอกที่มีคุณสมบัติในสาขาวิชาต่าง ๆ เช่น การบัญชี การตรวจสอบ เศรษฐศาสตร์ การเงิน สถิติ เทคโนโลยีสารสนเทศ วิศวกรรมศาสตร์ ภาษีอากร กฎหมาย สิ่งแวดล้อม และสาขาอื่น ๆ ตามความจำเป็น เพื่อให้เป็นไปตามความรับผิดชอบของกิจกรรมการตรวจสอบภายใน อย่างไรก็ตาม สมาชิกแต่ละคนของกิจกรรมการตรวจสอบภายในไม่จำเป็นต้องมีคุณสมบัติในทุกสาขาวิชาเหล่านี้ (PA 1210.A1-1) ดังนั้น การว่าจ้างผู้ให้บริการภายนอกจึงจำเป็นเช่นเดียวกับการใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ คำตอบ (D) ไม่ถูกต้อง การยอมรับการแสดงตนเป็นลายลักษณ์อักษรของผู้รับเหมาโดยไม่มีการทดสอบที่เพียงพอไม่เหมาะสม"
+  },
+  {
+    "id": 29,
+    "original_num": 36,
+    "question_en": "If the internal audit activity of a non-public company does not have the skills to perform a particular task, an external service provider could be brought in from The organization’s external audit firm I. An external consulting firm II. The engagement client III. A college or university IV.",
+    "options_en": [
+      "I and II only.",
+      "II and IV only.",
+      "I, II, and III only.",
+      "I, II, and IV only."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The IAA may use internal resources or ESPs that are qualified in such disciplines as \naccounting, auditing, economics, finance, statistics, information technology, engineering, taxation, law, \nenvironmental affairs, and other areas as needed to meet the IAA’s responsibilities. Each member of the IAA, \nhowever, need not be qualified in all of these disciplines (PA 1210.A1-1). Qualified ESPs may be recruited from a \nvariety of sources. However, an ESP from the engagement client is unacceptable because the person would not be \nindependent or objective.",
+    "question_th": "หากกิจกรรมการตรวจสอบภายในของบริษัทที่ไม่ได้จดทะเบียนในตลาดหลักทรัพย์ไม่มีทักษะในการปฏิบัติงานเฉพาะอย่าง ผู้ให้บริการภายนอกสามารถถูกว่าจ้างจาก ที่ปรึกษาตรวจสอบภายนอกขององค์กร I. บริษัทที่ปรึกษาภายนอก II. ลูกค้าของการปฏิบัติงานตรวจสอบ III. วิทยาลัยหรือมหาวิทยาลัย IV.",
+    "options_th": [
+      "เฉพาะ I และ II",
+      "เฉพาะ II และ IV",
+      "เฉพาะ I, II และ III",
+      "เฉพาะ I, II และ IV"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายในอาจใช้ทรัพยากรภายในหรือผู้ให้บริการภายนอกที่มีคุณสมบัติในสาขาวิชาต่าง ๆ เช่น การบัญชี การตรวจสอบ เศรษฐศาสตร์ การเงิน สถิติ เทคโนโลยีสารสนเทศ วิศวกรรมศาสตร์ ภาษีอากร กฎหมาย สิ่งแวดล้อม และสาขาอื่น ๆ ตามความจำเป็น เพื่อให้เป็นไปตามความรับผิดชอบของกิจกรรมการตรวจสอบภายใน อย่างไรก็ตาม สมาชิกแต่ละคนของกิจกรรมการตรวจสอบภายในไม่จำเป็นต้องมีคุณสมบัติในทุกสาขาวิชาเหล่านี้ (PA 1210.A1-1) ผู้ให้บริการภายนอกที่มีคุณสมบัติสามารถได้รับการว่าจ้างจากแหล่งต่าง ๆ อย่างไรก็ตาม ผู้ให้บริการภายนอกจากลูกค้าของการปฏิบัติงานตรวจสอบไม่เป็นที่ยอมรับ เนื่องจากบุคคลดังกล่าวจะไม่มีความเป็นอิสระและความเที่ยงธรรม"
+  },
+  {
+    "id": 30,
+    "original_num": 38,
+    "question_en": "A professional engineer applied for a position in the internal audit activity of a high technology firm. The engineer became interested in the position after observing several internal auditors while they were performing an engagement in the engineering department. The chief audit executive",
+    "options_en": [
+      "Should not hire the engineer because of the lack of knowledge of internal audit standards.",
+      "May hire the engineer despite the lack of knowledge of internal audit standards.",
+      "Should not hire the engineer because of the lack of knowledge of accounting and taxes.",
+      "May hire the engineer because of the knowledge of internal auditing gained in the previous position."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The IAA may use internal resources or external service providers that are qualified in such \ndisciplines as accounting, auditing, economics, finance, statistics, information technology, engineering, taxation, \nlaw, environmental affairs, and other areas as needed to meet the IAA’s responsibilities. Each member of the IAA, \nhowever, need not be qualified in all of these disciplines (PA 1210.A1-1). \nAnswer (C) is incorrect. Each individual internal auditor is not required to have knowledge of accounting or taxes. \nAnswer (D) is incorrect. The knowledge acquired by observation is irrelevant to the skills necessary for internal \nauditing.",
+    "question_th": "วิศวกรวิชาชีพคนหนึ่งได้สมัครตำแหน่งในกิจกรรมการตรวจสอบภายในของบริษัทเทคโนโลยีขั้นสูง วิศวกรผู้นี้สนใจตำแหน่งดังกล่าวหลังจากสังเกตผู้ตรวจสอบภายในหลายคนขณะที่พวกเขากำลังปฏิบัติงานตรวจสอบในแผนกวิศวกรรม หัวหน้าผู้บริหารงานตรวจสอบควรดำเนินการอย่างไร?",
+    "options_th": [
+      "ไม่ควรจ้างวิศวกรเนื่องจากขาดความรู้เกี่ยวกับมาตรฐานการตรวจสอบภายใน",
+      "อาจจ้างวิศวกรได้แม้จะขาดความรู้เกี่ยวกับมาตรฐานการตรวจสอบภายใน",
+      "ไม่ควรจ้างวิศวกรเนื่องจากขาดความรู้ด้านบัญชีและภาษี",
+      "อาจจ้างวิศวกรได้เนื่องจากมีความรู้ด้านการตรวจสอบภายในที่ได้รับจากตำแหน่งก่อนหน้า"
+    ],
+    "explanation_th": "กิจกรรมการตรวจสอบภายในอาจใช้ทรัพยากรภายในหรือผู้ให้บริการภายนอกที่มีคุณสมบัติในสาขาวิชาต่าง ๆ เช่น การบัญชี การตรวจสอบ เศรษฐศาสตร์ การเงิน สถิติ เทคโนโลยีสารสนเทศ วิศวกรรมศาสตร์ ภาษีอากร กฎหมาย สิ่งแวดล้อม และสาขาอื่น ๆ ตามความจำเป็น เพื่อให้เป็นไปตามความรับผิดชอบของกิจกรรมการตรวจสอบภายใน อย่างไรก็ตาม สมาชิกแต่ละคนของกิจกรรมการตรวจสอบภายในไม่จำเป็นต้องมีคุณสมบัติในทุกสาขาวิชาเหล่านี้ (PA 1210.A1-1) คำตอบ (C) ไม่ถูกต้อง ผู้ตรวจสอบภายในแต่ละคนไม่จำเป็นต้องมีความรู้ด้านบัญชีหรือภาษี คำตอบ (D) ไม่ถูกต้อง ความรู้ที่ได้จากการสังเกตไม่เกี่ยวข้องกับทักษะที่จำเป็นสำหรับการตรวจสอบภายใน"
+  },
+  {
+    "id": 31,
+    "original_num": 40,
+    "question_en": "Reasonable assurance should be obtained as to each prospective internal auditor’s qualifications and proficiency. Which of the following is the least  useful application of this principle?",
+    "options_en": [
+      "Determining that all applicants have an accounting degree.",
+      "Obtaining college transcripts.",
+      "Checking an applicant’s references.",
+      "Determining previous job experience."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Internal auditors must possess the knowledge, skills, and other competencies needed to \nperform their individual responsibilities. The internal audit activity collectively must possess or obtain the \nknowledge, skills, and other competencies needed to perform its responsibilities (Standard 1210). Each member of \nthe IAA, however, need not be qualified in all disciplines (PA 1210.A1-1). \nAnswer (B) is incorrect. Obtaining college transcripts is an appropriate procedure to determine a prospective \nauditor’s qualifications. \nAnswer (C) is incorrect. Checking an applicant’s references is an appropriate procedure to determine a prospective \nauditor’s qualifications. \nAnswer (D) is incorrect. Determining previous job experience is appropriate during the hiring process.",
+    "question_th": "ควรได้มาซึ่งความเชื่อมั่นอย่างสมเหตุสมผลเกี่ยวกับคุณสมบัติและความเชี่ยวชาญของผู้ตรวจสอบภายในแต่ละคนที่คาดว่าจะรับเข้าทำงาน ข้อใดต่อไปนี้เป็นการนำหลักการนี้ไปใช้ที่มีประโยชน์น้อยที่สุด?",
+    "options_th": [
+      "การพิจารณาว่าผู้สมัครทุกคนมีวุฒิการศึกษาด้านการบัญชี",
+      "การขอใบรับรองผลการศึกษาจากมหาวิทยาลัย",
+      "การตรวจสอบบุคคลอ้างอิงของผู้สมัคร",
+      "การพิจารณาประสบการณ์ทำงานที่ผ่านมา"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในต้องมีความรู้ ทักษะ และสมรรถนะอื่น ๆ ที่จำเป็นต่อการปฏิบัติหน้าที่ความรับผิดชอบของแต่ละบุคคล กิจกรรมการตรวจสอบภายในโดยรวมต้องมีหรือได้รับความรู้ ทักษะ และสมรรถนะอื่น ๆ ที่จำเป็นต่อการปฏิบัติหน้าที่ความรับผิดชอบ (มาตรฐาน 1210) อย่างไรก็ตาม สมาชิกแต่ละคนของกิจกรรมการตรวจสอบภายในไม่จำเป็นต้องมีคุณสมบัติครบถ้วนทุกสาขาวิชา (แนวปฏิบัติเพื่อการนำไปใช้ 1210.A1-1) ตัวเลือก (B) ไม่ถูกต้อง การขอใบรับรองผลการศึกษาจากมหาวิทยาลัยเป็นกระบวนการที่เหมาะสมในการพิจารณาคุณสมบัติของผู้ตรวจสอบที่คาดว่าจะรับเข้าทำงาน ตัวเลือก (C) ไม่ถูกต้อง การตรวจสอบบุคคลอ้างอิงของผู้สมัครเป็นกระบวนการที่เหมาะสมในการพิจารณาคุณสมบัติของผู้ตรวจสอบที่คาดว่าจะรับเข้าทำงาน ตัวเลือก (D) ไม่ถูกต้อง การพิจารณาประสบการณ์ทำงานที่ผ่านมาเป็นสิ่งที่เหมาะสมในระหว่างกระบวนการจ้างงาน"
+  },
+  {
+    "id": 32,
+    "original_num": 41,
+    "question_en": "Internal auditing is unique in that its scope often encompasses all areas of an organization. Thus, it is not possible for each internal auditor to possess detailed competence in all areas that might be the subject of engagements. Which of the following competencies must the internal audit activity possess collectively?",
+    "options_en": [
+      "Understanding of taxation and law as it applies to operation of the organization.",
+      "Proficiency in accounting principles.",
+      "Understanding of management principles.",
+      "Proficiency in information technology."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Internal auditors must possess the knowledge, skills, and other competencies needed to \nperform their individual responsibilities. The internal audit activity collectively must possess or obtain the \nknowledge, skills, and other competencies needed to perform its responsibilities (Standard 1210). These \ncompetencies include an understanding of management principles. An understanding is the ability to apply broad \nknowledge to situations likely to be encountered, to recognize significant deviations, and to be able to carry out the \nresearch necessary to arrive at reasonable solutions (PA 1210-1). \nAnswer (D) is incorrect. The competencies referred to in Standard 1210 include knowledge of key IT risks and \ncontrols and available technology-based audit techniques (PA 1210). According to Standard 1210.A3, int ernal \nauditors must have sufficient knowledge of key IT risks and controls and available technology-based audit \ntechniques to perform their assigned work. However, not all internal auditors are expected to have the expertise of \nan internal auditor whose primary responsibility is information technology auditing.",
+    "question_th": "การตรวจสอบภายในมีลักษณะเฉพาะที่ขอบเขตงานมักจะครอบคลุมทุกส่วนขององค์กร ดังนั้น ผู้ตรวจสอบภายในแต่ละคนจึงเป็นไปไม่ได้ที่จะมีความสามารถเชิงลึกในทุกด้านที่อาจเป็นหัวข้อของการปฏิบัติงานตรวจสอบ สมรรถนะใดต่อไปนี้ที่กิจกรรมการตรวจสอบภายในต้องมีโดยรวม?",
+    "options_th": [
+      "ความเข้าใจเกี่ยวกับภาษีอากรและกฎหมายที่เกี่ยวข้องกับการดำเนินงานขององค์กร",
+      "ความเชี่ยวชาญในหลักการบัญชี",
+      "ความเข้าใจในหลักการบริหารจัดการ",
+      "ความเชี่ยวชาญในเทคโนโลยีสารสนเทศ"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในต้องมีความรู้ ทักษะ และสมรรถนะอื่น ๆ ที่จำเป็นต่อการปฏิบัติหน้าที่ความรับผิดชอบของแต่ละบุคคล กิจกรรมการตรวจสอบภายในโดยรวมต้องมีหรือได้รับความรู้ ทักษะ และสมรรถนะอื่น ๆ ที่จำเป็นต่อการปฏิบัติหน้าที่ความรับผิดชอบ (มาตรฐาน 1210) สมรรถนะเหล่านี้รวมถึงความเข้าใจในหลักการบริหารจัดการ ความเข้าใจคือความสามารถในการประยุกต์ใช้ความรู้ในวงกว้างกับสถานการณ์ที่อาจเกิดขึ้น การรับรู้ถึงความเบี่ยงเบนที่สำคัญ และความสามารถในการดำเนินการวิจัยที่จำเป็นเพื่อให้ได้มาซึ่งแนวทางแก้ไขปัญหาที่สมเหตุสมผล (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) ตัวเลือก (D) ไม่ถูกต้อง สมรรถนะที่อ้างถึงในมาตรฐาน 1210 รวมถึงความรู้เกี่ยวกับความเสี่ยงและการควบคุมด้านเทคโนโลยีสารสนเทศที่สำคัญ และเทคนิคการตรวจสอบโดยใช้เทคโนโลยีที่มีอยู่ (แนวปฏิบัติเพื่อการนำไปใช้ 1210) ตามมาตรฐาน 1210.A3 ผู้ตรวจสอบภายในต้องมีความรู้เพียงพอเกี่ยวกับความเสี่ยงและการควบคุมด้านเทคโนโลยีสารสนเทศที่สำคัญ และเทคนิคการตรวจสอบโดยใช้เทคโนโลยีที่มีอยู่เพื่อปฏิบัติงานที่ได้รับมอบหมาย อย่างไรก็ตาม ผู้ตรวจสอบภายในทุกคนไม่จำเป็นต้องมีความเชี่ยวชาญเท่ากับผู้ตรวจสอบภายในที่มีความรับผิดชอบหลักในการตรวจสอบเทคโนโลยีสารสนเทศ"
+  },
+  {
+    "id": 33,
+    "original_num": 42,
+    "question_en": "The internal audit activity collectively must possess or obtain certain competencies, including proficiency in",
+    "options_en": [
+      "Internal audit procedures and techniques.",
+      "Accounting principles and techniques.",
+      "Management principles.",
+      "Marketing techniques."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". These competencies include proficiency in applying internal audit standards, procedures, and \ntechniques in performing engagements. Proficiency means the ability to apply knowledge to situations likely to be \nencountered and to deal with them without extensive recourse to technical research and assistance (PA 1210-1). \nAnswer (B) is incorrect. Only if internal auditors work extensively with financial records and reports must they have \nproficiency in accounting principles and techniques. \nAnswer (C) is incorrect. The required competencies include an understanding of, not proficiency in, management \nprinciples. \nAnswer (D) is incorrect. Internal auditors ordinarily need not be proficient in marketing techniques.",
+    "question_th": "กิจกรรมการตรวจสอบภายในโดยรวมต้องมีหรือได้รับสมรรถนะบางประการ รวมถึงความเชี่ยวชาญในด้านใดต่อไปนี้",
+    "options_th": [
+      "ขั้นตอนและเทคนิคการตรวจสอบภายใน",
+      "หลักการและเทคนิคการบัญชี",
+      "หลักการบริหารจัดการ",
+      "เทคนิคการตลาด"
+    ],
+    "explanation_th": "สมรรถนะเหล่านี้รวมถึงความเชี่ยวชาญในการประยุกต์ใช้มาตรฐานการตรวจสอบภายใน ขั้นตอน และเทคนิคในการปฏิบัติงานตรวจสอบ ความเชี่ยวชาญหมายถึงความสามารถในการประยุกต์ใช้ความรู้กับสถานการณ์ที่อาจเกิดขึ้น และจัดการกับสถานการณ์เหล่านั้นได้โดยไม่ต้องพึ่งพาการวิจัยทางเทคนิคและความช่วยเหลือจำนวนมาก (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) ตัวเลือก (B) ไม่ถูกต้อง ผู้ตรวจสอบภายในจะต้องมีความเชี่ยวชาญในหลักการและเทคนิคการบัญชีเฉพาะในกรณีที่ทำงานเกี่ยวกับบันทึกและรายงานทางการเงินอย่างกว้างขวางเท่านั้น ตัวเลือก (C) ไม่ถูกต้อง สมรรถนะที่จำเป็นต้องมีความเข้าใจในหลักการบริหารจัดการ ไม่ใช่ความเชี่ยวชาญ ตัวเลือก (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในโดยทั่วไปไม่จำเป็นต้องมีความเชี่ยวชาญในเทคนิคการตลาด"
+  },
+  {
+    "id": 34,
+    "original_num": 43,
+    "question_en": "The internal audit activity collectively must possess or obtain certain competencies, including an understanding of",
+    "options_en": [
+      "Internal audit procedures and techniques.",
+      "Accounting principles and techniques.",
+      "Management principles.",
+      "Marketing techniques."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The required competencies include an understanding of management principles to recognize \nand evaluate the materiality and significance of deviations from good business practice. An understanding is the \nability to apply broad knowledge to situations likely to be encountered, to recognize significant deviations, and to \nbe able to carry out the research necessary to arrive at reasonable solutions (PA 1210-1). \nAnswer (D) is incorrect. Internal auditors ordinarily need not be proficient in, or have an understanding or \nappreciation of, marketing techniques.",
+    "question_th": "กิจกรรมการตรวจสอบภายในโดยรวมต้องมีหรือได้รับสมรรถนะบางประการ รวมถึงความเข้าใจในด้านใดต่อไปนี้",
+    "options_th": [
+      "ขั้นตอนและเทคนิคการตรวจสอบภายใน",
+      "หลักการและเทคนิคการบัญชี",
+      "หลักการบริหารจัดการ",
+      "เทคนิคการตลาด"
+    ],
+    "explanation_th": "สมรรถนะที่จำเป็นรวมถึงความเข้าใจในหลักการบริหารจัดการ เพื่อรับรู้และประเมินสาระสำคัญและความสำคัญของความเบี่ยงเบนจากการดำเนินธุรกิจที่ดี ความเข้าใจคือความสามารถในการประยุกต์ใช้ความรู้ในวงกว้างกับสถานการณ์ที่อาจเกิดขึ้น การรับรู้ถึงความเบี่ยงเบนที่สำคัญ และความสามารถในการดำเนินการวิจัยที่จำเป็นเพื่อให้ได้มาซึ่งแนวทางแก้ไขปัญหาที่สมเหตุสมผล (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) ตัวเลือก (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในโดยทั่วไปไม่จำเป็นต้องมีความเชี่ยวชาญ มีความเข้าใจ หรือมีความตระหนักในเทคนิคการตลาด"
+  },
+  {
+    "id": 35,
+    "original_num": 44,
+    "question_en": "The internal audit activity collectively must possess or obtain certain competencies, including an appreciation of",
+    "options_en": [
+      "Internal audit procedures and techniques.",
+      "Accounting principles and techniques.",
+      "Management principles.",
+      "Marketing techniques."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". The required competencies include an appreciation of the fundamentals of business \nsubjects, such as accounting, economics, commercial law, taxation, finance, quantitative methods, information \ntechnology, risk management, and fraud. An appreciation is the ability to recognize the existence of problems or \npotential problems and to identify the additional research to be undertaken or the assistance to be obtained. Only if \ninternal auditors work extensively with financial records and reports must they have proficiency in accounting \nprinciples and techniques (PA 1210-1). \nAnswer (C) is incorrect. The required competencies include an understanding, not an appreciation, of management \nprinciples. \nAnswer (D) is incorrect. Internal auditors ordinarily need not be proficient in, or have an understanding or \nappreciation of, marketing techniques.",
+    "question_th": "กิจกรรมการตรวจสอบภายในโดยรวมต้องมีหรือได้รับสมรรถนะบางประการ รวมถึงความตระหนักในด้านใดต่อไปนี้",
+    "options_th": [
+      "ขั้นตอนและเทคนิคการตรวจสอบภายใน",
+      "หลักการและเทคนิคการบัญชี",
+      "หลักการบริหารจัดการ",
+      "เทคนิคการตลาด"
+    ],
+    "explanation_th": "สมรรถนะที่จำเป็นรวมถึงความตระหนักในพื้นฐานของวิชาทางธุรกิจ เช่น การบัญชี เศรษฐศาสตร์ กฎหมายพาณิชย์ ภาษีอากร การเงิน วิธีการเชิงปริมาณ เทคโนโลยีสารสนเทศ การบริหารความเสี่ยง และการทุจริต ความตระหนักคือความสามารถในการรับรู้ถึงปัญหาหรือปัญหาที่อาจเกิดขึ้น และระบุถึงการวิจัยเพิ่มเติมที่จะต้องดำเนินการหรือความช่วยเหลือที่จะได้รับ ผู้ตรวจสอบภายในจะต้องมีความเชี่ยวชาญในหลักการและเทคนิคการบัญชีเฉพาะในกรณีที่ทำงานเกี่ยวกับบันทึกและรายงานทางการเงินอย่างกว้างขวางเท่านั้น (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) ตัวเลือก (C) ไม่ถูกต้อง สมรรถนะที่จำเป็นต้องมีความเข้าใจในหลักการบริหารจัดการ ไม่ใช่ความตระหนัก ตัวเลือก (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในโดยทั่วไปไม่จำเป็นต้องมีความเชี่ยวชาญ มีความเข้าใจ หรือมีความตระหนักในเทคนิคการตลาด"
+  },
+  {
+    "id": 36,
+    "original_num": 45,
+    "question_en": "The internal audit activity collectively must possess or obtain certain competencies, excluding",
+    "options_en": [
+      "Proficiency in applying internal audit standards.",
+      "An understanding of management principles.",
+      "The ability to maintain good interpersonal relations.",
+      "The ability to conduct training sessions in quantitative methods."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". The required competencies include an appreciation of the fundamentals of business \nsubjects, such as accounting, economics, commercial law, taxation, finance, quantitative methods, information \ntechnology, risk management, and fraud. An appreciation is the ability to recognize the existence of problems or \npotential problems and to determine the additional research to be undertaken or the assistance to be obtained (PA \n1210-1).",
+    "question_th": "กิจกรรมการตรวจสอบภายในโดยรวมต้องมีหรือได้รับสมรรถนะบางประการ ยกเว้นข้อใดต่อไปนี้",
+    "options_th": [
+      "ความเชี่ยวชาญในการประยุกต์ใช้มาตรฐานการตรวจสอบภายใน",
+      "ความเข้าใจในหลักการบริหารจัดการ",
+      "ความสามารถในการรักษาความสัมพันธ์ระหว่างบุคคลที่ดี",
+      "ความสามารถในการจัดอบรมวิธีการเชิงปริมาณ"
+    ],
+    "explanation_th": "สมรรถนะที่จำเป็นรวมถึงความตระหนักในพื้นฐานของวิชาทางธุรกิจ เช่น การบัญชี เศรษฐศาสตร์ กฎหมายพาณิชย์ ภาษีอากร การเงิน วิธีการเชิงปริมาณ เทคโนโลยีสารสนเทศ การบริหารความเสี่ยง และการทุจริต ความตระหนักคือความสามารถในการรับรู้ถึงปัญหาหรือปัญหาที่อาจเกิดขึ้น และระบุถึงการวิจัยเพิ่มเติมที่จะต้องดำเนินการหรือความช่วยเหลือที่จะได้รับ (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1)"
+  },
+  {
+    "id": 37,
+    "original_num": 46,
+    "question_en": "Communication skills are important to internal auditors. They should be able to convey effectively all of the following to engagement clients except",
+    "options_en": [
+      "The objectives designed for a specific engagement.",
+      "The engagement evaluations based on a survey.",
+      "The risk assessment used in selecting the area for investigation.",
+      "Recommendations that are generated in relationship to a specific engagement client."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Internal auditors must be skilled in oral and written communications so that they can clearly \nand effectively convey such matters as engagement objectives, evaluations, conclusions, and recommendations (PA \n1210-1). However, the risk assessment is not necessarily a matter that must be communicated. \nAnswer (D) is incorrect. The internal auditors should be able to convey effectively engagement objectives, \nconclusions, evaluations, and recommendations.",
+    "question_th": "ทักษะการสื่อสารมีความสำคัญต่อผู้ตรวจสอบภายใน พวกเขาควรสามารถสื่อสารสิ่งต่อไปนี้ทั้งหมดให้ลูกค้าผู้รับบริการจากการปฏิบัติงานตรวจสอบได้อย่างมีประสิทธิภาพ ยกเว้นข้อใด",
+    "options_th": [
+      "วัตถุประสงค์ที่กำหนดไว้สำหรับการปฏิบัติงานตรวจสอบเฉพาะด้าน",
+      "การประเมินผลการปฏิบัติงานตรวจสอบจากแบบสำรวจ",
+      "การประเมินความเสี่ยงที่ใช้ในการเลือกพื้นที่สำหรับการสอบสวน",
+      "ข้อเสนอแนะที่เกิดขึ้นซึ่งเกี่ยวข้องกับลูกค้าผู้รับบริการจากการปฏิบัติงานตรวจสอบเฉพาะราย"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในต้องมีทักษะในการสื่อสารด้วยวาจาและลายลักษณ์อักษร เพื่อให้พวกเขาสามารถสื่อสารเรื่องต่างๆ เช่น วัตถุประสงค์ของการปฏิบัติงานตรวจสอบ การประเมินผล ข้อสรุป และข้อเสนอแนะได้อย่างชัดเจนและมีประสิทธิภาพ (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) อย่างไรก็ตาม การประเมินความเสี่ยงไม่จำเป็นต้องเป็นเรื่องที่ต้องสื่อสารเสมอไป ตัวเลือก (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในควรสามารถสื่อสารวัตถุประสงค์ของการปฏิบัติงานตรวจสอบ ข้อสรุป การประเมินผล และข้อเสนอแนะได้อย่างมีประสิทธิภาพ"
+  },
+  {
+    "id": 38,
+    "original_num": 48,
+    "question_en": "The Standards  require that internal auditors possess which of the following skills? Internal auditors should understand human relations and be skilled in dealing with people I. Internal auditors should be able to recognize and evaluate the materiality and significance of deviations from good business practices II. Internal auditors should be experts on subjects such as economics, commercial law, taxation, finance, and information technology III. Internal auditors should be skilled in oral and written communication IV.",
+    "options_en": [
+      "II only.",
+      "I and III only.",
+      "III and IV only.",
+      "I, II, and IV only."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Skills required by the Standards  for internal auditors include \nSkills in dealing with people, understanding human relations, and maintaining satisfactory relationships \nwith engagement clients. \nSkills in oral and written communications to clearly and effectively convey such matters as engagement\nobjectives, evaluations, conclusions, and recommendations. \nAn understanding of management principles to recognize and evaluate the materiality and significance of \ndeviations from good business practices. An understanding means the ability to apply broad knowledge to \nsituations likely to be encountered, to recognize significant deviations, and to be able to carry out the \nresearch necessary to arrive at reasonable solutions. \nAn appreciation (not expertise) of the fundamentals of business subjects such as accounting, economics, \ncommercial law, taxation, finance, quantitative methods, information technology, risk management, and \nfraud. An appreciation means the ability to recognize the existence of problems or potential problems and to \nidentify the additional research to be undertaken or the assistance to be obtained. (PA 1210-1)",
+    "question_th": "มาตรฐานกำหนดให้ผู้ตรวจสอบภายในต้องมีทักษะใดต่อไปนี้? ผู้ตรวจสอบภายในควรเข้าใจความสัมพันธ์ของมนุษย์และมีทักษะในการติดต่อกับผู้คน I. ผู้ตรวจสอบภายในควรสามารถรับรู้และประเมินสาระสำคัญและความสำคัญของความเบี่ยงเบนจากการดำเนินธุรกิจที่ดี II. ผู้ตรวจสอบภายในควรเป็นผู้เชี่ยวชาญในหัวข้อต่างๆ เช่น เศรษฐศาสตร์ กฎหมายพาณิชย์ ภาษีอากร การเงิน และเทคโนโลยีสารสนเทศ III. ผู้ตรวจสอบภายในควรมีทักษะในการสื่อสารด้วยวาจาและลายลักษณ์อักษร IV.",
+    "options_th": [
+      "เฉพาะ II",
+      "เฉพาะ I และ III",
+      "เฉพาะ III และ IV",
+      "เฉพาะ I, II และ IV"
+    ],
+    "explanation_th": "ทักษะที่มาตรฐานกำหนดให้ผู้ตรวจสอบภายในต้องมี ได้แก่: ทักษะในการติดต่อกับผู้คน ความเข้าใจในความสัมพันธ์ของมนุษย์ และการรักษาความสัมพันธ์อันดีกับลูกค้าผู้รับบริการจากการปฏิบัติงานตรวจสอบ ทักษะในการสื่อสารด้วยวาจาและลายลักษณ์อักษรเพื่อให้สามารถสื่อสารเรื่องต่างๆ เช่น วัตถุประสงค์ของการปฏิบัติงานตรวจสอบ การประเมินผล ข้อสรุป และข้อเสนอแนะได้อย่างชัดเจนและมีประสิทธิภาพ ความเข้าใจในหลักการบริหารจัดการเพื่อรับรู้และประเมินสาระสำคัญและความสำคัญของความเบี่ยงเบนจากการดำเนินธุรกิจที่ดี ความเข้าใจหมายถึงความสามารถในการประยุกต์ใช้ความรู้ในวงกว้างกับสถานการณ์ที่อาจเกิดขึ้น การรับรู้ถึงความเบี่ยงเบนที่สำคัญ และความสามารถในการดำเนินการวิจัยที่จำเป็นเพื่อให้ได้มาซึ่งแนวทางแก้ไขปัญหาที่สมเหตุสมผล ความตระหนัก (ไม่ใช่ความเชี่ยวชาญ) ในพื้นฐานของวิชาทางธุรกิจ เช่น การบัญชี เศรษฐศาสตร์ กฎหมายพาณิชย์ ภาษีอากร การเงิน วิธีการเชิงปริมาณ เทคโนโลยีสารสนเทศ การบริหารความเสี่ยง และการทุจริต ความตระหนักหมายถึงความสามารถในการรับรู้ถึงปัญหาหรือปัญหาที่อาจเกิดขึ้น และระบุถึงการวิจัยเพิ่มเติมที่จะต้องดำเนินการหรือความช่วยเหลือที่จะได้รับ (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1)"
+  },
+  {
+    "id": 39,
+    "original_num": 51,
+    "question_en": "When hiring entry-level internal auditing staff, which of the following will most  likely predict the applicant’s success as an internal auditor?",
+    "options_en": [
+      "Grade point average on college accounting courses.",
+      "Ability to fit well socially into a group.",
+      "Ability to organize and express thoughts well.",
+      "Level of detailed knowledge of the organization."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". Internal auditors must have skills in oral and written communications to clearly and \neffectively convey such matters as engagement objectives, evaluations, conclusions, and recommendations (PA \n1210-1). \nAnswer (D) is incorrect. Entry-level internal auditors typically have relatively little knowledge of the organization. \nApplicants should demonstrate a general knowledge of the organization, but this factor is not the most reliable \npredictor of successful performance as an internal auditor.",
+    "question_th": "ในการจ้างพนักงานตรวจสอบภายในระดับเริ่มต้น ข้อใดต่อไปนี้มีแนวโน้มมากที่สุดที่จะทำนายความสำเร็จของผู้สมัครในฐานะผู้ตรวจสอบภายใน?",
+    "options_th": [
+      "เกรดเฉลี่ยในวิชาบัญชีระดับมหาวิทยาลัย",
+      "ความสามารถในการเข้ากับกลุ่มทางสังคมได้ดี",
+      "ความสามารถในการจัดระเบียบและแสดงความคิดเห็นได้ดี",
+      "ระดับความรู้เชิงลึกเกี่ยวกับองค์กร"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในต้องมีทักษะในการสื่อสารด้วยวาจาและลายลักษณ์อักษร เพื่อให้สามารถสื่อสารเรื่องต่างๆ เช่น วัตถุประสงค์ของการปฏิบัติงานตรวจสอบ การประเมินผล ข้อสรุป และข้อเสนอแนะได้อย่างชัดเจนและมีประสิทธิภาพ (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) ตัวเลือก (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในระดับเริ่มต้นโดยทั่วไปมีความรู้เกี่ยวกับองค์กรค่อนข้างน้อย ผู้สมัครควรแสดงให้เห็นถึงความรู้ทั่วไปเกี่ยวกับองค์กร แต่ปัจจัยนี้ไม่ใช่ปัจจัยที่น่าเชื่อถือที่สุดในการทำนายผลการปฏิบัติงานที่ประสบความสำเร็จในฐานะผู้ตรวจสอบภายใน"
+  },
+  {
+    "id": 40,
+    "original_num": 53,
+    "question_en": "Internal auditors must possess the knowledge, skills, and other competencies essential to the performance of their individual responsibilities. Consequently, all internal auditors should be proficient in applying",
+    "options_en": [
+      "Internal auditing standards.",
+      "Quantitative methods.",
+      "Management principles.",
+      "Structured systems analysis."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". All internal auditors should be proficient in applying internal auditing standards, procedures, and \ntechniques required in performing engagements. Proficiency means the ability to apply knowledge to situations likely to \nbe encountered and to deal with them without extensive recourse to technical research and assistance (PA 1210-1). \nAnswer (B) is incorrect. Internal auditors must have an appreciation of the fundamentals of business subjects such as \naccounting, economics, commercial law, taxation, finance, quantitative methods, information technology, risk \nmanagement, and fraud. An appreciation means the ability to recognize the existence of problems or potential problems \nand to identify the additional research to be undertaken or the assistance to be obtained. \nAnswer (C) is incorrect. Internal auditors must have an understanding of management principles in order to recognize and \nevaluate the materiality and significance of deviations from good business practices. An understanding means the ability \nto apply broad knowledge to situations likely to be encountered, to recognize significant deviations, and to be able to \ncarry out the research necessary to arrive at reasonable solutions (PA 1210-1). \nAnswer (D) is incorrect. Internal auditors must have an appreciation of the fundamentals of business subjects such as \naccounting, economics, commercial law, taxation, finance, quantitative methods, information technology, risk \nmanagement, and fraud. An appreciation means the ability to recognize the existence of problems or potential problems \nand to identify the additional research to be undertaken or the assistance to be obtained.",
+    "question_th": "ผู้ตรวจสอบภายในต้องมีความรู้ ทักษะ และสมรรถนะอื่น ๆ ที่จำเป็นต่อการปฏิบัติหน้าที่ความรับผิดชอบของแต่ละบุคคล ดังนั้น ผู้ตรวจสอบภายในทุกคนควรมีความเชี่ยวชาญในการประยุกต์ใช้สิ่งใดต่อไปนี้",
+    "options_th": [
+      "มาตรฐานการตรวจสอบภายใน",
+      "วิธีการเชิงปริมาณ",
+      "หลักการบริหารจัดการ",
+      "การวิเคราะห์ระบบที่มีโครงสร้าง"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในทุกคนควรมีความเชี่ยวชาญในการประยุกต์ใช้มาตรฐานการตรวจสอบภายใน ขั้นตอน และเทคนิคที่จำเป็นในการปฏิบัติงานตรวจสอบ ความเชี่ยวชาญหมายถึงความสามารถในการประยุกต์ใช้ความรู้กับสถานการณ์ที่อาจเกิดขึ้น และจัดการกับสถานการณ์เหล่านั้นได้โดยไม่ต้องพึ่งพาการวิจัยทางเทคนิคและความช่วยเหลือจำนวนมาก (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) ตัวเลือก (B) ไม่ถูกต้อง ผู้ตรวจสอบภายในต้องมีความตระหนักในพื้นฐานของวิชาทางธุรกิจ เช่น การบัญชี เศรษฐศาสตร์ กฎหมายพาณิชย์ ภาษีอากร การเงิน วิธีการเชิงปริมาณ เทคโนโลยีสารสนเทศ การบริหารความเสี่ยง และการทุจริต ความตระหนักหมายถึงความสามารถในการรับรู้ถึงปัญหาหรือปัญหาที่อาจเกิดขึ้น และระบุถึงการวิจัยเพิ่มเติมที่จะต้องดำเนินการหรือความช่วยเหลือที่จะได้รับ ตัวเลือก (C) ไม่ถูกต้อง ผู้ตรวจสอบภายในต้องมีความเข้าใจในหลักการบริหารจัดการเพื่อที่จะรับรู้และประเมินสาระสำคัญและความสำคัญของความเบี่ยงเบนจากการดำเนินธุรกิจที่ดี ความเข้าใจหมายถึงความสามารถในการประยุกต์ใช้ความรู้ในวงกว้างกับสถานการณ์ที่อาจเกิดขึ้น การรับรู้ถึงความเบี่ยงเบนที่สำคัญ และความสามารถในการดำเนินการวิจัยที่จำเป็นเพื่อให้ได้มาซึ่งแนวทางแก้ไขปัญหาที่สมเหตุสมผล (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) ตัวเลือก (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในต้องมีความตระหนักในพื้นฐานของวิชาทางธุรกิจ เช่น การบัญชี เศรษฐศาสตร์ กฎหมายพาณิชย์ ภาษีอากร การเงิน วิธีการเชิงปริมาณ เทคโนโลยีสารสนเทศ การบริหารความเสี่ยง และการทุจริต ความตระหนักหมายถึงความสามารถในการรับรู้ถึงปัญหาหรือปัญหาที่อาจเกิดขึ้น และระบุถึงการวิจัยเพิ่มเติมที่จะต้องดำเนินการหรือความช่วยเหลือที่จะได้รับ"
+  },
+  {
+    "id": 41,
+    "original_num": 56,
+    "question_en": "The consultative approach to internal auditing emphasizes",
+    "options_en": [
+      "Imposition of corrective measures.",
+      "Participation with engagement clients to improve methods.",
+      "Fraud investigation.",
+      "Implementation of policies and procedures."
+    ],
+    "answer_index": 1,
+    "explanation_en": ". Internal auditors need “skills in dealing with people, understanding human relations, and \nmaintaining satisfactory relationships with engagement clients” (PA 1210-1). A consultative approach to the \nengagement reflects the application of such skills. Consultation with the engagement client not only facilitates the \nplanning and performance of the engagement but is a courtesy that enhances the internal auditor-client relationship. \nDeveloping a positive relationship produces a more favorable environment for the engagement effort. Moreover, \ninvolving the client in the engagement process is likely to increase acceptance of recommended changes. \nAnswer (C) is incorrect. Consultation is less likely when the client is suspected of fraud. \nAnswer (D) is incorrect. Internal auditors are not independent if they implement policies and procedures.",
+    "question_th": "แนวทางการให้คำปรึกษาในการตรวจสอบภายในเน้นย้ำถึงสิ่งใด",
+    "options_th": [
+      "การบังคับใช้มาตรการแก้ไข",
+      "การมีส่วนร่วมกับลูกค้าผู้รับบริการจากการปฏิบัติงานตรวจสอบเพื่อปรับปรุงวิธีการ",
+      "การสอบสวนการทุจริต",
+      "การนำนโยบายและขั้นตอนไปปฏิบัติ"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในจำเป็นต้องมี “ทักษะในการติดต่อกับผู้คน ความเข้าใจในความสัมพันธ์ของมนุษย์ และการรักษาความสัมพันธ์อันดีกับลูกค้าผู้รับบริการจากการปฏิบัติงานตรวจสอบ” (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) แนวทางการให้คำปรึกษาในการปฏิบัติงานตรวจสอบสะท้อนให้เห็นถึงการประยุกต์ใช้ทักษะดังกล่าว การให้คำปรึกษากับลูกค้าผู้รับบริการจากการปฏิบัติงานตรวจสอบไม่เพียงแต่อำนวยความสะดวกในการวางแผนและปฏิบัติงานตรวจสอบเท่านั้น แต่ยังเป็นมารยาทที่ช่วยเสริมสร้างความสัมพันธ์ระหว่างผู้ตรวจสอบภายในและลูกค้า การสร้างความสัมพันธ์เชิงบวกจะนำไปสู่สภาพแวดล้อมที่เอื้อต่อความพยายามในการปฏิบัติงานตรวจสอบมากขึ้น ยิ่งไปกว่านั้น การให้ลูกค้ามีส่วนร่วมในกระบวนการปฏิบัติงานตรวจสอบมีแนวโน้มที่จะเพิ่มการยอมรับการเปลี่ยนแปลงที่แนะนำ ตัวเลือก (C) ไม่ถูกต้อง การให้คำปรึกษาอาจเกิดขึ้นได้น้อยลงเมื่อลูกค้าถูกสงสัยว่ามีการทุจริต ตัวเลือก (D) ไม่ถูกต้อง ผู้ตรวจสอบภายในจะขาดความเป็นอิสระหากพวกเขานำนโยบายและขั้นตอนไปปฏิบัติ"
+  },
+  {
+    "id": 42,
+    "original_num": 57,
+    "question_en": "As part of the process to improve internal auditor-engagement client relations, it is very important to deal with how the internal audit activity is perceived. Certain types of attitudes in the work performed will help create these perceptions. From a management perspective, which attitude is likely to be the most  conducive to a positive perception?",
+    "options_en": [
+      "Objective.",
+      "Investigative.",
+      "Interrogatory.",
+      "Consultative."
+    ],
+    "answer_index": 3,
+    "explanation_en": ". Internal auditors need “skills in dealing with people, understanding human relations, and \nmaintaining satisfactory relationships with engagement clients” (PA 1210-1). A consultative approach to the \nengagement reflects the application of such skills. A consultative attitude leads to two-way communication. \nConsultation considers the client’s viewpoint, helps to dispel fear and mistrust, and demonstrates the value of \ninternal auditing to the client.",
+    "question_th": "ในฐานะส่วนหนึ่งของกระบวนการเพื่อปรับปรุงความสัมพันธ์ระหว่างผู้ตรวจสอบภายในกับลูกค้าผู้รับบริการจากการปฏิบัติงานตรวจสอบ การจัดการกับวิธีที่กิจกรรมการตรวจสอบภายในถูกมองเป็นสิ่งสำคัญมาก ทัศนคติบางประเภทในการปฏิบัติงานจะช่วยสร้างการรับรู้เหล่านี้ได้ จากมุมมองของผู้บริหาร ทัศนคติใดมีแนวโน้มที่จะเอื้อต่อการรับรู้เชิงบวกมากที่สุด?",
+    "options_th": [
+      "เที่ยงธรรม",
+      "สอบสวน",
+      "ซักถาม",
+      "ให้คำปรึกษา"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในจำเป็นต้องมี “ทักษะในการติดต่อกับผู้คน ความเข้าใจในความสัมพันธ์ของมนุษย์ และการรักษาความสัมพันธ์อันดีกับลูกค้าผู้รับบริการจากการปฏิบัติงานตรวจสอบ” (แนวปฏิบัติเพื่อการนำไปใช้ 1210-1) แนวทางการให้คำปรึกษาในการปฏิบัติงานตรวจสอบสะท้อนให้เห็นถึงการประยุกต์ใช้ทักษะดังกล่าว ทัศนคติแบบให้คำปรึกษาจะนำไปสู่การสื่อสารสองทาง การให้คำปรึกษาจะพิจารณามุมมองของลูกค้า ช่วยขจัดความกลัวและความไม่ไว้วางใจ และแสดงให้เห็นถึงคุณค่าของการตรวจสอบภายในต่อลูกค้า"
+  },
+  {
+    "id": 43,
+    "original_num": 58,
+    "question_en": "An auditor is scheduled to audit payroll controls for an organization that has recently outsourced its information processing to an external service provider (ESP). What action should the auditor take, considering the outsourcing decision?",
+    "options_en": [
+      "Review the controls over payroll in both the organization and the ESP.",
+      "Review only the organization’s controls over data sent to and received from the ESP.",
+      "Review only the controls over payments to the ESP based on the contract.",
+      "Cancel the engagement, because the processing is being performed outside of the organization."
+    ],
+    "answer_index": 0,
+    "explanation_en": ". Engagements involving third parties may be necessary when vital controls affecting \ntransactions exist outside the organization. One example is the outsourcing of the organization’s information \nprocessing function to an external service provider (ESP). Although the processing is being performed outside the \norganization, the ESP is an extension of the organization’s information systems. As a result, control risk may be \nhigher because an external organization’s controls are part of the organization’s controls. Also, the recency of the \nchange and the complexity of communicating between the organization and the ESP increase the risk. Accordingly, \nthe auditor must exercise due professional care regarding the extent of work needed to achieve the engagement’s \nobjectives (Standard 1220.A1). Moreover, evaluating the adequacy and effectiveness of controls (Standard \n2130.A1) will require performing procedures to evaluate controls at the ESP. \nAnswer (B) is incorrect. The internal controls at the ESP and the user organization interact with each other. Both \nmust be reviewed. \nAnswer (C) is incorrect. Reviewing only the controls over payments to the ESP based on the contract narrows the \nscope of the engagement. \nAnswer (D) is incorrect. Controls must be evaluated regardless of their location.",
+    "question_th": "ผู้ตรวจสอบมีกำหนดการตรวจสอบการควบคุมระบบเงินเดือนสำหรับองค์กรที่เพิ่งว่าจ้างหน่วยงานภายนอกให้ดำเนินการประมวลผลข้อมูล (ESP) ผู้ตรวจสอบควรดำเนินการอย่างไร เมื่อพิจารณาถึงการตัดสินใจว่าจ้างหน่วยงานภายนอกนี้?",
+    "options_th": [
+      "ทบทวนการควบคุมระบบเงินเดือนทั้งในองค์กรและที่ ESP",
+      "ทบทวนเฉพาะการควบคุมขององค์กรเกี่ยวกับการส่งและรับข้อมูลจาก ESP เท่านั้น",
+      "ทบทวนเฉพาะการควบคุมเกี่ยวกับการชำระเงินให้ ESP ตามสัญญาเท่านั้น",
+      "ยกเลิกการปฏิบัติงานตรวจสอบ เนื่องจากกระบวนการกำลังดำเนินการอยู่นอกองค์กร"
+    ],
+    "explanation_th": "การปฏิบัติงานตรวจสอบที่เกี่ยวข้องกับบุคคลที่สามอาจมีความจำเป็นเมื่อมีการควบคุมที่สำคัญซึ่งส่งผลกระทบต่อรายการบัญชีอยู่นอกองค์กร ตัวอย่างหนึ่งคือการว่าจ้างหน่วยงานภายนอกให้ดำเนินการประมวลผลข้อมูลขององค์กร (ESP) แม้ว่าการประมวลผลจะดำเนินการอยู่นอกองค์กร แต่ ESP ก็เป็นส่วนขยายของระบบสารสนเทศขององค์กร ด้วยเหตุนี้ ความเสี่ยงด้านการควบคุมอาจสูงขึ้นเนื่องจากการควบคุมขององค์กรภายนอกเป็นส่วนหนึ่งของการควบคุมขององค์กร นอกจากนี้ ความใหม่ของการเปลี่ยนแปลงและความซับซ้อนของการสื่อสารระหว่างองค์กรและ ESP ยังเพิ่มความเสี่ยงอีกด้วย ดังนั้น ผู้ตรวจสอบจึงต้องใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพเกี่ยวกับขอบเขตของงานที่จำเป็นเพื่อให้บรรลุวัตถุประสงค์ของการปฏิบัติงานตรวจสอบ (มาตรฐาน 1220.A1) ยิ่งไปกว่านั้น การประเมินความเพียงพอและประสิทธิผลของการควบคุม (มาตรฐาน 2130.A1) จะต้องมีการปฏิบัติงานตามขั้นตอนเพื่อประเมินการควบคุมที่ ESP ตัวเลือก (B) ไม่ถูกต้อง การควบคุมภายในที่ ESP และองค์กรผู้ใช้บริการมีปฏิสัมพันธ์กัน ทั้งสองส่วนจะต้องได้รับการทบทวน ตัวเลือก (C) ไม่ถูกต้อง การทบทวนเฉพาะการควบคุมเกี่ยวกับการชำระเงินให้ ESP ตามสัญญาเท่านั้นเป็นการจำกัดขอบเขตของการปฏิบัติงานตรวจสอบ ตัวเลือก (D) ไม่ถูกต้อง การควบคุมจะต้องได้รับการประเมินโดยไม่คำนึงถึงสถานที่ตั้ง"
+  },
+  {
+    "id": 44,
+    "original_num": 59,
+    "question_en": "In exercising due professional care, internal auditors must consider which of the following? The relative complexity, materiality, or significance of matters to which assurance procedures are applied I. The extent of assurance procedures necessary to ensure that all significant risks will be identified II. The probability of significant errors, irregularities, or noncompliance III.",
+    "options_en": [
+      "I and II only.",
+      "II and III only.",
+      "I and III only.",
+      "I, II, and III."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". According to Standard 1220.A1, internal auditors must exercise due professional care by \nconsidering the \nExtent of work needed to achieve the engagement’s objectives \nRelative complexity, materiality, or significance of matters to which assurance procedures are applied \nAdequacy and effectiveness of governance, risk management, and control processes \nProbability of significant errors, fraud, or noncompliance \nCost of assurance in relation to potential benefits \nAssurance procedures alone, even when performed with due professional care, do not guarantee that all significant \nrisks will be identified (Standard 1220.A3). \nAnswer (D) is incorrect. (II) the extent of assurance procedures necessary to ensure that all significant risks will be \nidentified, is not something that the internal auditor should consider when exercising due professional care.",
+    "question_th": "ในการใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ ผู้ตรวจสอบภายในต้องพิจารณาสิ่งใดต่อไปนี้? I. ความซับซ้อน สาระสำคัญ หรือความสำคัญเชิงเปรียบเทียบของเรื่องต่างๆ ที่มีการนำขั้นตอนการให้ความเชื่อมั่นไปใช้ II. ขอบเขตของขั้นตอนการให้ความเชื่อมั่นที่จำเป็นเพื่อให้แน่ใจว่าความเสี่ยงที่สำคัญทั้งหมดจะถูกระบุ III. โอกาสที่จะเกิดข้อผิดพลาด การทุจริต หรือการไม่ปฏิบัติตามข้อกำหนดที่สำคัญ",
+    "options_th": [
+      "เฉพาะ I และ II",
+      "เฉพาะ II และ III",
+      "เฉพาะ I และ III",
+      "I, II และ III"
+    ],
+    "explanation_th": "ตามมาตรฐาน 1220.A1 ผู้ตรวจสอบภายในต้องใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพโดยพิจารณาถึง: ขอบเขตของงานที่จำเป็นเพื่อให้บรรลุวัตถุประสงค์ของการปฏิบัติงานตรวจสอบ ความซับซ้อน สาระสำคัญ หรือความสำคัญเชิงเปรียบเทียบของเรื่องต่างๆ ที่มีการนำขั้นตอนการให้ความเชื่อมั่นไปใช้ ความเพียงพอและประสิทธิผลของกระบวนการกำกับดูแล การบริหารความเสี่ยง และการควบคุม โอกาสที่จะเกิดข้อผิดพลาด การทุจริต หรือการไม่ปฏิบัติตามข้อกำหนดที่สำคัญ ต้นทุนของการให้ความเชื่อมั่นเทียบกับประโยชน์ที่อาจได้รับ ขั้นตอนการให้ความเชื่อมั่นเพียงอย่างเดียว แม้จะดำเนินการด้วยความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ ก็ไม่รับประกันว่าความเสี่ยงที่สำคัญทั้งหมดจะถูกระบุ (มาตรฐาน 1220.A3) ตัวเลือก (D) ไม่ถูกต้อง ข้อ (II) ขอบเขตของขั้นตอนการให้ความเชื่อมั่นที่จำเป็นเพื่อให้แน่ใจว่าความเสี่ยงที่สำคัญทั้งหมดจะถูกระบุ ไม่ใช่สิ่งที่ผู้ตรวจสอบภายในควรพิจารณาเมื่อใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ"
+  },
+  {
+    "id": 45,
+    "original_num": 60,
+    "question_en": "Internal auditors must exercise due professional care in conducting a consulting engagement by considering Expectations of clients I. Benefits in the form of compensation to be derived from the engagement II. Cost of the engagement III.",
+    "options_en": [
+      "I and II only.",
+      "II and III only.",
+      "I and III only.",
+      "I, II, and III."
+    ],
+    "answer_index": 2,
+    "explanation_en": ". The internal auditor must exercise due professional care during a consulting engagement by \nconsidering the (1) needs and expectations of clients, including the nature, timing, and communication of \nengagement results; (2) relative complexity and extent of work needed to achieve the engagement’s objectives; and \n(3) cost of the consulting engagement in relation to potential benefits (Standard 1220.C1). Any benefit related to \ncompensation for the engagement is not one of the considerations for an internal auditor who is exercising due \nprofessional care. \nAnswer (D) is incorrect. The benefits in the form of compensation to be derived from the engagement are not \nrelevant to internal auditors.",
+    "question_th": "ผู้ตรวจสอบภายในต้องใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพในการดำเนินการงานบริการให้คำปรึกษา โดยพิจารณาสิ่งใดต่อไปนี้? I. ความคาดหวังของลูกค้า II. ประโยชน์ในรูปของค่าตอบแทนที่จะได้รับจากงานบริการ III. ต้นทุนของงานบริการ",
+    "options_th": [
+      "เฉพาะ I และ II",
+      "เฉพาะ II และ III",
+      "เฉพาะ I และ III",
+      "I, II และ III"
+    ],
+    "explanation_th": "ผู้ตรวจสอบภายในต้องใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพในระหว่างงานบริการให้คำปรึกษา โดยพิจารณาถึง (1) ความต้องการและความคาดหวังของลูกค้า รวมถึงลักษณะ ระยะเวลา และการสื่อสารผลการปฏิบัติงานตรวจสอบ (2) ความซับซ้อนเชิงเปรียบเทียบและขอบเขตของงานที่จำเป็นเพื่อให้บรรลุวัตถุประสงค์ของงานบริการ และ (3) ต้นทุนของงานบริการให้คำปรึกษาเทียบกับประโยชน์ที่อาจได้รับ (มาตรฐาน 1220.C1) ประโยชน์ใดๆ ที่เกี่ยวข้องกับค่าตอบแทนสำหรับงานบริการไม่ใช่หนึ่งในการพิจารณาของผู้ตรวจสอบภายในที่ใช้ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ ตัวเลือก (D) ไม่ถูกต้อง ประโยชน์ในรูปของค่าตอบแทนที่จะได้รับจากงานบริการไม่เกี่ยวข้องกับผู้ตรวจสอบภายใน"
+  }
+]

@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Production build output
+dist/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Large PDFs (No need to push to GitHub, we only need the generated JSON files)
+*.pdf
+
+# Local environment files (if any)
+.env
+.env.local
+.env.*.local

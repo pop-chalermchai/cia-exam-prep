@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question_en": "Which of the following is a primary objective of internal auditing?",
+    "question_th": "ข้อใดต่อไปนี้คือวัตถุประสงค์หลักของการตรวจสอบภายใน?",
+    "options_en": [
+      "To assist members of the organization in the effective discharge of their responsibilities.",
+      "To safeguard the assets of the organization.",
+      "To prevent fraud and errors within the financial reporting process.",
+      "To ensure compliance with all applicable laws and regulations."
+    ],
+    "options_th": [
+      "เพื่อช่วยเหลือสมาชิกขององค์กรในการปฏิบัติหน้าที่ตามความรับผิดชอบได้อย่างมีประสิทธิภาพ",
+      "เพื่อปกป้องทรัพย์สินขององค์กร",
+      "เพื่อป้องกันการทุจริตและข้อผิดพลาดในกระบวนการรายงานทางการเงิน",
+      "เพื่อตรวจสอบการปฏิบัติตามกฎหมายและกฎระเบียบที่เกี่ยวข้องทั้งหมด"
+    ],
+    "answer_index": 0,
+    "explanation_en": "The primary objective of internal auditing is to add value and improve an organization's operations by helping it accomplish its objectives through a systematic, disciplined approach.",
+    "explanation_th": "วัตถุประสงค์หลักของการตรวจสอบภายในคือการเพิ่มมูลค่าและปรับปรุงการดำเนินงานขององค์กร โดยการช่วยให้องค์กรบรรลุเป้าหมายผ่านการประเมินและปรับปรุงประสิทธิผลอย่างเป็นระบบ"
+  },
+  {
+    "id": 2,
+    "question_en": "Independence of the internal audit activity is safeguarded when the chief audit executive reports functionally to the:",
+    "question_th": "ความเป็นอิสระของกิจกรรมการตรวจสอบภายในจะได้รับการคุ้มครองเมื่อหัวหน้าผู้บริหารงานตรวจสอบรายงานการปฏิบัติงานตรงต่อ:",
+    "options_en": [
+      "Chief financial officer.",
+      "Audit committee or board of directors.",
+      "Chief executive officer.",
+      "External auditor."
+    ],
+    "options_th": [
+      "ประธานเจ้าหน้าที่บริหารฝ่ายการเงิน (CFO)",
+      "คณะกรรมการตรวจสอบ หรือคณะกรรมการบริษัท (Board)",
+      "ประธานเจ้าหน้าที่บริหาร (CEO)",
+      "ผู้สอบบัญชีภายนอก"
+    ],
+    "answer_index": 1,
+    "explanation_en": "To establish independence, the Chief Audit Executive (CAE) must report functionally to the Board of Directors or Audit Committee, and administratively to the senior management (like the CEO).",
+    "explanation_th": "เพื่อสร้างความเป็นอิสระ หัวหน้าผู้บริหารงานตรวจสอบ (CAE) จะต้องรายงานในสายปฏิบัติงาน (Functional) ตรงต่อคณะกรรมการบริษัทหรือคณะกรรมการตรวจสอบ และรายงานสายบริหาร (Administrative) ต่อผู้บริหารระดับสูง (เช่น CEO)"
+  },
+  {
+    "id": 3,
+    "question_en": "Which of the following is an example of an administrative control?",
+    "question_th": "ข้อใดต่อไปนี้คือตัวอย่างของการควบคุมเชิงบริหาร (Administrative Control)?",
+    "options_en": [
+      "Segregation of duties.",
+      "Performance reviews and written policies.",
+      "Password protection systems.",
+      "Physical security locks on server rooms."
+    ],
+    "options_th": [
+      "การแบ่งแยกหน้าที่การทำงาน",
+      "การทบทวนผลการดำเนินงานและนโยบายที่เป็นลายลักษณ์อักษร",
+      "ระบบป้องกันด้วยรหัสผ่าน",
+      "การล็อกประตูรักษาความปลอดภัยทางกายภาพสำหรับห้องเซิร์ฟเวอร์"
+    ],
+    "answer_index": 1,
+    "explanation_en": "Administrative controls include policies, procedures, and training that direct the management of personnel and operations.",
+    "explanation_th": "การควบคุมเชิงบริหารประกอบด้วย นโยบาย ขั้นตอนการปฏิบัติงาน และการฝึกอบรม ซึ่งกำหนดแนวทางในการบริหารจัดการบุคลากรและการปฏิบัติงาน"
+  },
+  {
+    "id": 4,
+    "question_en": "According to the IPPF, internal auditors must possess the knowledge, skills, and other competencies needed to perform their individual responsibilities. This is referred to as:",
+    "question_th": "ตามกรอบการปฏิบัติงานวิชาชีพสากล (IPPF) ผู้ตรวจสอบภายในต้องมีความรู้ ทักษะ และความสามารถอื่นๆ ที่จำเป็นต่อการปฏิบัติงานในหน้าที่ของตน ซึ่งสิ่งนี้เรียกว่า:",
+    "options_en": [
+      "Due professional care.",
+      "Proficiency.",
+      "Objectivity.",
+      "Independence."
+    ],
+    "options_th": [
+      "ความระมัดระวังรอบคอบเยี่ยงผู้ประกอบวิชาชีพ",
+      "ความเชี่ยวชาญและความรอบรู้ (Proficiency)",
+      "ความเที่ยงธรรม",
+      "ความเป็นอิสระ"
+    ],
+    "answer_index": 1,
+    "explanation_en": "Proficiency is the term used to describe the collective knowledge, skills, and other competencies required of internal auditors to perform their work effectively.",
+    "explanation_th": "ความเชี่ยวชาญและความรอบรู้ (Proficiency) คือคำที่ใช้บรรยายถึงความรู้ ทักษะ และความรู้ความสามารถอื่นๆ รวมกัน ซึ่งผู้ตรวจสอบภายในจำเป็นต้องมีเพื่อปฏิบัติงานได้อย่างมีประสิทธิภาพ"
+  },
+  {
+    "id": 5,
+    "question_en": "The internal audit activity's evaluation of the adequacy and effectiveness of controls in responding to risks in the organization's governance, operations, and information systems should include which of the following?",
+    "question_th": "การประเมินความเพียงพอและประสิทธิผลของการควบคุมเพื่อตอบสนองต่อความเสี่ยงในการกำกับดูแล การปฏิบัติงาน และระบบสารสนเทศขององค์กร โดยกิจกรรมการตรวจสอบภายใน ควรครอบคลุมข้อใดต่อไปนี้?",
+    "options_en": [
+      "Reliability and integrity of financial and operational information.",
+      "Effectiveness and efficiency of operations and programs.",
+      "Safeguarding of assets.",
+      "All of the options are correct."
+    ],
+    "options_th": [
+      "ความน่าเชื่อถือและความครบถ้วนถูกต้องของข้อมูลทางการเงินและการปฏิบัติงาน",
+      "ประสิทธิผลและประสิทธิภาพของการปฏิบัติงานและแผนงาน",
+      "การปกป้องรักษาทรัพย์สิน",
+      "ถูกต้องทุกข้อที่กล่าวมา"
+    ],
+    "answer_index": 3,
+    "explanation_en": "Standard 2130.A1 states that the internal audit activity must evaluate the adequacy and effectiveness of controls in responding to risks in governance, operations, and information systems. This covers financial/operational information, efficiency, safeguarding assets, and compliance.",
+    "explanation_th": "มาตรฐาน 2130.A1 กำหนดให้กิจกรรมการตรวจสอบภายในต้องประเมินความเพียงพอและประสิทธิผลของการควบคุมเพื่อตอบสนองต่อความเสี่ยงในการกำกับดูแล การดำเนินงาน และระบบสารสนเทศ ซึ่งครอบคลุมทั้งความน่าเชื่อถือของข้อมูล ประสิทธิภาพการดำเนินงาน การปกป้องทรัพย์สิน และการปฏิบัติตามกฎเกณฑ์ (ถูกต้องทุกข้อ)"
+  }
+]

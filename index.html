@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CIA Exam Prep - Certified Internal Auditor</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Outfit:wght@300;400;500;600;700;800&family=Sarabun:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+  <div id="app">
+    <!-- Navbar -->
+    <header class="navbar">
+      <div class="nav-container">
+        <div class="logo" id="nav-logo-btn">
+          <div class="logo-icon">
+            <i data-lucide="shield-check"></i>
+          </div>
+          <div class="logo-text">
+            <span class="logo-title">CIA Prep</span>
+            <span class="logo-subtitle">Certified Internal Auditor</span>
+          </div>
+        </div>
+        
+        <div class="nav-controls">
+          <!-- Language View Selector -->
+          <div class="lang-view-selector">
+            <button class="lang-view-btn active" data-lang-mode="both" title="Show both EN and TH">Dual</button>
+            <button class="lang-view-btn" data-lang-mode="en" title="English only">EN</button>
+            <button class="lang-view-btn" data-lang-mode="th" title="Thai only">TH</button>
+          </div>
+          
+          <!-- Theme Toggle -->
+          <button class="theme-toggle-btn" id="theme-toggle" title="Toggle theme">
+            <i data-lucide="sun" class="sun-icon"></i>
+            <i data-lucide="moon" class="moon-icon"></i>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-content">
+      <!-- 1. HOME SCREEN -->
+      <section id="home-screen" class="app-screen active">
+        <div class="hero-section">
+          <h1>เตรียมความพร้อมสอบ <span class="gradient-text">CIA Exam</span></h1>
+          <p class="subtitle">ฝึกฝนข้อสอบ Certified Internal Auditor ในรูปแบบสองภาษา (อังกฤษ - ไทย) พร้อมระบบจับเวลา สถิติ และวิเคราะห์ผลอย่างละเอียด</p>
+        </div>
+
+        <!-- Part Selection Cards -->
+        <div class="part-selector-container">
+          <button class="part-card-btn active" id="part-select-1" data-part="1">
+            <div class="part-icon"><i data-lucide="book-open"></i></div>
+            <div class="part-info">
+              <span class="part-badge">Part 1</span>
+              <h3>Essentials of Internal Auditing</h3>
+              <p>ครอบคลุมพื้นฐานการตรวจสอบภายใน ความเป็นอิสระ ความเที่ยงธรรม และการควบคุม</p>
+            </div>
+          </button>
+          <button class="part-card-btn" id="part-select-2" data-part="2">
+            <div class="part-icon"><i data-lucide="layers"></i></div>
+            <div class="part-info">
+              <span class="part-badge">Part 2</span>
+              <h3>Practice of Internal Auditing</h3>
+              <p>ครอบคลุมการบริหารกิจกรรมการตรวจสอบภายใน การวางแผนและการปฏิบัติงานตรวจสอบ</p>
+            </div>
+          </button>
+        </div>
+
+        <div class="dashboard-grid">
+          <!-- Left Column: Modes -->
+          <div class="dashboard-card modes-card">
+            <h2><i data-lucide="graduation-cap"></i> เลือกโหมดการทดสอบ</h2>
+            
+            <!-- Quick Practice Options -->
+            <div class="mode-section">
+              <h3>ฝึกฝนด่วน (Practice Mode)</h3>
+              <p>สามารถดูเฉลยและคำอธิบายได้ทันทีหลังตอบข้อนั้นๆ เหมาะสำหรับการเรียนรู้</p>
+              <div class="practice-options">
+                <button class="btn btn-secondary start-practice-btn" data-questions="10">10 ข้อ</button>
+                <button class="btn btn-secondary start-practice-btn" data-questions="30">30 ข้อ</button>
+                <button class="btn btn-secondary start-practice-btn" data-questions="60">60 ข้อ</button>
+                <button class="btn btn-secondary start-practice-btn" data-questions="90">90 ข้อ</button>
+                <button class="btn btn-secondary start-practice-btn" data-questions="125">125 ข้อ</button>
+              </div>
+            </div>
+
+            <!-- Real Exam Option -->
+            <div class="mode-section exam-mode-section">
+              <div class="exam-badge">แนะนํา</div>
+              <h3>ระบบจำลองการสอบจริง (Real Exam Simulation)</h3>
+              <p>125 ข้อสอบ | 150 นาที | ไม่แสดงเฉลยจนกว่าจะส่งกระดาษคำตอบ</p>
+              <div class="exam-requirements">
+                <span><i data-lucide="clock"></i> 150 นาที</span>
+                <span><i data-lucide="file-text"></i> 125 ข้อ</span>
+                <span><i data-lucide="check-circle2"></i> เกณฑ์ผ่าน 75%</span>
+              </div>
+              <button class="btn btn-primary start-exam-btn" id="start-real-exam">
+                <i data-lucide="play"></i> เริ่มจำลองการสอบจริง
+              </button>
+            </div>
+          </div>
+
+          <!-- Right Column: Stats -->
+          <div class="dashboard-card stats-card">
+            <h2><i data-lucide="bar-chart-2"></i> สถิติการฝึกฝนของคุณ</h2>
+            
+            <div class="stats-overview">
+              <div class="stat-box">
+                <span class="stat-val" id="stats-total-exams">0</span>
+                <span class="stat-lbl">ทำแบบทดสอบ (ครั้ง)</span>
+              </div>
+              <div class="stat-box">
+                <span class="stat-val" id="stats-avg-score">0%</span>
+                <span class="stat-lbl">คะแนนเฉลี่ย</span>
+              </div>
+              <div class="stat-box">
+                <span class="stat-val" id="stats-pass-rate">0%</span>
+                <span class="stat-lbl">อัตราการสอบผ่าน</span>
+              </div>
+            </div>
+
+            <div class="stats-history-section">
+              <h3>ประวัติการทำข้อสอบล่าสุด</h3>
+              <div class="history-list" id="stats-history-list">
+                <div class="empty-history">
+                  <i data-lucide="clipboard-list"></i>
+                  <p>ยังไม่มีประวัติการทำข้อสอบ เริ่มทำข้อสอบเพื่อเก็บสถิติกันเลย!</p>
+                </div>
+              </div>
+            </div>
+            
+            <button class="btn btn-outline" id="clear-stats-btn" style="margin-top: 1rem; width: 100%;">
+              <i data-lucide="trash-2"></i> ล้างประวัติสถิติทั้งหมด
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- 2. EXAM SCREEN -->
+      <section id="exam-screen" class="app-screen">
+        <div class="exam-header-sticky">
+          <div class="exam-meta">
+            <button class="btn btn-icon" id="exam-quit-btn" title="กลับหน้าหลัก">
+              <i data-lucide="home"></i>
+            </button>
+            <div class="exam-mode-badge" id="exam-mode-indicator">Practice Mode</div>
+            <div class="timer-container" id="timer-box">
+              <i data-lucide="clock"></i>
+              <span id="exam-timer">150:00</span>
+            </div>
+          </div>
+          
+          <div class="progress-section">
+            <div class="progress-bar-bg">
+              <div class="progress-bar-fill" id="exam-progress-bar" style="width: 0%"></div>
+            </div>
+            <div class="progress-text">
+              <span>ความคืบหน้า: <strong id="exam-progress-text">0/10</strong> ข้อ</span>
+              <span id="answered-count-text">ตอบแล้ว: 0 ข้อ</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="exam-layout">
+          <!-- Main Area: Question and Options -->
+          <div class="exam-main-panel">
+            <div class="question-container card">
+              <!-- Question Header/ID -->
+              <div class="question-number">ข้อที่ <span id="current-question-num">1</span></div>
+              
+              <!-- Question Text -->
+              <div class="question-text-wrapper">
+                <div class="question-en" lang="en">
+                  <p id="question-text-en">Loading question...</p>
+                </div>
+                <div class="question-th" lang="th">
+                  <p id="question-text-th">กำลังโหลดคำถาม...</p>
+                </div>
+              </div>
+
+              <!-- Options List -->
+              <div class="options-list" id="options-container">
+                <!-- Will be populated by JS -->
+              </div>
+              
+              <!-- Instant Feedback Explanation (Only visible in practice mode after answering) -->
+              <div class="explanation-box card hidden" id="explanation-container">
+                <div class="explanation-title">
+                  <i data-lucide="info"></i>
+                  <span>คำอธิบายเฉลย / Explanation</span>
+                </div>
+                <div class="explanation-content">
+                  <div class="explanation-en" id="explanation-text-en">Explanation in English.</div>
+                  <div class="explanation-th" id="explanation-text-th">คำอธิบายภาษาไทย</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Footer Controls -->
+            <div class="exam-controls">
+              <button class="btn btn-outline" id="prev-question-btn">
+                <i data-lucide="arrow-left"></i> ข้อก่อนหน้า
+              </button>
+              <button class="btn btn-outline" id="flag-question-btn">
+                <i data-lucide="flag" class="flag-icon"></i> <span class="flag-text">ปักธงไว้ทบทวน</span>
+              </button>
+              <button class="btn btn-outline" id="next-question-btn">
+                ข้อถัดไป <i data-lucide="arrow-right"></i>
+              </button>
+            </div>
+          </div>
+
+          <!-- Sidebar: Question Navigation Grid -->
+          <div class="exam-sidebar card">
+            <div class="sidebar-header">
+              <h3><i data-lucide="grid"></i> แผงนำทางข้อสอบ</h3>
+            </div>
+            <div class="question-grid" id="question-nav-grid">
+              <!-- Grid items (1, 2, 3...) populated by JS -->
+            </div>
+            <div class="sidebar-actions">
+              <button class="btn btn-primary btn-full-width" id="submit-exam-btn">
+                <i data-lucide="send"></i> ส่งกระดาษคำตอบ
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 3. REVIEW SCREEN -->
+      <section id="review-screen" class="app-screen">
+        <div class="review-summary-card card">
+          <div class="result-header">
+            <div class="result-badge" id="result-status-badge">PASS</div>
+            <h2>สรุปผลการทดสอบ</h2>
+            <p id="review-exam-mode">Real Exam Mode (125 ข้อ)</p>
+          </div>
+
+          <div class="result-stats-grid">
+            <div class="result-stat-item">
+              <span class="result-stat-val" id="result-score">0 / 0</span>
+              <span class="result-stat-lbl">คะแนนที่ได้ (ข้อ)</span>
+            </div>
+            <div class="result-stat-item">
+              <span class="result-stat-val" id="result-percentage">0%</span>
+              <span class="result-stat-lbl">คิดเป็นเปอร์เซ็นต์</span>
+            </div>
+            <div class="result-stat-item">
+              <span class="result-stat-val" id="result-time-spent">00:00</span>
+              <span class="result-stat-lbl">เวลาที่ใช้</span>
+            </div>
+          </div>
+
+          <div class="result-buttons">
+            <button class="btn btn-primary" id="review-go-home-btn">
+              <i data-lucide="home"></i> กลับหน้าหลัก
+            </button>
+            <button class="btn btn-secondary" id="scroll-to-review-details-btn">
+              <i data-lucide="list-ordered"></i> ดูเฉลยและทบทวนคำตอบ
+            </button>
+          </div>
+        </div>
+
+        <div class="review-details-container">
+          <h2><i data-lucide="book-open"></i> รายละเอียดเฉลยคำตอบ</h2>
+          <div class="review-list" id="review-questions-list">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-container">
+        <p>© 2026 CIA Exam Prep Assistant. Powered by Gemini.</p>
+      </div>
+    </footer>
+  </div>
+
+  <!-- App Script -->
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
