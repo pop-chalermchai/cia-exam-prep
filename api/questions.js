@@ -13,7 +13,7 @@ export default async function handler(req, res) {
   }
 
   let databaseUrl = process.env.DATABASE_URL || process.env.NEON_DATABASE_URL || '';
-  databaseUrl = databaseUrl.replace(/\s+/g, '');
+  databaseUrl = databaseUrl.replace(/\\n/g, '').replace(/\n/g, '').replace(/\s+/g, '').trim();
 
   if (!databaseUrl) {
     return res.status(500).json({ error: 'DATABASE_URL environment variable is missing on Vercel.' });
