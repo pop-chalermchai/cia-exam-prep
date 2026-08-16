@@ -13,7 +13,8 @@ let examTimeRemaining = 0;    // Seconds remaining
 let examTimeTotal = 0;        // Total duration in seconds
 let examTimeSpent = 0;        // Seconds spent
 let currentLanguageMode = 'both'; // 'both', 'en', 'th'
-let currentPart = 1;          // Selected exam part (1 or 2)
+let currentPart = 1;          // Selected exam part (1, 2, or 3)
+let currentVersion = '2026';   // '2026' or 'standard'
 
 // Selectors
 const screens = {
@@ -85,18 +86,28 @@ function setLanguageMode(mode) {
 // 3. Question Bank Loading
 async function loadQuestions() {
   try {
-    // Try to load full questions file first, fallback to mock questions
     let response;
+    // 1. Try Vercel Neon Serverless Database API endpoint first
     try {
-      response = await fetch(`/data/questions_part${currentPart}.json`);
-      if (!response.ok) throw new Error('Full questions not found');
+      response = await fetch(`/api/questions?version=${currentVersion}&part=${currentPart}`);
+      if (!response.ok) throw new Error('Neon API endpoint not available');
     } catch {
-      response = await fetch('/data/mock_questions.json');
+      // 2. Fallback to local static JSON files
+      let targetPath = currentVersion === '2026'
+        ? `/data/questions_part${currentPart}_2026.json`
+        : `/data/questions_part${currentPart}.json`;
+        
+      try {
+        response = await fetch(targetPath);
+        if (!response.ok) throw new Error('Target questions file not found');
+      } catch {
+        response = await fetch(currentVersion === '2026' ? `/data/questions_part1_2026.json` : '/data/mock_questions.json');
+      }
     }
     
     if (response.ok) {
       masterQuestions = await response.json();
-      console.log(`Loaded ${masterQuestions.length} questions successfully for Part ${currentPart}.`);
+      console.log(`Loaded ${masterQuestions.length} questions for Part ${currentPart} (${currentVersion} version).`);
     } else {
       console.error('Failed to load questions JSON files.');
     }
@@ -105,21 +116,45 @@ async function loadQuestions() {
   }
 }
 
-// Switch Exam Part (Part 1 or Part 2)
+// Switch Exam Version (2026 vs Standard)
+async function switchVersion(version) {
+  if (currentVersion === version) return;
+  currentVersion = version;
+  
+  const v2026Btn = document.getElementById('version-select-2026');
+  const vStdBtn = document.getElementById('version-select-standard');
+  
+  if (version === '2026') {
+    if (v2026Btn) v2026Btn.classList.add('active');
+    if (vStdBtn) vStdBtn.classList.remove('active');
+  } else {
+    if (v2026Btn) v2026Btn.classList.remove('active');
+    if (vStdBtn) vStdBtn.classList.add('active');
+  }
+  
+  await loadQuestions();
+}
+
+// Switch Exam Part (Part 1, Part 2, or Part 3)
 async function switchPart(partNum) {
   if (currentPart === partNum) return;
   currentPart = partNum;
   
-  const part1Btn = document.getElementById('part-select-1');
-  const part2Btn = document.getElementById('part-select-2');
+  const partBtns = [
+    document.getElementById('part-select-1'),
+    document.getElementById('part-select-2'),
+    document.getElementById('part-select-3')
+  ];
   
-  if (partNum === 1) {
-    if (part1Btn) part1Btn.classList.add('active');
-    if (part2Btn) part2Btn.classList.remove('active');
-  } else {
-    if (part1Btn) part1Btn.classList.remove('active');
-    if (part2Btn) part2Btn.classList.add('active');
-  }
+  partBtns.forEach((btn, idx) => {
+    if (btn) {
+      if (idx + 1 === partNum) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    }
+  });
   
   await loadQuestions();
 }
@@ -131,13 +166,19 @@ function setupEventListeners() {
     confirmExitToHome();
   });
 
+  // Version selection cards
+  const v2026Btn = document.getElementById('version-select-2026');
+  const vStdBtn = document.getElementById('version-select-standard');
+  if (v2026Btn) v2026Btn.addEventListener('click', () => switchVersion('2026'));
+  if (vStdBtn) vStdBtn.addEventListener('click', () => switchVersion('standard'));
+
   // Part selection card clicks
   const part1Btn = document.getElementById('part-select-1');
   const part2Btn = document.getElementById('part-select-2');
-  if (part1Btn && part2Btn) {
-    part1Btn.addEventListener('click', () => switchPart(1));
-    part2Btn.addEventListener('click', () => switchPart(2));
-  }
+  const part3Btn = document.getElementById('part-select-3');
+  if (part1Btn) part1Btn.addEventListener('click', () => switchPart(1));
+  if (part2Btn) part2Btn.addEventListener('click', () => switchPart(2));
+  if (part3Btn) part3Btn.addEventListener('click', () => switchPart(3));
 
   // Practice Mode Buttons (10, 30, 60, 90, 125)
   const practiceBtns = document.querySelectorAll('.start-practice-btn');
@@ -674,11 +715,30 @@ function saveExamResult(totalQuestions, score, percent, isPass, isRealExam) {
     percent,
     isPass,
     isRealExam,
-    part: currentPart
+    part: currentPart,
+    version: currentVersion
   };
   
   history.unshift(newResult); // Prepend to history list
   localStorage.setItem('cia-exam-history', JSON.stringify(history));
+
+  // Sync to Neon Database online if connected
+  try {
+    fetch('/api/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        version: currentVersion,
+        part: currentPart,
+        score,
+        totalQuestions,
+        percentage: percent,
+        isPass,
+        isRealExam,
+        timeSpent: examTimeSpent
+      })
+    }).catch(() => {});
+  } catch (e) {}
 }
 
 function clearStats() {
