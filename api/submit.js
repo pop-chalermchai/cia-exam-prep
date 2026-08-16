@@ -15,7 +15,8 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method Not Allowed' });
   }
 
-  const databaseUrl = process.env.DATABASE_URL || process.env.NEON_DATABASE_URL;
+  let databaseUrl = process.env.DATABASE_URL || process.env.NEON_DATABASE_URL || '';
+  databaseUrl = databaseUrl.replace(/\s+/g, '');
   if (!databaseUrl) {
     return res.status(500).json({ error: 'DATABASE_URL environment variable is missing.' });
   }
