@@ -97,8 +97,9 @@ def main():
         ("2026", 1, "questions_part1_2026.json"),
         ("2026", 2, "questions_part2_2026.json"),
         ("2026", 3, "questions_part3_2026.json"),
-        ("standard", 1, "questions_part1.json"),
+        ("ver14", 1, "questions_part1.json"),
         ("standard", 2, "questions_part2.json"),
+        ("standard", 3, "questions_part3.json"),
     ]
 
     total_inserted = 0
